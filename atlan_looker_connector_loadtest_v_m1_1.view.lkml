@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m1_1 {
-  sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_1';
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_1";
 
   dimension: Configurable_fresh_thinking_archive_0 {
     label: 'with picture'

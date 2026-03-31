@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_2 {
-  sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2';
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2";
 
   dimension: Virtual_full_range_projection_0 {
     label: 'manager civil'

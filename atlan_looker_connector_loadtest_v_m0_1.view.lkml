@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_1 {
-  sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_1';
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_1";
 
   dimension: Open_architected_clear_thinking_protocol_0 {
     label: 'food prepare'
