@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_2 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_2" ;;
+  sql_table_name: "public.synth_m1_v2" ;;
 
   dimension: primary_dimension {
-    label: "tell mean"
+    label: "ready end"
   }
 
-  dimension: quality_focused_contextually_based_middleware_1 {
-    label: "ask again"
+  dimension: user_centric_holistic_superstructure_1 {
+    label: "to throughout"
   }
 
-  dimension: customizable_zero_tolerance_collaboration_2 {
-    label: "training college"
+  dimension: configurable_stable_function_2 {
+    label: "at forward"
   }
 
-  dimension: adaptive_4thgeneration_intranet_3 {
-    label: "toward already"
+  dimension: right_sized_radical_monitoring_3 {
+    label: "important house"
   }
 
-  dimension: decentralized_value_added_middleware_4 {
-    label: "serious entire"
+  dimension: persevering_intangible_standardization_4 {
+    label: "main paper"
   }
 
-  dimension: adaptive_dynamic_structure_5 {
-    label: "fish one"
+  dimension: seamless_uniform_knowledge_user_5 {
+    label: "fish huge"
   }
 
-  dimension: business_focused_web_enabled_application_6 {
-    label: "federal them"
+  dimension: profound_zero_administration_knowledgebase_6 {
+    label: "work bar"
   }
 
-  dimension: future_proofed_client_driven_capability_7 {
-    label: "Mrs interview"
+  dimension: synergistic_zero_tolerance_hierarchy_7 {
+    label: "direction check"
   }
 
-  dimension: synergized_scalable_adapter_8 {
-    label: "appear any"
+  dimension: synchronized_incremental_help_desk_8 {
+    label: "loss second"
   }
 
   measure: measure_9 {
-    label: "sport often"
+    label: "dog season"
   }
 
-  dimension: sharable_value_added_archive_10 {
-    label: "appear attention"
+  dimension: horizontal_well_modulated_encoding_10 {
+    label: "often person"
   }
 
-  dimension: pre_emptive_object_oriented_utilization_11 {
-    label: "policy yet"
+  dimension: configurable_demand_driven_database_11 {
+    label: "social politics"
   }
 
-  dimension: organic_tertiary_functionalities_12 {
-    label: "point statement"
+  dimension: grass_roots_24hour_local_area_network_12 {
+    label: "number black"
   }
 
-  dimension: organic_value_added_intranet_13 {
-    label: "mean prove"
+  dimension: open_source_bottom_line_paradigm_13 {
+    label: "baby size"
   }
 
-  dimension: assimilated_value_added_hub_14 {
-    label: "image full"
+  dimension: public_key_maximized_support_14 {
+    label: "with third"
   }
 
-  dimension: networked_modular_graphic_interface_15 {
-    label: "six soon"
+  dimension: quality_focused_scalable_framework_15 {
+    label: "yet suffer"
   }
 
-  dimension: multi_layered_discrete_knowledgebase_16 {
-    label: "sea store"
+  dimension: horizontal_user_facing_workforce_16 {
+    label: "think election"
   }
 
-  dimension: visionary_impactful_application_17 {
-    label: "thing into"
+  dimension: organized_even_keeled_encoding_17 {
+    label: "executive blue"
   }
 
-  dimension: expanded_hybrid_focus_group_18 {
-    label: "PM wear"
+  dimension: open_source_actuating_paradigm_18 {
+    label: "those likely"
   }
 
   measure: measure_19 {
-    label: "whatever Mrs"
+    label: "figure term"
   }
 
-  dimension: re_engineered_leadingedge_application_20 {
-    label: "must current"
+  dimension: user_centric_user_facing_challenge_20 {
+    label: "cultural white"
   }
 
-  dimension: virtual_homogeneous_core_21 {
-    label: "like assume"
+  dimension: managed_encompassing_open_system_21 {
+    label: "society pressure"
   }
 
-  dimension: face_to_face_tertiary_architecture_22 {
-    label: "might continue"
+  dimension: compatible_high_level_data_warehouse_22 {
+    label: "win lot"
   }
 
-  dimension: realigned_multimedia_database_23 {
-    label: "TV while"
+  dimension: mandatory_bottom_line_capacity_23 {
+    label: "training common"
   }
 
-  dimension: user_friendly_national_orchestration_24 {
-    label: "measure force"
+  dimension: profit_focused_fault_tolerant_support_24 {
+    label: "attorney certainly"
   }
 
 }

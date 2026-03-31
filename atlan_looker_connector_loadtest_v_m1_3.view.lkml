@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_3 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_3" ;;
+  sql_table_name: "public.synth_m1_v3" ;;
 
   dimension: primary_dimension {
-    label: "people to"
+    label: "suggest anyone"
   }
 
-  dimension: public_key_holistic_database_1 {
-    label: "professional affect"
+  dimension: synergistic_bi_directional_time_frame_1 {
+    label: "machine smile"
   }
 
-  dimension: down_sized_client_driven_throughput_2 {
-    label: "expert federal"
+  dimension: vision_oriented_bottom_line_artificial_intelligence_2 {
+    label: "face third"
   }
 
-  dimension: multi_layered_grid_enabled_protocol_3 {
-    label: "body will"
+  dimension: switchable_national_adapter_3 {
+    label: "discussion south"
   }
 
-  dimension: monitored_optimizing_workforce_4 {
-    label: "hot personal"
+  dimension: ergonomic_holistic_secured_line_4 {
+    label: "dinner success"
   }
 
-  dimension: mandatory_client_driven_orchestration_5 {
-    label: "left so"
+  dimension: proactive_4thgeneration_local_area_network_5 {
+    label: "school church"
   }
 
-  dimension: face_to_face_asymmetric_methodology_6 {
-    label: "door question"
+  dimension: customer_focused_cohesive_encryption_6 {
+    label: "drug side"
   }
 
-  dimension: stand_alone_mission_critical_neural_net_7 {
-    label: "until mind"
+  dimension: universal_zero_administration_ability_7 {
+    label: "national ground"
   }
 
-  dimension: reduced_eco_centric_array_8 {
-    label: "security great"
+  dimension: cross_group_attitude_oriented_product_8 {
+    label: "every together"
   }
 
   measure: measure_9 {
-    label: "space before"
+    label: "available send"
   }
 
-  dimension: extended_well_modulated_array_10 {
-    label: "door personal"
+  dimension: re_engineered_value_added_emulation_10 {
+    label: "most year"
   }
 
-  dimension: fully_configurable_bottom_line_installation_11 {
-    label: "training bad"
+  dimension: operative_multimedia_knowledgebase_11 {
+    label: "effect audience"
   }
 
-  dimension: proactive_asymmetric_initiative_12 {
-    label: "whole together"
+  dimension: sharable_homogeneous_superstructure_12 {
+    label: "so window"
   }
 
-  dimension: fully_configurable_context_sensitive_budgetary_management_13 {
-    label: "couple around"
+  dimension: implemented_optimizing_benchmark_13 {
+    label: "already skin"
   }
 
-  dimension: automated_needs_based_encoding_14 {
-    label: "line fear"
+  dimension: sharable_motivating_productivity_14 {
+    label: "move style"
   }
 
-  dimension: adaptive_systematic_moratorium_15 {
-    label: "term family"
+  dimension: distributed_optimizing_access_15 {
+    label: "respond threat"
   }
 
-  dimension: compatible_national_capability_16 {
-    label: "friend miss"
+  dimension: switchable_intermediate_ability_16 {
+    label: "similar I"
   }
 
-  dimension: programmable_dedicated_graphical_user_interface_17 {
-    label: "training back"
+  dimension: exclusive_well_modulated_internet_solution_17 {
+    label: "body on"
   }
 
-  dimension: phased_multimedia_orchestration_18 {
-    label: "voice hold"
+  dimension: front_line_multi_tasking_middleware_18 {
+    label: "TV Democrat"
   }
 
   measure: measure_19 {
-    label: "magazine red"
+    label: "close factor"
   }
 
-  dimension: balanced_upward_trending_complexity_20 {
-    label: "beat hour"
+  dimension: enhanced_client_server_capability_20 {
+    label: "surface next"
   }
 
-  dimension: robust_zero_administration_solution_21 {
-    label: "morning much"
+  dimension: progressive_bottom_line_extranet_21 {
+    label: "modern indeed"
   }
 
-  dimension: up_sized_local_challenge_22 {
-    label: "determine position"
+  dimension: versatile_upward_trending_attitude_22 {
+    label: "from article"
   }
 
-  dimension: persistent_upward_trending_open_system_23 {
-    label: "civil drive"
+  dimension: reverse_engineered_content_based_internet_solution_23 {
+    label: "win data"
   }
 
-  dimension: grass_roots_stable_conglomeration_24 {
-    label: "bill describe"
+  dimension: balanced_needs_based_neural_net_24 {
+    label: "none wish"
   }
 
 }

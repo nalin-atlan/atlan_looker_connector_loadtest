@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_2 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2" ;;
+  sql_table_name: "public.synth_m0_v2" ;;
 
   dimension: primary_dimension {
-    label: "situation certain"
+    label: "head go"
   }
 
-  dimension: persevering_dynamic_interface_1 {
-    label: "project low"
+  dimension: compatible_global_approach_1 {
+    label: "so spring"
   }
 
-  dimension: programmable_didactic_moratorium_2 {
-    label: "true evening"
+  dimension: total_bandwidth_monitored_array_2 {
+    label: "hand agency"
   }
 
-  dimension: re_contextualized_24hour_moratorium_3 {
-    label: "help green"
+  dimension: profound_eco_centric_implementation_3 {
+    label: "adult serious"
   }
 
-  dimension: optimized_motivating_infrastructure_4 {
-    label: "still green"
+  dimension: integrated_methodical_process_improvement_4 {
+    label: "peace along"
   }
 
-  dimension: public_key_user_facing_array_5 {
-    label: "moment soldier"
+  dimension: assimilated_optimizing_moratorium_5 {
+    label: "often thought"
   }
 
-  dimension: public_key_24_7_access_6 {
-    label: "somebody medical"
+  dimension: integrated_bi_directional_task_force_6 {
+    label: "customer serve"
   }
 
-  dimension: centralized_national_groupware_7 {
-    label: "process collection"
+  dimension: customizable_empowering_time_frame_7 {
+    label: "write long"
   }
 
-  dimension: secured_uniform_product_8 {
-    label: "half business"
+  dimension: function_based_disintermediate_approach_8 {
+    label: "focus ahead"
   }
 
   measure: measure_9 {
-    label: "thousand herself"
+    label: "eight Congress"
   }
 
-  dimension: self_enabling_high_level_secured_line_10 {
-    label: "house senior"
+  dimension: re_engineered_fresh_thinking_monitoring_10 {
+    label: "could choice"
   }
 
-  dimension: multi_channeled_scalable_middleware_11 {
-    label: "still beat"
+  dimension: front_line_clear_thinking_methodology_11 {
+    label: "front offer"
   }
 
-  dimension: diverse_stable_intranet_12 {
-    label: "resource in"
+  dimension: integrated_even_keeled_throughput_12 {
+    label: "machine current"
   }
 
-  dimension: upgradable_bi_directional_forecast_13 {
-    label: "look not"
+  dimension: function_based_static_local_area_network_13 {
+    label: "art event"
   }
 
-  dimension: visionary_maximized_encoding_14 {
-    label: "address more"
+  dimension: enhanced_maximized_neural_net_14 {
+    label: "decade some"
   }
 
-  dimension: multi_layered_heuristic_budgetary_management_15 {
-    label: "unit media"
+  dimension: persistent_high_level_firmware_15 {
+    label: "difference future"
   }
 
-  dimension: exclusive_directional_time_frame_16 {
-    label: "would foreign"
+  dimension: stand_alone_4thgeneration_methodology_16 {
+    label: "paper third"
   }
 
-  dimension: vision_oriented_next_generation_functionalities_17 {
-    label: "happen often"
+  dimension: team_oriented_attitude_oriented_graphic_interface_17 {
+    label: "bank full"
   }
 
-  dimension: object_based_value_added_system_engine_18 {
-    label: "trip him"
+  dimension: secured_intangible_flexibility_18 {
+    label: "view particular"
   }
 
   measure: measure_19 {
-    label: "student thus"
+    label: "step pressure"
   }
 
-  dimension: face_to_face_heuristic_budgetary_management_20 {
-    label: "ten than"
+  dimension: exclusive_3rdgeneration_adapter_20 {
+    label: "listen modern"
   }
 
-  dimension: down_sized_leadingedge_protocol_21 {
-    label: "be final"
+  dimension: multi_layered_executive_paradigm_21 {
+    label: "here just"
   }
 
-  dimension: distributed_clear_thinking_structure_22 {
-    label: "imagine bank"
+  dimension: exclusive_web_enabled_adapter_22 {
+    label: "vote others"
   }
 
-  dimension: extended_even_keeled_paradigm_23 {
-    label: "both employee"
+  dimension: down_sized_logistical_core_23 {
+    label: "both data"
   }
 
-  dimension: profit_focused_hybrid_service_desk_24 {
-    label: "rate close"
+  dimension: innovative_well_modulated_success_24 {
+    label: "major a"
   }
 
 }

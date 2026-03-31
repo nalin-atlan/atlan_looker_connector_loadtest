@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_0 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_0" ;;
+  sql_table_name: "public.synth_m0_v0" ;;
 
   dimension: primary_dimension {
-    label: "also station"
+    label: "miss race"
   }
 
-  dimension: optional_static_graphic_interface_1 {
-    label: "wish fight"
+  dimension: object_based_systematic_synergy_1 {
+    label: "forget building"
   }
 
-  dimension: up_sized_bandwidth_monitored_algorithm_2 {
-    label: "space office"
+  dimension: business_focused_discrete_database_2 {
+    label: "me red"
   }
 
-  dimension: face_to_face_bottom_line_throughput_3 {
-    label: "reality while"
+  dimension: multi_channeled_multimedia_frame_3 {
+    label: "me idea"
   }
 
-  dimension: networked_interactive_moratorium_4 {
-    label: "grow fast"
+  dimension: multi_tiered_hybrid_throughput_4 {
+    label: "alone especially"
   }
 
-  dimension: exclusive_reciprocal_artificial_intelligence_5 {
-    label: "water able"
+  dimension: assimilated_regional_migration_5 {
+    label: "forget notice"
   }
 
-  dimension: adaptive_systemic_portal_6 {
-    label: "security member"
+  dimension: future_proofed_neutral_data_warehouse_6 {
+    label: "heavy resource"
   }
 
-  dimension: distributed_multi_state_implementation_7 {
-    label: "nice election"
+  dimension: inverse_next_generation_secured_line_7 {
+    label: "stuff but"
   }
 
-  dimension: de_engineered_stable_portal_8 {
-    label: "much produce"
+  dimension: persevering_national_instruction_set_8 {
+    label: "heavy outside"
   }
 
   measure: measure_9 {
-    label: "trial him"
+    label: "like too"
   }
 
-  dimension: assimilated_multimedia_access_10 {
-    label: "family politics"
+  dimension: profit_focused_bifurcated_approach_10 {
+    label: "many question"
   }
 
-  dimension: cross_platform_foreground_software_11 {
-    label: "various seat"
+  dimension: focused_multi_tasking_local_area_network_11 {
+    label: "will trade"
   }
 
-  dimension: monitored_asynchronous_policy_12 {
-    label: "agreement national"
+  dimension: pre_emptive_homogeneous_framework_12 {
+    label: "be identify"
   }
 
-  dimension: centralized_bandwidth_monitored_paradigm_13 {
-    label: "material per"
+  dimension: face_to_face_coherent_attitude_13 {
+    label: "Democrat question"
   }
 
-  dimension: streamlined_needs_based_solution_14 {
-    label: "TV owner"
+  dimension: public_key_explicit_emulation_14 {
+    label: "follow chair"
   }
 
-  dimension: decentralized_bi_directional_application_15 {
-    label: "meeting leave"
+  dimension: object_based_intermediate_core_15 {
+    label: "serve remain"
   }
 
-  dimension: down_sized_next_generation_conglomeration_16 {
-    label: "Mrs ago"
+  dimension: synergized_clear_thinking_model_16 {
+    label: "future the"
   }
 
-  dimension: focused_object_oriented_circuit_17 {
-    label: "staff produce"
+  dimension: enterprise_wide_contextually_based_complexity_17 {
+    label: "character article"
   }
 
-  dimension: centralized_intermediate_alliance_18 {
-    label: "focus probably"
+  dimension: integrated_24_7_alliance_18 {
+    label: "front explain"
   }
 
   measure: measure_19 {
-    label: "probably indeed"
+    label: "become interview"
   }
 
-  dimension: switchable_foreground_database_20 {
-    label: "nice this"
+  dimension: multi_layered_regional_budgetary_management_20 {
+    label: "issue choice"
   }
 
-  dimension: up_sized_grid_enabled_initiative_21 {
-    label: "star attack"
+  dimension: profit_focused_client_driven_extranet_21 {
+    label: "wear especially"
   }
 
-  dimension: adaptive_executive_secured_line_22 {
-    label: "large five"
+  dimension: visionary_high_level_info_mediaries_22 {
+    label: "you building"
   }
 
-  dimension: front_line_background_flexibility_23 {
-    label: "protect truth"
+  dimension: multi_layered_optimizing_knowledge_user_23 {
+    label: "less including"
   }
 
-  dimension: monitored_intermediate_adapter_24 {
-    label: "leader Mr"
+  dimension: distributed_optimizing_protocol_24 {
+    label: "another cost"
   }
 
 }

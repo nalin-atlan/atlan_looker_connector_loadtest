@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_0 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_0" ;;
+  sql_table_name: "public.synth_m1_v0" ;;
 
   dimension: primary_dimension {
-    label: "fish teacher"
+    label: "career hair"
   }
 
-  dimension: team_oriented_disintermediate_parallelism_1 {
-    label: "describe among"
+  dimension: user_friendly_human_resource_framework_1 {
+    label: "me another"
   }
 
-  dimension: vision_oriented_human_resource_hub_2 {
-    label: "law fund"
+  dimension: focused_interactive_ability_2 {
+    label: "able everybody"
   }
 
-  dimension: de_engineered_leadingedge_analyzer_3 {
-    label: "door wall"
+  dimension: multi_tiered_user_facing_website_3 {
+    label: "director account"
   }
 
-  dimension: distributed_web_enabled_knowledge_user_4 {
-    label: "begin manager"
+  dimension: object_based_interactive_encryption_4 {
+    label: "walk who"
   }
 
-  dimension: synergistic_zero_administration_toolset_5 {
-    label: "stuff cup"
+  dimension: horizontal_regional_middleware_5 {
+    label: "walk hard"
   }
 
-  dimension: re_engineered_directional_portal_6 {
-    label: "call the"
+  dimension: polarized_multi_state_instruction_set_6 {
+    label: "others nature"
   }
 
-  dimension: public_key_systematic_projection_7 {
-    label: "worker probably"
+  dimension: organic_background_attitude_7 {
+    label: "heavy around"
   }
 
-  dimension: grass_roots_explicit_customer_loyalty_8 {
-    label: "school build"
+  dimension: future_proofed_next_generation_core_8 {
+    label: "threat amount"
   }
 
   measure: measure_9 {
-    label: "fall them"
+    label: "boy approach"
   }
 
-  dimension: versatile_mission_critical_paradigm_10 {
-    label: "three fund"
+  dimension: expanded_actuating_synergy_10 {
+    label: "guess way"
   }
 
-  dimension: versatile_full_range_throughput_11 {
-    label: "technology base"
+  dimension: reverse_engineered_didactic_firmware_11 {
+    label: "sea yet"
   }
 
-  dimension: intuitive_analyzing_alliance_12 {
-    label: "yourself tough"
+  dimension: visionary_zero_defect_pricing_structure_12 {
+    label: "early security"
   }
 
-  dimension: quality_focused_disintermediate_database_13 {
-    label: "level film"
+  dimension: polarized_logistical_framework_13 {
+    label: "keep through"
   }
 
-  dimension: ameliorated_heuristic_matrices_14 {
-    label: "seat eye"
+  dimension: right_sized_eco_centric_core_14 {
+    label: "cover pull"
   }
 
-  dimension: visionary_dedicated_circuit_15 {
-    label: "build choice"
+  dimension: advanced_5thgeneration_strategy_15 {
+    label: "test station"
   }
 
-  dimension: enterprise_wide_even_keeled_leverage_16 {
-    label: "people indicate"
+  dimension: customizable_didactic_capability_16 {
+    label: "drop will"
   }
 
-  dimension: fundamental_global_moderator_17 {
-    label: "maybe difference"
+  dimension: fundamental_modular_function_17 {
+    label: "necessary capital"
   }
 
-  dimension: down_sized_homogeneous_utilization_18 {
-    label: "usually positive"
+  dimension: user_friendly_asynchronous_standardization_18 {
+    label: "relate really"
   }
 
   measure: measure_19 {
-    label: "upon board"
+    label: "fast raise"
   }
 
-  dimension: pre_emptive_disintermediate_hardware_20 {
-    label: "world every"
+  dimension: fundamental_transitional_definition_20 {
+    label: "leg final"
   }
 
-  dimension: organized_background_software_21 {
-    label: "safe analysis"
+  dimension: organized_24hour_definition_21 {
+    label: "start result"
   }
 
-  dimension: balanced_system_worthy_superstructure_22 {
-    label: "give above"
+  dimension: quality_focused_executive_matrix_22 {
+    label: "away just"
   }
 
-  dimension: function_based_contextually_based_contingency_23 {
-    label: "television them"
+  dimension: object_based_heuristic_encryption_23 {
+    label: "hope cover"
   }
 
-  dimension: re_contextualized_dynamic_extranet_24 {
-    label: "behind action"
+  dimension: seamless_eco_centric_complexity_24 {
+    label: "support arrive"
   }
 
 }

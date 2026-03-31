@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_3 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_3" ;;
+  sql_table_name: "public.synth_m0_v3" ;;
 
   dimension: primary_dimension {
-    label: "report only"
+    label: "Mrs girl"
   }
 
-  dimension: universal_executive_internet_solution_1 {
-    label: "southern free"
+  dimension: persistent_bi_directional_architecture_1 {
+    label: "machine partner"
   }
 
-  dimension: synergized_motivating_flexibility_2 {
-    label: "head pull"
+  dimension: enterprise_wide_heuristic_software_2 {
+    label: "kitchen where"
   }
 
-  dimension: function_based_global_toolset_3 {
-    label: "specific side"
+  dimension: vision_oriented_discrete_success_3 {
+    label: "machine vote"
   }
 
-  dimension: adaptive_stable_support_4 {
-    label: "safe tend"
+  dimension: customer_focused_intangible_data_warehouse_4 {
+    label: "him speech"
   }
 
-  dimension: intuitive_fresh_thinking_migration_5 {
-    label: "past science"
+  dimension: balanced_neutral_array_5 {
+    label: "item media"
   }
 
-  dimension: inverse_optimizing_flexibility_6 {
-    label: "worker you"
+  dimension: fully_configurable_responsive_core_6 {
+    label: "range describe"
   }
 
-  dimension: enterprise_wide_asymmetric_definition_7 {
-    label: "recently morning"
+  dimension: optimized_eco_centric_success_7 {
+    label: "control as"
   }
 
-  dimension: reduced_context_sensitive_success_8 {
-    label: "as office"
+  dimension: digitized_neutral_array_8 {
+    label: "alone reach"
   }
 
   measure: measure_9 {
-    label: "dream call"
+    label: "capital artist"
   }
 
-  dimension: vision_oriented_actuating_forecast_10 {
-    label: "according poor"
+  dimension: pre_emptive_uniform_archive_10 {
+    label: "audience parent"
   }
 
-  dimension: focused_systematic_implementation_11 {
-    label: "front defense"
+  dimension: synergized_solution_oriented_initiative_11 {
+    label: "ever commercial"
   }
 
-  dimension: extended_well_modulated_array_12 {
-    label: "story service"
+  dimension: inverse_user_facing_ability_12 {
+    label: "operation economy"
   }
 
-  dimension: robust_next_generation_access_13 {
-    label: "give happen"
+  dimension: multi_layered_zero_defect_workforce_13 {
+    label: "employee though"
   }
 
-  dimension: team_oriented_high_level_hardware_14 {
-    label: "notice kind"
+  dimension: reduced_6thgeneration_protocol_14 {
+    label: "determine long"
   }
 
-  dimension: de_engineered_modular_open_architecture_15 {
-    label: "officer theory"
+  dimension: function_based_fresh_thinking_array_15 {
+    label: "family military"
   }
 
-  dimension: profit_focused_system_worthy_capacity_16 {
-    label: "thank whether"
+  dimension: pre_emptive_interactive_protocol_16 {
+    label: "beyond people"
   }
 
-  dimension: secured_local_core_17 {
-    label: "speech production"
+  dimension: profound_context_sensitive_strategy_17 {
+    label: "whole coach"
   }
 
-  dimension: multi_channeled_global_internet_solution_18 {
-    label: "allow use"
+  dimension: customizable_attitude_oriented_parallelism_18 {
+    label: "receive less"
   }
 
   measure: measure_19 {
-    label: "world remember"
+    label: "window eye"
   }
 
-  dimension: customer_focused_non_volatile_productivity_20 {
-    label: "them camera"
+  dimension: user_centric_maximized_application_20 {
+    label: "group join"
   }
 
-  dimension: universal_asynchronous_interface_21 {
-    label: "thus senior"
+  dimension: team_oriented_zero_defect_intranet_21 {
+    label: "low off"
   }
 
-  dimension: reduced_encompassing_concept_22 {
-    label: "painting without"
+  dimension: devolved_bottom_line_contingency_22 {
+    label: "group easy"
   }
 
-  dimension: enhanced_multimedia_instruction_set_23 {
-    label: "within paper"
+  dimension: automated_foreground_forecast_23 {
+    label: "church newspaper"
   }
 
-  dimension: future_proofed_systemic_system_engine_24 {
-    label: "wife ok"
+  dimension: sharable_incremental_challenge_24 {
+    label: "any life"
   }
 
 }
