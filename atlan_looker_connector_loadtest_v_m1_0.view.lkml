@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_0';
 
-  dimension: Ameliorated_client_server_budgetary_management_0 {
-    label: 'church interest'
+  dimension: Seamless_optimal_middleware_0 {
+    label: 'own level'
   }
 
-  dimension: Business_focused_zero_administration_pricing_structure_1 {
-    label: 'its pay'
+  dimension: Integrated_mobile_model_1 {
+    label: 'up response'
   }
 
-  dimension: Reverse_engineered_human_resource_interface_2 {
-    label: 'white idea'
+  dimension: Pre_emptive_next_generation_help_desk_2 {
+    label: 'remember traditional'
   }
 
-  dimension: Open_architected_intangible_project_3 {
-    label: 'others interest'
+  dimension: Cloned_content_based_success_3 {
+    label: 'write do'
   }
 
-  dimension: Ergonomic_transitional_benchmark_4 {
-    label: 'important scientist'
+  dimension: Versatile_transitional_neural_net_4 {
+    label: 'develop quality'
   }
 
-  dimension: Open_source_well_modulated_function_5 {
-    label: 'need style'
+  dimension: Polarized_tangible_encryption_5 {
+    label: 'moment why'
   }
 
-  dimension: Face_to_face_attitude_oriented_paradigm_6 {
-    label: 'various development'
+  dimension: Multi_tiered_well_modulated_Graphic_Interface_6 {
+    label: 'country war'
   }
 
-  dimension: Networked_real_time_success_7 {
-    label: 'role cut'
+  dimension: Synchronized_empowering_moderator_7 {
+    label: 'enjoy why'
   }
 
-  dimension: Enhanced_zero_tolerance_neural_net_8 {
-    label: 'offer reach'
+  dimension: Organic_contextually_based_project_8 {
+    label: 'talk politics'
   }
 
   measure: measure_9 {
-    label: 'color above'
+    label: 'staff much'
   }
 
-  dimension: Switchable_holistic_help_desk_10 {
-    label: 'century difficult'
+  dimension: Expanded_foreground_frame_10 {
+    label: 'he economic'
   }
 
-  dimension: Progressive_human_resource_secured_line_11 {
-    label: 'stuff very'
+  dimension: Secured_next_generation_ability_11 {
+    label: 'someone travel'
   }
 
-  dimension: Grass_roots_logistical_hardware_12 {
-    label: 'score throughout'
+  dimension: Implemented_context_sensitive_forecast_12 {
+    label: 'issue size'
   }
 
-  dimension: Intuitive_multi_tasking_hierarchy_13 {
-    label: 'risk line'
+  dimension: Realigned_mission_critical_website_13 {
+    label: 'employee continue'
   }
 
-  dimension: Synergistic_mission_critical_secured_line_14 {
-    label: 'clearly eight'
+  dimension: Sharable_6thgeneration_middleware_14 {
+    label: 'child knowledge'
   }
 
-  dimension: Streamlined_modular_system_engine_15 {
-    label: 'increase interview'
+  dimension: Implemented_object_oriented_infrastructure_15 {
+    label: 'reduce both'
   }
 
-  dimension: Sharable_tertiary_infrastructure_16 {
-    label: 'baby wrong'
+  dimension: Sharable_homogeneous_policy_16 {
+    label: 'when newspaper'
   }
 
-  dimension: Compatible_disintermediate_matrices_17 {
-    label: 'season paper'
+  dimension: Assimilated_grid_enabled_hardware_17 {
+    label: 'moment different'
   }
 
-  dimension: Balanced_static_algorithm_18 {
-    label: 'trouble rest'
+  dimension: Persistent_eco_centric_neural_net_18 {
+    label: 'test reach'
   }
 
   measure: measure_19 {
-    label: 'water drop'
+    label: 'traditional rate'
   }
 
-  dimension: Multi_lateral_radical_leverage_20 {
-    label: 'team eye'
+  dimension: Expanded_executive_contingency_20 {
+    label: 'before loss'
   }
 
-  dimension: Down_sized_3rdgeneration_pricing_structure_21 {
-    label: 'performance system'
+  dimension: Exclusive_even_keeled_leverage_21 {
+    label: 'feeling student'
   }
 
-  dimension: Profit_focused_clear_thinking_archive_22 {
-    label: 'argue last'
+  dimension: De_engineered_actuating_infrastructure_22 {
+    label: 'myself spring'
   }
 
-  dimension: Public_key_clear_thinking_complexity_23 {
-    label: 'authority fine'
+  dimension: Diverse_context_sensitive_architecture_23 {
+    label: 'nature little'
   }
 
-  dimension: Managed_next_generation_product_24 {
-    label: 'behavior commercial'
+  dimension: De_engineered_discrete_success_24 {
+    label: 'into sister'
   }
 
 }

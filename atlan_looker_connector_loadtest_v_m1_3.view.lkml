@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_3 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_3';
 
-  dimension: Implemented_methodical_encoding_0 {
-    label: 'within wife'
+  dimension: Realigned_uniform_productivity_0 {
+    label: 'weight money'
   }
 
-  dimension: Cross_platform_heuristic_array_1 {
-    label: 'total out'
+  dimension: Implemented_tertiary_standardization_1 {
+    label: 'shake debate'
   }
 
-  dimension: Right_sized_client_server_benchmark_2 {
-    label: 'somebody star'
+  dimension: Profit_focused_mission_critical_paradigm_2 {
+    label: 'themselves everyone'
   }
 
-  dimension: Exclusive_multi_tasking_neural_net_3 {
-    label: 'bar six'
+  dimension: Persistent_dedicated_process_improvement_3 {
+    label: 'field have'
   }
 
-  dimension: Cross_platform_mission_critical_hardware_4 {
-    label: 'campaign world'
+  dimension: Persistent_human_resource_encryption_4 {
+    label: 'everybody left'
   }
 
-  dimension: Multi_channeled_dedicated_attitude_5 {
-    label: 'prove special'
+  dimension: Reactive_responsive_pricing_structure_5 {
+    label: 'manager time'
   }
 
-  dimension: Customer_focused_zero_tolerance_frame_6 {
-    label: 'magazine treatment'
+  dimension: Realigned_mobile_forecast_6 {
+    label: 'easy size'
   }
 
-  dimension: Streamlined_optimizing_concept_7 {
-    label: 'out machine'
+  dimension: Public_key_optimizing_monitoring_7 {
+    label: 'hand within'
   }
 
-  dimension: Object_based_regional_matrices_8 {
-    label: 'brother trip'
+  dimension: Multi_channeled_modular_flexibility_8 {
+    label: 'hit enough'
   }
 
   measure: measure_9 {
-    label: 'fast draw'
+    label: 'matter born'
   }
 
-  dimension: Reduced_discrete_capacity_10 {
-    label: 'and establish'
+  dimension: Cross_platform_background_interface_10 {
+    label: 'morning door'
   }
 
-  dimension: Reverse_engineered_logistical_circuit_11 {
-    label: 'mother student'
+  dimension: Profound_3rdgeneration_emulation_11 {
+    label: 'time foot'
   }
 
-  dimension: User_centric_national_pricing_structure_12 {
-    label: 'specific strong'
+  dimension: Cross_platform_hybrid_model_12 {
+    label: 'political choose'
   }
 
-  dimension: Balanced_bi_directional_Local_Area_Network_13 {
-    label: 'they owner'
+  dimension: Integrated_non_volatile_info_mediaries_13 {
+    label: 'with opportunity'
   }
 
-  dimension: Vision_oriented_value_added_middleware_14 {
-    label: 'bad late'
+  dimension: Open_architected_5thgeneration_adapter_14 {
+    label: 'gas tough'
   }
 
-  dimension: Realigned_holistic_core_15 {
-    label: 'why piece'
+  dimension: Monitored_holistic_frame_15 {
+    label: 'institution evidence'
   }
 
-  dimension: Business_focused_national_neural_net_16 {
-    label: 'man when'
+  dimension: Multi_tiered_context_sensitive_middleware_16 {
+    label: 'good prepare'
   }
 
-  dimension: Synergistic_mission_critical_data_warehouse_17 {
-    label: 'interview team'
+  dimension: Face_to_face_transitional_extranet_17 {
+    label: 'game new'
   }
 
-  dimension: Customizable_foreground_approach_18 {
-    label: 'significant commercial'
+  dimension: Triple_buffered_3rdgeneration_moderator_18 {
+    label: 'her minute'
   }
 
   measure: measure_19 {
-    label: 'early military'
+    label: 'agreement explain'
   }
 
-  dimension: Virtual_object_oriented_benchmark_20 {
-    label: 'book tonight'
+  dimension: Focused_even_keeled_archive_20 {
+    label: 'week none'
   }
 
-  dimension: Horizontal_multi_tasking_software_21 {
-    label: 'note serve'
+  dimension: Advanced_local_Graphic_Interface_21 {
+    label: 'decide candidate'
   }
 
-  dimension: Optimized_interactive_info_mediaries_22 {
-    label: 'five others'
+  dimension: User_friendly_bandwidth_monitored_encryption_22 {
+    label: 'along seven'
   }
 
-  dimension: Optional_zero_administration_flexibility_23 {
-    label: 'whose those'
+  dimension: Centralized_well_modulated_task_force_23 {
+    label: 'soon product'
   }
 
-  dimension: Diverse_eco_centric_moderator_24 {
-    label: 'true ask'
+  dimension: Versatile_static_secured_line_24 {
+    label: 'section article'
   }
 
 }

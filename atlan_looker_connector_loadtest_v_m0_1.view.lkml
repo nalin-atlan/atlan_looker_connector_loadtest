@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_1';
 
-  dimension: Fully_configurable_cohesive_parallelism_0 {
-    label: 'hand view'
+  dimension: Multi_layered_grid_enabled_leverage_0 {
+    label: 'sense that'
   }
 
-  dimension: Versatile_composite_contingency_1 {
-    label: 'until now'
+  dimension: Decentralized_background_parallelism_1 {
+    label: 'official itself'
   }
 
-  dimension: Universal_even_keeled_infrastructure_2 {
-    label: 'explain need'
+  dimension: User_centric_multimedia_policy_2 {
+    label: 'everyone that'
   }
 
-  dimension: Programmable_incremental_installation_3 {
-    label: 'radio free'
+  dimension: Business_focused_cohesive_array_3 {
+    label: 'scientist cover'
   }
 
-  dimension: De_engineered_grid_enabled_functionalities_4 {
-    label: 'chance resource'
+  dimension: Reverse_engineered_local_database_4 {
+    label: 'wide behavior'
   }
 
-  dimension: Sharable_empowering_methodology_5 {
-    label: 'consumer for'
+  dimension: Organic_full_range_orchestration_5 {
+    label: 'they arrive'
   }
 
-  dimension: Assimilated_zero_defect_emulation_6 {
-    label: 'there sound'
+  dimension: Fundamental_bandwidth_monitored_middleware_6 {
+    label: 'focus color'
   }
 
-  dimension: Exclusive_radical_analyzer_7 {
-    label: 'respond operation'
+  dimension: Operative_heuristic_collaboration_7 {
+    label: 'pretty say'
   }
 
-  dimension: Focused_bandwidth_monitored_Graphical_User_Interface_8 {
-    label: 'fly focus'
+  dimension: Face_to_face_bandwidth_monitored_paradigm_8 {
+    label: 'heavy home'
   }
 
   measure: measure_9 {
-    label: 'firm discuss'
+    label: 'matter race'
   }
 
-  dimension: Expanded_asynchronous_architecture_10 {
-    label: 'like quite'
+  dimension: Face_to_face_bi_directional_archive_10 {
+    label: 'building reason'
   }
 
-  dimension: Seamless_context_sensitive_strategy_11 {
-    label: 'represent situation'
+  dimension: Mandatory_incremental_attitude_11 {
+    label: 'interesting reflect'
   }
 
-  dimension: Automated_impactful_ability_12 {
-    label: 'great rest'
+  dimension: Virtual_eco_centric_open_architecture_12 {
+    label: 'myself blue'
   }
 
-  dimension: User_centric_responsive_access_13 {
-    label: 'notice none'
+  dimension: De_engineered_systemic_synergy_13 {
+    label: 'fall say'
   }
 
-  dimension: Cloned_content_based_projection_14 {
-    label: 'will scientist'
+  dimension: Streamlined_logistical_framework_14 {
+    label: 'go foreign'
   }
 
-  dimension: User_friendly_even_keeled_capacity_15 {
-    label: 'long after'
+  dimension: Fully_configurable_clear_thinking_utilization_15 {
+    label: 'help member'
   }
 
-  dimension: Re_engineered_needs_based_collaboration_16 {
-    label: 'white him'
+  dimension: Switchable_non_volatile_installation_16 {
+    label: 'low under'
   }
 
-  dimension: Multi_lateral_modular_application_17 {
-    label: 'parent star'
+  dimension: Visionary_human_resource_database_17 {
+    label: 'fill establish'
   }
 
-  dimension: Exclusive_heuristic_forecast_18 {
-    label: 'message my'
+  dimension: Visionary_demand_driven_migration_18 {
+    label: 'ask away'
   }
 
   measure: measure_19 {
-    label: 'official thank'
+    label: 'positive lose'
   }
 
-  dimension: Realigned_context_sensitive_software_20 {
-    label: 'compare wonder'
+  dimension: Fundamental_real_time_complexity_20 {
+    label: 'property want'
   }
 
-  dimension: Cloned_mission_critical_workforce_21 {
-    label: 'religious smile'
+  dimension: Cross_group_needs_based_complexity_21 {
+    label: 'turn less'
   }
 
-  dimension: Synergistic_6thgeneration_knowledge_user_22 {
-    label: 'wife not'
+  dimension: Inverse_foreground_throughput_22 {
+    label: 'any dog'
   }
 
-  dimension: Synergistic_clear_thinking_help_desk_23 {
-    label: 'anyone who'
+  dimension: Stand_alone_didactic_projection_23 {
+    label: 'difficult of'
   }
 
-  dimension: Switchable_upward_trending_throughput_24 {
-    label: 'recent thank'
+  dimension: Sharable_context_sensitive_flexibility_24 {
+    label: 'remember all'
   }
 
 }

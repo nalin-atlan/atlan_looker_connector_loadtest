@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2';
 
-  dimension: Compatible_executive_structure_0 {
-    label: 'true ago'
+  dimension: Right_sized_executive_matrices_0 {
+    label: 'box early'
   }
 
-  dimension: Managed_24hour_process_improvement_1 {
-    label: 'same develop'
+  dimension: Intuitive_logistical_Graphic_Interface_1 {
+    label: 'eye response'
   }
 
-  dimension: Profit_focused_actuating_emulation_2 {
-    label: 'college unit'
+  dimension: Adaptive_directional_middleware_2 {
+    label: 'lose join'
   }
 
-  dimension: User_friendly_hybrid_circuit_3 {
-    label: 'discuss factor'
+  dimension: De_engineered_user_facing_application_3 {
+    label: 'scientist us'
   }
 
-  dimension: Pre_emptive_multi_tasking_open_architecture_4 {
-    label: 'American return'
+  dimension: Right_sized_optimal_policy_4 {
+    label: 'west first'
   }
 
-  dimension: Object_based_logistical_firmware_5 {
-    label: 'avoid national'
+  dimension: Public_key_uniform_support_5 {
+    label: 'size year'
   }
 
-  dimension: Enhanced_eco_centric_task_force_6 {
-    label: 'answer talk'
+  dimension: Integrated_tertiary_moderator_6 {
+    label: 'product large'
   }
 
-  dimension: Persistent_directional_hub_7 {
-    label: 'think or'
+  dimension: Extended_full_range_secured_line_7 {
+    label: 'cultural tend'
   }
 
-  dimension: Decentralized_solution_oriented_process_improvement_8 {
-    label: 'financial maintain'
+  dimension: Centralized_object_oriented_support_8 {
+    label: 'that while'
   }
 
   measure: measure_9 {
-    label: 'such right'
+    label: 'class might'
   }
 
-  dimension: Persevering_dedicated_groupware_10 {
-    label: 'develop crime'
+  dimension: Fully_configurable_intermediate_secured_line_10 {
+    label: 'civil think'
   }
 
-  dimension: Exclusive_4thgeneration_capacity_11 {
-    label: 'range later'
+  dimension: Function_based_methodical_instruction_set_11 {
+    label: 'ready get'
   }
 
-  dimension: Self_enabling_disintermediate_complexity_12 {
-    label: 'significant analysis'
+  dimension: Public_key_asynchronous_leverage_12 {
+    label: 'matter leave'
   }
 
-  dimension: Expanded_actuating_hierarchy_13 {
-    label: 'improve play'
+  dimension: Diverse_multi_tasking_productivity_13 {
+    label: 'final entire'
   }
 
-  dimension: Enterprise_wide_radical_capacity_14 {
-    label: 'food scene'
+  dimension: Streamlined_object_oriented_open_architecture_14 {
+    label: 'machine school'
   }
 
-  dimension: Enhanced_needs_based_service_desk_15 {
-    label: 'answer again'
+  dimension: Diverse_interactive_focus_group_15 {
+    label: 'join wear'
   }
 
-  dimension: Cross_platform_maximized_intranet_16 {
-    label: 'clearly reveal'
+  dimension: Re_contextualized_disintermediate_info_mediaries_16 {
+    label: 'direction better'
   }
 
-  dimension: Down_sized_dedicated_knowledgebase_17 {
-    label: 'son data'
+  dimension: Profound_bottom_line_methodology_17 {
+    label: 'husband receive'
   }
 
-  dimension: Future_proofed_regional_circuit_18 {
-    label: 'fall send'
+  dimension: Proactive_asynchronous_contingency_18 {
+    label: 'positive avoid'
   }
 
   measure: measure_19 {
-    label: 'crime particularly'
+    label: 'keep easy'
   }
 
-  dimension: Exclusive_homogeneous_hub_20 {
-    label: 'consumer light'
+  dimension: Exclusive_methodical_attitude_20 {
+    label: 'result or'
   }
 
-  dimension: Integrated_intangible_array_21 {
-    label: 'movement change'
+  dimension: Business_focused_6thgeneration_throughput_21 {
+    label: 'structure simply'
   }
 
-  dimension: Front_line_zero_administration_initiative_22 {
-    label: 'scene between'
+  dimension: Intuitive_content_based_migration_22 {
+    label: 'none people'
   }
 
-  dimension: Enhanced_multimedia_alliance_23 {
-    label: 'trip cup'
+  dimension: Switchable_bandwidth_monitored_secured_line_23 {
+    label: 'inside authority'
   }
 
-  dimension: Up_sized_maximized_policy_24 {
-    label: 'police out'
+  dimension: Ameliorated_national_circuit_24 {
+    label: 'each reduce'
   }
 
 }

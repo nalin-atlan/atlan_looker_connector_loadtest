@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_2';
 
-  dimension: Business_focused_systematic_hub_0 {
-    label: 'sense others'
+  dimension: Adaptive_demand_driven_extranet_0 {
+    label: 'current miss'
   }
 
-  dimension: Diverse_non_volatile_attitude_1 {
-    label: 'wide friend'
+  dimension: Cross_group_dynamic_secured_line_1 {
+    label: 'read happen'
   }
 
-  dimension: Streamlined_regional_success_2 {
-    label: 'get reveal'
+  dimension: Optimized_zero_tolerance_adapter_2 {
+    label: 'now than'
   }
 
-  dimension: Horizontal_attitude_oriented_service_desk_3 {
-    label: 'wind image'
+  dimension: Optional_asymmetric_open_system_3 {
+    label: 'idea value'
   }
 
-  dimension: Distributed_object_oriented_standardization_4 {
-    label: 'value soon'
+  dimension: Exclusive_grid_enabled_task_force_4 {
+    label: 'agreement doctor'
   }
 
-  dimension: Assimilated_holistic_circuit_5 {
-    label: 'environment war'
+  dimension: Pre_emptive_responsive_workforce_5 {
+    label: 'within movement'
   }
 
-  dimension: Visionary_multi_state_migration_6 {
-    label: 'because lose'
+  dimension: Customer_focused_incremental_groupware_6 {
+    label: 'discussion role'
   }
 
-  dimension: Re_contextualized_explicit_data_warehouse_7 {
-    label: 'professor can'
+  dimension: De_engineered_exuding_framework_7 {
+    label: 'though culture'
   }
 
-  dimension: Devolved_systemic_collaboration_8 {
-    label: 'show before'
+  dimension: Open_source_24_7_attitude_8 {
+    label: 'month keep'
   }
 
   measure: measure_9 {
-    label: 'firm everybody'
+    label: 'different industry'
   }
 
-  dimension: Innovative_uniform_standardization_10 {
-    label: 'thought manager'
+  dimension: Quality_focused_zero_defect_approach_10 {
+    label: 'past western'
   }
 
-  dimension: Re_contextualized_fresh_thinking_focus_group_11 {
-    label: 'fire month'
+  dimension: Focused_secondary_groupware_11 {
+    label: 'gun sing'
   }
 
-  dimension: Stand_alone_holistic_matrices_12 {
-    label: 'why each'
+  dimension: Monitored_directional_analyzer_12 {
+    label: 'gun trouble'
   }
 
-  dimension: Adaptive_real_time_leverage_13 {
-    label: 'seek debate'
+  dimension: Profit_focused_mission_critical_Graphic_Interface_13 {
+    label: 'speech successful'
   }
 
-  dimension: Fully_configurable_mission_critical_process_improvement_14 {
-    label: 'within cultural'
+  dimension: Seamless_uniform_time_frame_14 {
+    label: 'affect scientist'
   }
 
-  dimension: Up_sized_incremental_Graphic_Interface_15 {
-    label: 'air within'
+  dimension: Diverse_motivating_array_15 {
+    label: 'political policy'
   }
 
-  dimension: Focused_mobile_capacity_16 {
-    label: 'maintain finally'
+  dimension: Horizontal_cohesive_standardization_16 {
+    label: 'level hundred'
   }
 
-  dimension: Fully_configurable_holistic_process_improvement_17 {
-    label: 'under rich'
+  dimension: Reactive_solution_oriented_parallelism_17 {
+    label: 'else structure'
   }
 
-  dimension: Right_sized_fault_tolerant_process_improvement_18 {
-    label: 'itself watch'
+  dimension: Programmable_3rdgeneration_secured_line_18 {
+    label: 'cause miss'
   }
 
   measure: measure_19 {
-    label: 'modern personal'
+    label: 'need firm'
   }
 
-  dimension: Fundamental_non_volatile_focus_group_20 {
-    label: 'long control'
+  dimension: Open_source_client_driven_groupware_20 {
+    label: 'effort process'
   }
 
-  dimension: Open_architected_composite_model_21 {
-    label: 'we best'
+  dimension: Horizontal_motivating_help_desk_21 {
+    label: 'approach turn'
   }
 
-  dimension: Persistent_incremental_instruction_set_22 {
-    label: 'official religious'
+  dimension: Versatile_interactive_model_22 {
+    label: 'ball also'
   }
 
-  dimension: Centralized_discrete_workforce_23 {
-    label: 'rich eat'
+  dimension: Open_architected_homogeneous_hub_23 {
+    label: 'record Mrs'
   }
 
-  dimension: Balanced_cohesive_capability_24 {
-    label: 'wonder itself'
+  dimension: Automated_impactful_pricing_structure_24 {
+    label: 'without walk'
   }
 
 }

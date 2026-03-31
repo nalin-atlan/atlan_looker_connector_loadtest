@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_3 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_3';
 
-  dimension: Business_focused_user_facing_circuit_0 {
-    label: 'term international'
+  dimension: Phased_transitional_contingency_0 {
+    label: 'each probably'
   }
 
-  dimension: Customer_focused_local_knowledgebase_1 {
-    label: 'work fire'
+  dimension: Diverse_secondary_productivity_1 {
+    label: 'force view'
   }
 
-  dimension: Face_to_face_maximized_artificial_intelligence_2 {
-    label: 'court work'
+  dimension: Monitored_client_driven_knowledgebase_2 {
+    label: 'continue only'
   }
 
-  dimension: Re_contextualized_multi_tasking_help_desk_3 {
-    label: 'serve painting'
+  dimension: Decentralized_local_matrix_3 {
+    label: 'analysis she'
   }
 
-  dimension: Triple_buffered_demand_driven_access_4 {
-    label: 'sit list'
+  dimension: Ergonomic_hybrid_array_4 {
+    label: 'network people'
   }
 
-  dimension: Innovative_methodical_conglomeration_5 {
-    label: 'work success'
+  dimension: Devolved_disintermediate_knowledge_user_5 {
+    label: 'learn keep'
   }
 
-  dimension: Stand_alone_attitude_oriented_monitoring_6 {
-    label: 'seek age'
+  dimension: Extended_3rdgeneration_time_frame_6 {
+    label: 'car find'
   }
 
-  dimension: Programmable_interactive_portal_7 {
-    label: 'thousand drive'
+  dimension: Visionary_didactic_capability_7 {
+    label: 'leave new'
   }
 
-  dimension: Switchable_encompassing_concept_8 {
-    label: 'involve must'
+  dimension: Front_line_5thgeneration_capability_8 {
+    label: 'suggest small'
   }
 
   measure: measure_9 {
-    label: 'knowledge prove'
+    label: 'size five'
   }
 
-  dimension: Cross_group_3rdgeneration_architecture_10 {
-    label: 'former at'
+  dimension: Mandatory_exuding_architecture_10 {
+    label: 'student level'
   }
 
-  dimension: Ameliorated_composite_knowledgebase_11 {
-    label: 'firm despite'
+  dimension: Progressive_bi_directional_contingency_11 {
+    label: 'color media'
   }
 
-  dimension: Automated_real_time_software_12 {
-    label: 'choose develop'
+  dimension: Exclusive_holistic_definition_12 {
+    label: 'view whatever'
   }
 
-  dimension: Fully_configurable_background_benchmark_13 {
-    label: 'girl loss'
+  dimension: Realigned_6thgeneration_synergy_13 {
+    label: 'environment authority'
   }
 
-  dimension: Phased_asynchronous_website_14 {
-    label: 'family product'
+  dimension: Cloned_24_7_benchmark_14 {
+    label: 'responsibility law'
   }
 
-  dimension: Expanded_homogeneous_encoding_15 {
-    label: 'image reduce'
+  dimension: Up_sized_next_generation_encryption_15 {
+    label: 'have everything'
   }
 
-  dimension: Vision_oriented_executive_process_improvement_16 {
-    label: 'imagine common'
+  dimension: Synergistic_transitional_help_desk_16 {
+    label: 'decision add'
   }
 
-  dimension: Diverse_bandwidth_monitored_matrix_17 {
-    label: 'current own'
+  dimension: Public_key_full_range_model_17 {
+    label: 'page about'
   }
 
-  dimension: Vision_oriented_real_time_database_18 {
-    label: 'own customer'
+  dimension: Multi_tiered_holistic_utilization_18 {
+    label: 'maybe experience'
   }
 
   measure: measure_19 {
-    label: 'technology southern'
+    label: 'dream general'
   }
 
-  dimension: Devolved_methodical_matrices_20 {
-    label: 'impact cut'
+  dimension: Extended_mission_critical_info_mediaries_20 {
+    label: 'recognize run'
   }
 
-  dimension: Open_source_hybrid_intranet_21 {
-    label: 'knowledge director'
+  dimension: Public_key_optimizing_circuit_21 {
+    label: 'American him'
   }
 
-  dimension: Advanced_stable_benchmark_22 {
-    label: 'success interview'
+  dimension: Multi_channeled_non_volatile_middleware_22 {
+    label: 'be major'
   }
 
-  dimension: Synergized_fresh_thinking_functionalities_23 {
-    label: 'hospital character'
+  dimension: Decentralized_web_enabled_time_frame_23 {
+    label: 'book Republican'
   }
 
-  dimension: Reduced_cohesive_alliance_24 {
-    label: 'recent treatment'
+  dimension: Versatile_even_keeled_middleware_24 {
+    label: 'politics quality'
   }
 
 }

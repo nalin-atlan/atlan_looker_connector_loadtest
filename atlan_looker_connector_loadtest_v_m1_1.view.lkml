@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_1';
 
-  dimension: Self_enabling_disintermediate_focus_group_0 {
-    label: 'if democratic'
+  dimension: Seamless_full_range_firmware_0 {
+    label: 'network mind'
   }
 
-  dimension: Customer_focused_system_worthy_forecast_1 {
-    label: 'Democrat wear'
+  dimension: Object_based_hybrid_Graphic_Interface_1 {
+    label: 'responsibility pay'
   }
 
-  dimension: Organic_optimizing_pricing_structure_2 {
-    label: 'heart also'
+  dimension: Sharable_holistic_interface_2 {
+    label: 'character PM'
   }
 
-  dimension: Seamless_bottom_line_array_3 {
-    label: 'stop important'
+  dimension: Advanced_4thgeneration_emulation_3 {
+    label: 'produce party'
   }
 
-  dimension: Triple_buffered_attitude_oriented_instruction_set_4 {
-    label: 'organization politics'
+  dimension: Networked_radical_Local_Area_Network_4 {
+    label: 'though garden'
   }
 
-  dimension: Digitized_bandwidth_monitored_paradigm_5 {
-    label: 'blood sing'
+  dimension: Multi_layered_bi_directional_focus_group_5 {
+    label: 'public themselves'
   }
 
-  dimension: Mandatory_didactic_protocol_6 {
-    label: 'information challenge'
+  dimension: Realigned_content_based_conglomeration_6 {
+    label: 'play continue'
   }
 
-  dimension: Triple_buffered_scalable_Internet_solution_7 {
-    label: 'cultural front'
+  dimension: Universal_hybrid_methodology_7 {
+    label: 'such treatment'
   }
 
-  dimension: Multi_tiered_multi_state_system_engine_8 {
-    label: 'leader page'
+  dimension: Customizable_bifurcated_hardware_8 {
+    label: 'any Congress'
   }
 
   measure: measure_9 {
-    label: 'skill item'
+    label: 'any reason'
   }
 
-  dimension: Reverse_engineered_modular_moderator_10 {
-    label: 'significant exactly'
+  dimension: Sharable_systemic_collaboration_10 {
+    label: 'sort why'
   }
 
-  dimension: Grass_roots_uniform_approach_11 {
-    label: 'entire his'
+  dimension: Organized_multi_tasking_task_force_11 {
+    label: 'through race'
   }
 
-  dimension: Reactive_tangible_model_12 {
-    label: 'night senior'
+  dimension: Progressive_dynamic_open_system_12 {
+    label: 'current around'
   }
 
-  dimension: Vision_oriented_mobile_projection_13 {
-    label: 'prevent tax'
+  dimension: Up_sized_client_server_functionalities_13 {
+    label: 'play great'
   }
 
-  dimension: Assimilated_modular_software_14 {
-    label: 'item event'
+  dimension: User_friendly_web_enabled_methodology_14 {
+    label: 'affect theory'
   }
 
-  dimension: Diverse_next_generation_support_15 {
-    label: 'national anyone'
+  dimension: Ergonomic_heuristic_productivity_15 {
+    label: 'itself answer'
   }
 
-  dimension: Pre_emptive_well_modulated_encoding_16 {
-    label: 'local behavior'
+  dimension: Triple_buffered_stable_approach_16 {
+    label: 'stop drop'
   }
 
-  dimension: Synergistic_object_oriented_concept_17 {
-    label: 'main catch'
+  dimension: Persevering_clear_thinking_initiative_17 {
+    label: 'purpose create'
   }
 
-  dimension: Assimilated_disintermediate_encoding_18 {
-    label: 'note now'
+  dimension: Cross_platform_mission_critical_hardware_18 {
+    label: 'painting nothing'
   }
 
   measure: measure_19 {
-    label: 'see middle'
+    label: 'skill where'
   }
 
-  dimension: Integrated_3rdgeneration_firmware_20 {
-    label: 'on carry'
+  dimension: Multi_channeled_bandwidth_monitored_collaboration_20 {
+    label: 'set could'
   }
 
-  dimension: Reduced_even_keeled_focus_group_21 {
-    label: 'sing hard'
+  dimension: Team_oriented_foreground_toolset_21 {
+    label: 'a style'
   }
 
-  dimension: Total_context_sensitive_customer_loyalty_22 {
-    label: 'beat suffer'
+  dimension: Operative_directional_ability_22 {
+    label: 'condition kind'
   }
 
-  dimension: Devolved_methodical_encryption_23 {
-    label: 'thus film'
+  dimension: Inverse_incremental_interface_23 {
+    label: 'relate serious'
   }
 
-  dimension: Multi_layered_client_driven_moderator_24 {
-    label: 'almost need'
+  dimension: Configurable_system_worthy_methodology_24 {
+    label: 'rise interest'
   }
 
 }

@@ -1,104 +1,104 @@
 view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: 'public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_0';
 
-  dimension: Organized_system_worthy_interface_0 {
-    label: 'agency collection'
+  dimension: Synergized_systemic_groupware_0 {
+    label: 'anything theory'
   }
 
-  dimension: De_engineered_incremental_orchestration_1 {
-    label: 'size evidence'
+  dimension: Upgradable_attitude_oriented_productivity_1 {
+    label: 'hundred past'
   }
 
-  dimension: Inverse_dedicated_productivity_2 {
-    label: 'military herself'
+  dimension: Persistent_leadingedge_throughput_2 {
+    label: 'dream they'
   }
 
-  dimension: Automated_needs_based_implementation_3 {
-    label: 'step well'
+  dimension: De_engineered_background_orchestration_3 {
+    label: 'force east'
   }
 
-  dimension: Optional_web_enabled_info_mediaries_4 {
-    label: 'like civil'
+  dimension: Object_based_responsive_task_force_4 {
+    label: 'third out'
   }
 
-  dimension: Reduced_attitude_oriented_intranet_5 {
-    label: 'soon amount'
+  dimension: Fully_configurable_high_level_middleware_5 {
+    label: 'compare why'
   }
 
-  dimension: Integrated_heuristic_paradigm_6 {
-    label: 'near I'
+  dimension: Self_enabling_intangible_pricing_structure_6 {
+    label: 'shake finally'
   }
 
-  dimension: Progressive_next_generation_access_7 {
-    label: 'firm strong'
+  dimension: Realigned_incremental_forecast_7 {
+    label: 'free glass'
   }
 
-  dimension: Adaptive_stable_extranet_8 {
-    label: 'decide tree'
+  dimension: Enhanced_logistical_hub_8 {
+    label: 'important view'
   }
 
   measure: measure_9 {
-    label: 'rock either'
+    label: 'alone century'
   }
 
-  dimension: Intuitive_contextually_based_data_warehouse_10 {
-    label: 'rather lawyer'
+  dimension: Innovative_24_7_system_engine_10 {
+    label: 'reveal pay'
   }
 
-  dimension: Quality_focused_stable_middleware_11 {
-    label: 'at inside'
+  dimension: Switchable_value_added_success_11 {
+    label: 'account letter'
   }
 
-  dimension: Monitored_executive_software_12 {
-    label: 'thing power'
+  dimension: Assimilated_mission_critical_orchestration_12 {
+    label: 'also doctor'
   }
 
-  dimension: Organic_multimedia_hub_13 {
-    label: 'think participant'
+  dimension: Multi_lateral_bandwidth_monitored_budgetary_management_13 {
+    label: 'focus card'
   }
 
-  dimension: Realigned_4thgeneration_Local_Area_Network_14 {
-    label: 'then forward'
+  dimension: Polarized_static_concept_14 {
+    label: 'place money'
   }
 
-  dimension: Devolved_optimizing_protocol_15 {
-    label: 'section book'
+  dimension: Inverse_directional_flexibility_15 {
+    label: 'enjoy art'
   }
 
-  dimension: Integrated_responsive_installation_16 {
-    label: 'growth nearly'
+  dimension: Compatible_object_oriented_open_architecture_16 {
+    label: 'interview meet'
   }
 
-  dimension: Focused_responsive_website_17 {
-    label: 'edge experience'
+  dimension: Sharable_fresh_thinking_portal_17 {
+    label: 'turn interview'
   }
 
-  dimension: Ameliorated_clear_thinking_intranet_18 {
-    label: 'plan leg'
+  dimension: Enterprise_wide_multi_tasking_ability_18 {
+    label: 'together mouth'
   }
 
   measure: measure_19 {
-    label: 'order industry'
+    label: 'design factor'
   }
 
-  dimension: Organized_well_modulated_emulation_20 {
-    label: 'animal that'
+  dimension: Programmable_transitional_interface_20 {
+    label: 'take near'
   }
 
-  dimension: Assimilated_systematic_solution_21 {
-    label: 'color station'
+  dimension: Integrated_systemic_intranet_21 {
+    label: 'dinner lot'
   }
 
-  dimension: Public_key_real_time_framework_22 {
-    label: 'night save'
+  dimension: Distributed_attitude_oriented_collaboration_22 {
+    label: 'real child'
   }
 
-  dimension: Robust_high_level_data_warehouse_23 {
-    label: 'military nothing'
+  dimension: Organized_context_sensitive_adapter_23 {
+    label: 'letter her'
   }
 
-  dimension: De_engineered_cohesive_knowledgebase_24 {
-    label: 'animal thousand'
+  dimension: Visionary_incremental_artificial_intelligence_24 {
+    label: 'television lawyer'
   }
 
 }
