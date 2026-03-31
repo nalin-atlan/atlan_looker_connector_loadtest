@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_0 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_0";
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_0" ;;
 
   dimension: Ergonomic_fresh_thinking_project_0 {
     label: "area start"

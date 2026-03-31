@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_2 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2";
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_2" ;;
 
   dimension: Profound_bandwidth_monitored_groupware_0 {
     label: "shake bed"

@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m1_0 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_0";
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m1_atlan_looker_connector_loadtest_v_m1_0" ;;
 
   dimension: Multi_tiered_static_attitude_0 {
     label: "current outside"

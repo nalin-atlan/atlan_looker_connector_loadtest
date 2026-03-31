@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_1 {
-  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_1";
+  sql_table_name: "public.synth_atlan_looker_connector_loadtest_m0_atlan_looker_connector_loadtest_v_m0_1" ;;
 
   dimension: Total_well_modulated_knowledge_user_0 {
     label: "down radio"
