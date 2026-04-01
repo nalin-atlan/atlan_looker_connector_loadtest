@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_3 {
   sql_table_name: public.synth_m0_v3 ;;
 
   dimension: primary_dimension {
-    label: "book well"
+    label: "people learn"
   }
 
-  dimension: re_contextualized_interactive_workforce_1 {
-    label: "water idea"
+  dimension: monitored_demand_driven_success_1 {
+    label: "sister together"
   }
 
-  dimension: synchronized_asymmetric_monitoring_2 {
-    label: "fund last"
+  dimension: organic_reciprocal_installation_2 {
+    label: "real nor"
   }
 
-  dimension: cross_group_clear_thinking_customer_loyalty_3 {
-    label: "create activity"
+  dimension: grass_roots_methodical_encryption_3 {
+    label: "college study"
   }
 
-  dimension: public_key_attitude_oriented_core_4 {
-    label: "those lay"
+  dimension: triple_buffered_leadingedge_framework_4 {
+    label: "practice chance"
   }
 
-  dimension: team_oriented_optimal_moderator_5 {
-    label: "new most"
+  dimension: open_source_logistical_budgetary_management_5 {
+    label: "expert story"
   }
 
-  dimension: ergonomic_attitude_oriented_conglomeration_6 {
-    label: "your staff"
+  dimension: organic_dedicated_emulation_6 {
+    label: "someone that"
   }
 
-  dimension: quality_focused_impactful_archive_7 {
-    label: "former what"
+  dimension: optional_reciprocal_portal_7 {
+    label: "most positive"
   }
 
-  dimension: public_key_optimizing_budgetary_management_8 {
-    label: "leave still"
+  dimension: devolved_encompassing_knowledge_user_8 {
+    label: "night receive"
   }
 
   measure: measure_9 {
-    label: "most talk"
+    label: "fast government"
   }
 
-  dimension: function_based_3rdgeneration_firmware_10 {
-    label: "whether change"
+  dimension: cross_platform_systematic_info_mediaries_10 {
+    label: "in car"
   }
 
-  dimension: re_engineered_cohesive_graphical_user_interface_11 {
-    label: "amount hit"
+  dimension: future_proofed_content_based_focus_group_11 {
+    label: "necessary often"
   }
 
-  dimension: organized_full_range_policy_12 {
-    label: "resource political"
+  dimension: seamless_needs_based_parallelism_12 {
+    label: "head health"
   }
 
-  dimension: fundamental_asymmetric_encoding_13 {
-    label: "prepare sign"
+  dimension: inverse_foreground_initiative_13 {
+    label: "decision team"
   }
 
-  dimension: re_engineered_solution_oriented_capability_14 {
-    label: "lead name"
+  dimension: organized_heuristic_definition_14 {
+    label: "international court"
   }
 
-  dimension: synchronized_methodical_migration_15 {
-    label: "feel build"
+  dimension: re_contextualized_contextually_based_toolset_15 {
+    label: "interest partner"
   }
 
-  dimension: reverse_engineered_next_generation_moderator_16 {
-    label: "image near"
+  dimension: customer_focused_24hour_process_improvement_16 {
+    label: "strategy from"
   }
 
-  dimension: up_sized_multi_tasking_open_architecture_17 {
-    label: "size she"
+  dimension: versatile_actuating_open_system_17 {
+    label: "speak whole"
   }
 
-  dimension: integrated_24_7_architecture_18 {
-    label: "nor by"
+  dimension: streamlined_maximized_support_18 {
+    label: "I plan"
   }
 
   measure: measure_19 {
-    label: "follow career"
+    label: "fine serious"
   }
 
-  dimension: object_based_3rdgeneration_structure_20 {
-    label: "suggest guy"
+  dimension: seamless_solution_oriented_alliance_20 {
+    label: "lot together"
   }
 
-  dimension: balanced_non_volatile_algorithm_21 {
-    label: "blue crime"
+  dimension: integrated_transitional_adapter_21 {
+    label: "different rich"
   }
 
-  dimension: fully_configurable_5thgeneration_attitude_22 {
-    label: "wife million"
+  dimension: sharable_dynamic_orchestration_22 {
+    label: "listen cold"
   }
 
-  dimension: advanced_24_7_monitoring_23 {
-    label: "too south"
+  dimension: distributed_asynchronous_middleware_23 {
+    label: "card head"
   }
 
-  dimension: adaptive_intangible_alliance_24 {
-    label: "its newspaper"
+  dimension: fundamental_global_success_24 {
+    label: "send much"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
-    label: "voice list"
+    label: "have dark"
   }
 
-  dimension: switchable_human_resource_encoding_1 {
-    label: "deal do"
+  dimension: organic_systematic_encoding_1 {
+    label: "agent almost"
   }
 
-  dimension: diverse_responsive_matrices_2 {
-    label: "sense sister"
+  dimension: digitized_hybrid_workforce_2 {
+    label: "along trip"
   }
 
-  dimension: innovative_optimal_circuit_3 {
-    label: "hot hand"
+  dimension: managed_modular_secured_line_3 {
+    label: "clear though"
   }
 
-  dimension: multi_tiered_scalable_algorithm_4 {
-    label: "indicate major"
+  dimension: realigned_6thgeneration_neural_net_4 {
+    label: "argue must"
   }
 
-  dimension: integrated_object_oriented_forecast_5 {
-    label: "real heavy"
+  dimension: self_enabling_reciprocal_instruction_set_5 {
+    label: "field cut"
   }
 
-  dimension: intuitive_exuding_collaboration_6 {
-    label: "series above"
+  dimension: robust_explicit_internet_solution_6 {
+    label: "language organization"
   }
 
-  dimension: phased_optimal_protocol_7 {
-    label: "century seek"
+  dimension: customer_focused_directional_interface_7 {
+    label: "social reduce"
   }
 
-  dimension: focused_logistical_attitude_8 {
-    label: "agreement suffer"
+  dimension: progressive_reciprocal_ability_8 {
+    label: "reality low"
   }
 
   measure: measure_9 {
-    label: "benefit to"
+    label: "model minute"
   }
 
-  dimension: synchronized_5thgeneration_frame_10 {
-    label: "room charge"
+  dimension: customer_focused_modular_application_10 {
+    label: "general range"
   }
 
-  dimension: face_to_face_analyzing_archive_11 {
-    label: "move tell"
+  dimension: digitized_holistic_middleware_11 {
+    label: "pick painting"
   }
 
-  dimension: re_contextualized_multi_tasking_moderator_12 {
-    label: "focus story"
+  dimension: open_architected_contextually_based_definition_12 {
+    label: "wish product"
   }
 
-  dimension: multi_tiered_grid_enabled_success_13 {
-    label: "determine interview"
+  dimension: quality_focused_background_workforce_13 {
+    label: "road pull"
   }
 
-  dimension: ergonomic_needs_based_moratorium_14 {
-    label: "ask significant"
+  dimension: balanced_even_keeled_product_14 {
+    label: "future positive"
   }
 
-  dimension: organized_analyzing_frame_15 {
-    label: "case gas"
+  dimension: streamlined_web_enabled_algorithm_15 {
+    label: "during my"
   }
 
-  dimension: enhanced_even_keeled_orchestration_16 {
-    label: "hard week"
+  dimension: mandatory_disintermediate_flexibility_16 {
+    label: "writer during"
   }
 
-  dimension: up_sized_dynamic_process_improvement_17 {
-    label: "spring who"
+  dimension: customizable_dedicated_definition_17 {
+    label: "thing laugh"
   }
 
-  dimension: up_sized_radical_secured_line_18 {
-    label: "former model"
+  dimension: mandatory_upward_trending_projection_18 {
+    label: "eye agreement"
   }
 
   measure: measure_19 {
-    label: "keep improve"
+    label: "pull star"
   }
 
-  dimension: ergonomic_client_driven_approach_20 {
-    label: "college between"
+  dimension: future_proofed_web_enabled_paradigm_20 {
+    label: "special owner"
   }
 
-  dimension: adaptive_local_time_frame_21 {
-    label: "fine themselves"
+  dimension: universal_holistic_instruction_set_21 {
+    label: "end begin"
   }
 
-  dimension: ameliorated_global_infrastructure_22 {
-    label: "world wear"
+  dimension: diverse_national_support_22 {
+    label: "serious go"
   }
 
-  dimension: customizable_6thgeneration_graphical_user_interface_23 {
-    label: "effect morning"
+  dimension: stand_alone_6thgeneration_service_desk_23 {
+    label: "animal similar"
   }
 
-  dimension: secured_holistic_open_architecture_24 {
-    label: "property character"
+  dimension: ergonomic_encompassing_moratorium_24 {
+    label: "federal term"
   }
 
 }

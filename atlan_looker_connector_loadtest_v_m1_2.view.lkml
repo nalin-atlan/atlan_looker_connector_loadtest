@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: public.synth_m1_v2 ;;
 
   dimension: primary_dimension {
-    label: "most never"
+    label: "after statement"
   }
 
-  dimension: ameliorated_uniform_approach_1 {
-    label: "mention some"
+  dimension: synergized_system_worthy_productivity_1 {
+    label: "reveal wall"
   }
 
-  dimension: customer_focused_zero_tolerance_flexibility_2 {
-    label: "day short"
+  dimension: compatible_executive_open_architecture_2 {
+    label: "situation dog"
   }
 
-  dimension: progressive_exuding_interface_3 {
-    label: "foreign level"
+  dimension: configurable_empowering_definition_3 {
+    label: "ground share"
   }
 
-  dimension: horizontal_empowering_projection_4 {
-    label: "American bed"
+  dimension: total_system_worthy_product_4 {
+    label: "policy author"
   }
 
-  dimension: customizable_5thgeneration_graphical_user_interface_5 {
-    label: "total free"
+  dimension: decentralized_5thgeneration_instruction_set_5 {
+    label: "government white"
   }
 
-  dimension: visionary_multi_state_hierarchy_6 {
-    label: "hard when"
+  dimension: virtual_24_7_budgetary_management_6 {
+    label: "stay compare"
   }
 
-  dimension: re_contextualized_optimal_flexibility_7 {
-    label: "across material"
+  dimension: synergized_eco_centric_infrastructure_7 {
+    label: "shoulder financial"
   }
 
-  dimension: configurable_6thgeneration_data_warehouse_8 {
-    label: "lose challenge"
+  dimension: ameliorated_composite_portal_8 {
+    label: "table best"
   }
 
   measure: measure_9 {
-    label: "role have"
+    label: "campaign two"
   }
 
-  dimension: cross_group_directional_structure_10 {
-    label: "degree technology"
+  dimension: persistent_fault_tolerant_data_warehouse_10 {
+    label: "serious hold"
   }
 
-  dimension: ameliorated_24hour_concept_11 {
-    label: "church meet"
+  dimension: synchronized_zero_administration_protocol_11 {
+    label: "president view"
   }
 
-  dimension: visionary_fresh_thinking_task_force_12 {
-    label: "example leader"
+  dimension: realigned_zero_tolerance_encryption_12 {
+    label: "pretty challenge"
   }
 
-  dimension: diverse_even_keeled_circuit_13 {
-    label: "pay under"
+  dimension: virtual_empowering_capacity_13 {
+    label: "yes possible"
   }
 
-  dimension: realigned_exuding_website_14 {
-    label: "structure make"
+  dimension: synergized_empowering_neural_net_14 {
+    label: "majority benefit"
   }
 
-  dimension: open_source_coherent_protocol_15 {
-    label: "TV forget"
+  dimension: organic_human_resource_leverage_15 {
+    label: "grow happen"
   }
 
-  dimension: optimized_discrete_alliance_16 {
-    label: "doctor positive"
+  dimension: versatile_empowering_application_16 {
+    label: "sport public"
   }
 
-  dimension: cross_platform_mobile_encoding_17 {
-    label: "not expert"
+  dimension: future_proofed_local_benchmark_17 {
+    label: "down according"
   }
 
-  dimension: enterprise_wide_cohesive_circuit_18 {
-    label: "best cell"
+  dimension: team_oriented_client_driven_benchmark_18 {
+    label: "cup see"
   }
 
   measure: measure_19 {
-    label: "sister degree"
+    label: "assume audience"
   }
 
-  dimension: multi_channeled_transitional_capacity_20 {
-    label: "sort sea"
+  dimension: down_sized_multi_state_moratorium_20 {
+    label: "baby right"
   }
 
-  dimension: programmable_asynchronous_success_21 {
-    label: "large attention"
+  dimension: multi_tiered_asymmetric_access_21 {
+    label: "be west"
   }
 
-  dimension: public_key_6thgeneration_installation_22 {
-    label: "me strategy"
+  dimension: progressive_contextually_based_budgetary_management_22 {
+    label: "final sound"
   }
 
-  dimension: user_friendly_directional_data_warehouse_23 {
-    label: "group speak"
+  dimension: balanced_24_7_frame_23 {
+    label: "room professional"
   }
 
-  dimension: realigned_intangible_neural_net_24 {
-    label: "last assume"
+  dimension: reactive_regional_matrices_24 {
+    label: "herself call"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: public.synth_m1_v1 ;;
 
   dimension: primary_dimension {
-    label: "computer choice"
+    label: "above produce"
   }
 
-  dimension: distributed_zero_administration_installation_1 {
-    label: "country Congress"
+  dimension: vision_oriented_content_based_circuit_1 {
+    label: "talk despite"
   }
 
-  dimension: profound_secondary_secured_line_2 {
-    label: "game conference"
+  dimension: digitized_neutral_help_desk_2 {
+    label: "partner thus"
   }
 
-  dimension: profit_focused_stable_ability_3 {
-    label: "condition deep"
+  dimension: up_sized_motivating_toolset_3 {
+    label: "camera entire"
   }
 
-  dimension: multi_tiered_coherent_artificial_intelligence_4 {
-    label: "instead on"
+  dimension: robust_client_server_access_4 {
+    label: "wear without"
   }
 
-  dimension: vision_oriented_high_level_array_5 {
-    label: "campaign plant"
+  dimension: multi_tiered_bottom_line_matrix_5 {
+    label: "trouble face"
   }
 
-  dimension: polarized_methodical_matrix_6 {
-    label: "none every"
+  dimension: stand_alone_foreground_firmware_6 {
+    label: "seven car"
   }
 
-  dimension: advanced_multi_state_synergy_7 {
-    label: "meeting individual"
+  dimension: stand_alone_content_based_hierarchy_7 {
+    label: "research technology"
   }
 
-  dimension: user_friendly_impactful_collaboration_8 {
-    label: "though guy"
+  dimension: grass_roots_dynamic_archive_8 {
+    label: "central record"
   }
 
   measure: measure_9 {
-    label: "talk success"
+    label: "third leg"
   }
 
-  dimension: persistent_bi_directional_system_engine_10 {
-    label: "form century"
+  dimension: ameliorated_executive_parallelism_10 {
+    label: "recent level"
   }
 
-  dimension: right_sized_bottom_line_toolset_11 {
-    label: "environmental buy"
+  dimension: reactive_systematic_access_11 {
+    label: "today study"
   }
 
-  dimension: horizontal_asynchronous_complexity_12 {
-    label: "order as"
+  dimension: grass_roots_4thgeneration_project_12 {
+    label: "matter real"
   }
 
-  dimension: ergonomic_secondary_policy_13 {
-    label: "choice event"
+  dimension: future_proofed_intangible_knowledgebase_13 {
+    label: "edge human"
   }
 
-  dimension: inverse_directional_conglomeration_14 {
-    label: "reach fact"
+  dimension: virtual_4thgeneration_migration_14 {
+    label: "class half"
   }
 
-  dimension: de_engineered_background_implementation_15 {
-    label: "left middle"
+  dimension: switchable_24hour_conglomeration_15 {
+    label: "think nature"
   }
 
-  dimension: face_to_face_discrete_initiative_16 {
-    label: "despite check"
+  dimension: assimilated_real_time_adapter_16 {
+    label: "exactly maintain"
   }
 
-  dimension: optional_uniform_flexibility_17 {
-    label: "me box"
+  dimension: visionary_system_worthy_success_17 {
+    label: "not information"
   }
 
-  dimension: sharable_analyzing_graphical_user_interface_18 {
-    label: "pass information"
+  dimension: reactive_regional_forecast_18 {
+    label: "prevent find"
   }
 
   measure: measure_19 {
-    label: "memory do"
+    label: "tend doctor"
   }
 
-  dimension: optional_solution_oriented_interface_20 {
-    label: "run role"
+  dimension: configurable_motivating_synergy_20 {
+    label: "rich score"
   }
 
-  dimension: cross_platform_bi_directional_benchmark_21 {
-    label: "sell community"
+  dimension: automated_directional_function_21 {
+    label: "single toward"
   }
 
-  dimension: object_based_web_enabled_policy_22 {
-    label: "spring decision"
+  dimension: expanded_interactive_policy_22 {
+    label: "structure four"
   }
 
-  dimension: re_contextualized_leadingedge_help_desk_23 {
-    label: "guy sport"
+  dimension: assimilated_mission_critical_model_23 {
+    label: "week point"
   }
 
-  dimension: user_centric_logistical_moderator_24 {
-    label: "partner near"
+  dimension: future_proofed_optimal_flexibility_24 {
+    label: "year represent"
   }
 
 }

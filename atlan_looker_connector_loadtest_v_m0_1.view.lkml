@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: public.synth_m0_v1 ;;
 
   dimension: primary_dimension {
-    label: "sign live"
+    label: "last account"
   }
 
-  dimension: virtual_multimedia_contingency_1 {
-    label: "college fight"
+  dimension: stand_alone_6thgeneration_firmware_1 {
+    label: "mention measure"
   }
 
-  dimension: fully_configurable_leadingedge_groupware_2 {
-    label: "ahead painting"
+  dimension: persistent_contextually_based_middleware_2 {
+    label: "site check"
   }
 
-  dimension: networked_responsive_orchestration_3 {
-    label: "beautiful chair"
+  dimension: persevering_eco_centric_array_3 {
+    label: "difficult major"
   }
 
-  dimension: switchable_optimizing_ability_4 {
-    label: "final firm"
+  dimension: grass_roots_multimedia_moratorium_4 {
+    label: "reveal operation"
   }
 
-  dimension: ameliorated_optimizing_collaboration_5 {
-    label: "billion task"
+  dimension: profit_focused_hybrid_benchmark_5 {
+    label: "certain detail"
   }
 
-  dimension: enterprise_wide_well_modulated_groupware_6 {
-    label: "recent citizen"
+  dimension: sharable_maximized_firmware_6 {
+    label: "character prove"
   }
 
-  dimension: universal_holistic_application_7 {
-    label: "level listen"
+  dimension: decentralized_homogeneous_projection_7 {
+    label: "participant rest"
   }
 
-  dimension: phased_responsive_budgetary_management_8 {
-    label: "kind be"
+  dimension: up_sized_needs_based_algorithm_8 {
+    label: "deep kind"
   }
 
   measure: measure_9 {
-    label: "instead despite"
+    label: "on standard"
   }
 
-  dimension: cloned_mobile_strategy_10 {
-    label: "model ok"
+  dimension: synergistic_encompassing_time_frame_10 {
+    label: "tough decision"
   }
 
-  dimension: realigned_static_array_11 {
-    label: "life experience"
+  dimension: de_engineered_multi_state_forecast_11 {
+    label: "month sense"
   }
 
-  dimension: grass_roots_non_volatile_workforce_12 {
-    label: "receive eye"
+  dimension: down_sized_upward_trending_process_improvement_12 {
+    label: "system trouble"
   }
 
-  dimension: versatile_national_access_13 {
-    label: "organization from"
+  dimension: intuitive_reciprocal_conglomeration_13 {
+    label: "born soldier"
   }
 
-  dimension: business_focused_static_moratorium_14 {
-    label: "environment various"
+  dimension: right_sized_full_range_standardization_14 {
+    label: "piece suddenly"
   }
 
-  dimension: persevering_clear_thinking_success_15 {
-    label: "administration low"
+  dimension: multi_lateral_encompassing_groupware_15 {
+    label: "fill either"
   }
 
-  dimension: optimized_executive_data_warehouse_16 {
-    label: "sport cell"
+  dimension: re_engineered_real_time_flexibility_16 {
+    label: "growth single"
   }
 
-  dimension: extended_client_server_circuit_17 {
-    label: "year sort"
+  dimension: seamless_next_generation_time_frame_17 {
+    label: "source little"
   }
 
-  dimension: function_based_composite_synergy_18 {
-    label: "world heart"
+  dimension: synergized_bi_directional_ability_18 {
+    label: "approach pull"
   }
 
   measure: measure_19 {
-    label: "well however"
+    label: "public song"
   }
 
-  dimension: managed_upward_trending_time_frame_20 {
-    label: "make herself"
+  dimension: visionary_web_enabled_core_20 {
+    label: "machine natural"
   }
 
-  dimension: automated_uniform_circuit_21 {
-    label: "something town"
+  dimension: profound_5thgeneration_functionalities_21 {
+    label: "others tend"
   }
 
-  dimension: expanded_3rdgeneration_structure_22 {
-    label: "data range"
+  dimension: cloned_foreground_firmware_22 {
+    label: "myself senior"
   }
 
-  dimension: implemented_modular_model_23 {
-    label: "six language"
+  dimension: grass_roots_impactful_collaboration_23 {
+    label: "management read"
   }
 
-  dimension: seamless_non_volatile_array_24 {
-    label: "despite office"
+  dimension: implemented_national_synergy_24 {
+    label: "at my"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: public.synth_m1_v0 ;;
 
   dimension: primary_dimension {
-    label: "she mention"
+    label: "fear very"
   }
 
-  dimension: enterprise_wide_radical_pricing_structure_1 {
-    label: "send mouth"
+  dimension: ergonomic_multimedia_function_1 {
+    label: "food federal"
   }
 
-  dimension: optional_neutral_productivity_2 {
-    label: "vote report"
+  dimension: stand_alone_bifurcated_groupware_2 {
+    label: "rather section"
   }
 
-  dimension: persistent_needs_based_product_3 {
-    label: "might true"
+  dimension: distributed_uniform_emulation_3 {
+    label: "five develop"
   }
 
-  dimension: robust_zero_administration_strategy_4 {
-    label: "a money"
+  dimension: triple_buffered_upward_trending_function_4 {
+    label: "difficult floor"
   }
 
-  dimension: horizontal_content_based_support_5 {
-    label: "toward couple"
+  dimension: programmable_upward_trending_access_5 {
+    label: "scene cold"
   }
 
-  dimension: switchable_bi_directional_function_6 {
-    label: "human particularly"
+  dimension: proactive_logistical_protocol_6 {
+    label: "candidate mention"
   }
 
-  dimension: diverse_explicit_encryption_7 {
-    label: "between not"
+  dimension: pre_emptive_upward_trending_budgetary_management_7 {
+    label: "doctor administration"
   }
 
-  dimension: multi_layered_mobile_moderator_8 {
-    label: "more attention"
+  dimension: fundamental_explicit_instruction_set_8 {
+    label: "pay professional"
   }
 
   measure: measure_9 {
-    label: "wonder owner"
+    label: "card son"
   }
 
-  dimension: up_sized_eco_centric_forecast_10 {
-    label: "continue newspaper"
+  dimension: monitored_directional_focus_group_10 {
+    label: "civil building"
   }
 
-  dimension: sharable_dynamic_task_force_11 {
-    label: "his manage"
+  dimension: universal_6thgeneration_data_warehouse_11 {
+    label: "well admit"
   }
 
-  dimension: enterprise_wide_homogeneous_framework_12 {
-    label: "available or"
+  dimension: self_enabling_radical_hardware_12 {
+    label: "control theory"
   }
 
-  dimension: cross_group_zero_administration_interface_13 {
-    label: "expert time"
+  dimension: vision_oriented_foreground_encoding_13 {
+    label: "record recently"
   }
 
-  dimension: face_to_face_background_hierarchy_14 {
-    label: "door change"
+  dimension: diverse_upward_trending_algorithm_14 {
+    label: "commercial two"
   }
 
-  dimension: self_enabling_4thgeneration_framework_15 {
-    label: "region news"
+  dimension: intuitive_encompassing_ability_15 {
+    label: "country top"
   }
 
-  dimension: customer_focused_multi_state_concept_16 {
-    label: "fast real"
+  dimension: self_enabling_well_modulated_emulation_16 {
+    label: "something face"
   }
 
-  dimension: multi_lateral_24_7_capability_17 {
-    label: "nothing fast"
+  dimension: reduced_asymmetric_model_17 {
+    label: "none interesting"
   }
 
-  dimension: cross_group_tangible_algorithm_18 {
-    label: "push blood"
+  dimension: profit_focused_contextually_based_open_system_18 {
+    label: "laugh piece"
   }
 
   measure: measure_19 {
-    label: "push indicate"
+    label: "these ok"
   }
 
-  dimension: multi_tiered_clear_thinking_functionalities_20 {
-    label: "offer page"
+  dimension: assimilated_5thgeneration_product_20 {
+    label: "style nice"
   }
 
-  dimension: triple_buffered_human_resource_framework_21 {
-    label: "agency summer"
+  dimension: multi_channeled_grid_enabled_data_warehouse_21 {
+    label: "hit best"
   }
 
-  dimension: robust_system_worthy_focus_group_22 {
-    label: "thousand standard"
+  dimension: enterprise_wide_national_toolset_22 {
+    label: "another another"
   }
 
-  dimension: sharable_5thgeneration_alliance_23 {
-    label: "culture election"
+  dimension: programmable_5thgeneration_flexibility_23 {
+    label: "traditional board"
   }
 
-  dimension: switchable_local_definition_24 {
-    label: "tax protect"
+  dimension: cross_platform_intangible_definition_24 {
+    label: "campaign southern"
   }
 
 }
