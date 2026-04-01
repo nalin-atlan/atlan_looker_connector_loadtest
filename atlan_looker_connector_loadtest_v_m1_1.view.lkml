@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: public.synth_m1_v1 ;;
 
   dimension: primary_dimension {
-    label: "above produce"
+    label: "Republican particularly"
   }
 
-  dimension: vision_oriented_content_based_circuit_1 {
-    label: "talk despite"
+  dimension: quality_focused_holistic_algorithm_1 {
+    label: "foot rest"
   }
 
-  dimension: digitized_neutral_help_desk_2 {
-    label: "partner thus"
+  dimension: robust_uniform_capability_2 {
+    label: "there name"
   }
 
-  dimension: up_sized_motivating_toolset_3 {
-    label: "camera entire"
+  dimension: customizable_dynamic_support_3 {
+    label: "wrong to"
   }
 
-  dimension: robust_client_server_access_4 {
-    label: "wear without"
+  dimension: digitized_high_level_frame_4 {
+    label: "evidence partner"
   }
 
-  dimension: multi_tiered_bottom_line_matrix_5 {
-    label: "trouble face"
+  dimension: switchable_empowering_synergy_5 {
+    label: "likely cup"
   }
 
-  dimension: stand_alone_foreground_firmware_6 {
-    label: "seven car"
+  dimension: progressive_eco_centric_access_6 {
+    label: "all decade"
   }
 
-  dimension: stand_alone_content_based_hierarchy_7 {
-    label: "research technology"
+  dimension: total_grid_enabled_implementation_7 {
+    label: "campaign class"
   }
 
-  dimension: grass_roots_dynamic_archive_8 {
-    label: "central record"
+  dimension: centralized_demand_driven_paradigm_8 {
+    label: "common letter"
   }
 
   measure: measure_9 {
-    label: "third leg"
+    label: "federal score"
   }
 
-  dimension: ameliorated_executive_parallelism_10 {
-    label: "recent level"
+  dimension: stand_alone_context_sensitive_internet_solution_10 {
+    label: "deal various"
   }
 
-  dimension: reactive_systematic_access_11 {
-    label: "today study"
+  dimension: progressive_composite_database_11 {
+    label: "environmental adult"
   }
 
-  dimension: grass_roots_4thgeneration_project_12 {
-    label: "matter real"
+  dimension: synergistic_local_help_desk_12 {
+    label: "bit teach"
   }
 
-  dimension: future_proofed_intangible_knowledgebase_13 {
-    label: "edge human"
+  dimension: open_source_uniform_intranet_13 {
+    label: "wife local"
   }
 
-  dimension: virtual_4thgeneration_migration_14 {
-    label: "class half"
+  dimension: diverse_leadingedge_help_desk_14 {
+    label: "possible worker"
   }
 
-  dimension: switchable_24hour_conglomeration_15 {
-    label: "think nature"
+  dimension: distributed_dedicated_task_force_15 {
+    label: "thing decision"
   }
 
-  dimension: assimilated_real_time_adapter_16 {
-    label: "exactly maintain"
+  dimension: intuitive_bottom_line_alliance_16 {
+    label: "public treat"
   }
 
-  dimension: visionary_system_worthy_success_17 {
-    label: "not information"
+  dimension: realigned_zero_tolerance_extranet_17 {
+    label: "police fact"
   }
 
-  dimension: reactive_regional_forecast_18 {
-    label: "prevent find"
+  dimension: balanced_executive_internet_solution_18 {
+    label: "kid trip"
   }
 
   measure: measure_19 {
-    label: "tend doctor"
+    label: "claim eye"
   }
 
-  dimension: configurable_motivating_synergy_20 {
-    label: "rich score"
+  dimension: ameliorated_composite_policy_20 {
+    label: "large other"
   }
 
-  dimension: automated_directional_function_21 {
-    label: "single toward"
+  dimension: managed_value_added_success_21 {
+    label: "finish describe"
   }
 
-  dimension: expanded_interactive_policy_22 {
-    label: "structure four"
+  dimension: balanced_methodical_groupware_22 {
+    label: "go name"
   }
 
-  dimension: assimilated_mission_critical_model_23 {
-    label: "week point"
+  dimension: enhanced_discrete_collaboration_23 {
+    label: "interest person"
   }
 
-  dimension: future_proofed_optimal_flexibility_24 {
-    label: "year represent"
+  dimension: proactive_neutral_groupware_24 {
+    label: "where identify"
   }
 
 }

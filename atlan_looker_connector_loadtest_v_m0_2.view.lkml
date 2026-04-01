@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: public.synth_m0_v2 ;;
 
   dimension: primary_dimension {
-    label: "culture seven"
+    label: "subject leader"
   }
 
-  dimension: proactive_responsive_extranet_1 {
-    label: "high agency"
+  dimension: devolved_system_worthy_synergy_1 {
+    label: "produce bill"
   }
 
-  dimension: open_source_clear_thinking_secured_line_2 {
-    label: "later help"
+  dimension: down_sized_directional_project_2 {
+    label: "investment hit"
   }
 
-  dimension: persistent_clear_thinking_support_3 {
-    label: "account describe"
+  dimension: expanded_value_added_graphic_interface_3 {
+    label: "part hospital"
   }
 
-  dimension: profit_focused_24hour_support_4 {
-    label: "everyone number"
+  dimension: public_key_static_process_improvement_4 {
+    label: "prepare because"
   }
 
-  dimension: decentralized_6thgeneration_solution_5 {
-    label: "over computer"
+  dimension: customer_focused_foreground_help_desk_5 {
+    label: "anyone better"
   }
 
-  dimension: total_value_added_extranet_6 {
-    label: "school seek"
+  dimension: phased_global_hierarchy_6 {
+    label: "son deep"
   }
 
-  dimension: seamless_motivating_approach_7 {
-    label: "former but"
+  dimension: extended_discrete_time_frame_7 {
+    label: "gas thing"
   }
 
-  dimension: virtual_fault_tolerant_array_8 {
-    label: "than back"
+  dimension: open_architected_non_volatile_workforce_8 {
+    label: "chance art"
   }
 
   measure: measure_9 {
-    label: "beautiful rich"
+    label: "enough especially"
   }
 
-  dimension: vision_oriented_secondary_concept_10 {
-    label: "toward safe"
+  dimension: secured_multi_tasking_interface_10 {
+    label: "possible test"
   }
 
-  dimension: devolved_upward_trending_instruction_set_11 {
-    label: "their about"
+  dimension: progressive_methodical_superstructure_11 {
+    label: "stock staff"
   }
 
-  dimension: devolved_uniform_ability_12 {
-    label: "reduce together"
+  dimension: seamless_static_throughput_12 {
+    label: "letter drive"
   }
 
-  dimension: front_line_non_volatile_algorithm_13 {
-    label: "through financial"
+  dimension: proactive_next_generation_installation_13 {
+    label: "fine might"
   }
 
-  dimension: customer_focused_intangible_emulation_14 {
-    label: "later rock"
+  dimension: intuitive_clear_thinking_access_14 {
+    label: "guy them"
   }
 
-  dimension: innovative_didactic_project_15 {
-    label: "free lead"
+  dimension: devolved_responsive_process_improvement_15 {
+    label: "national good"
   }
 
-  dimension: enhanced_background_archive_16 {
-    label: "college rather"
+  dimension: managed_human_resource_conglomeration_16 {
+    label: "main road"
   }
 
-  dimension: stand_alone_even_keeled_process_improvement_17 {
-    label: "medical state"
+  dimension: total_maximized_adapter_17 {
+    label: "training kid"
   }
 
-  dimension: phased_upward_trending_initiative_18 {
-    label: "how simple"
+  dimension: automated_zero_administration_circuit_18 {
+    label: "away must"
   }
 
   measure: measure_19 {
-    label: "crime detail"
+    label: "city must"
   }
 
-  dimension: universal_exuding_conglomeration_20 {
-    label: "exactly task"
+  dimension: total_zero_tolerance_architecture_20 {
+    label: "too later"
   }
 
-  dimension: stand_alone_radical_success_21 {
-    label: "television town"
+  dimension: pre_emptive_high_level_complexity_21 {
+    label: "hot visit"
   }
 
-  dimension: ameliorated_content_based_conglomeration_22 {
-    label: "property wide"
+  dimension: networked_bandwidth_monitored_graphic_interface_22 {
+    label: "economy official"
   }
 
-  dimension: open_architected_client_driven_policy_23 {
-    label: "her the"
+  dimension: devolved_contextually_based_structure_23 {
+    label: "writer should"
   }
 
-  dimension: centralized_6thgeneration_analyzer_24 {
-    label: "effort turn"
+  dimension: seamless_hybrid_portal_24 {
+    label: "establish guy"
   }
 
 }

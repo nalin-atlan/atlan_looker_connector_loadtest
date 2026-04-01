@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: public.synth_m1_v2 ;;
 
   dimension: primary_dimension {
-    label: "after statement"
+    label: "simple guess"
   }
 
-  dimension: synergized_system_worthy_productivity_1 {
-    label: "reveal wall"
+  dimension: user_friendly_mobile_focus_group_1 {
+    label: "modern anything"
   }
 
-  dimension: compatible_executive_open_architecture_2 {
-    label: "situation dog"
+  dimension: enterprise_wide_non_volatile_parallelism_2 {
+    label: "page security"
   }
 
-  dimension: configurable_empowering_definition_3 {
-    label: "ground share"
+  dimension: reverse_engineered_transitional_moratorium_3 {
+    label: "this trip"
   }
 
-  dimension: total_system_worthy_product_4 {
-    label: "policy author"
+  dimension: right_sized_systematic_process_improvement_4 {
+    label: "early act"
   }
 
-  dimension: decentralized_5thgeneration_instruction_set_5 {
-    label: "government white"
+  dimension: future_proofed_human_resource_standardization_5 {
+    label: "forget part"
   }
 
-  dimension: virtual_24_7_budgetary_management_6 {
-    label: "stay compare"
+  dimension: progressive_dedicated_utilization_6 {
+    label: "buy control"
   }
 
-  dimension: synergized_eco_centric_infrastructure_7 {
-    label: "shoulder financial"
+  dimension: inverse_systemic_conglomeration_7 {
+    label: "need than"
   }
 
-  dimension: ameliorated_composite_portal_8 {
-    label: "table best"
+  dimension: grass_roots_tangible_implementation_8 {
+    label: "animal probably"
   }
 
   measure: measure_9 {
-    label: "campaign two"
+    label: "necessary pick"
   }
 
-  dimension: persistent_fault_tolerant_data_warehouse_10 {
-    label: "serious hold"
+  dimension: fundamental_clear_thinking_workforce_10 {
+    label: "structure ball"
   }
 
-  dimension: synchronized_zero_administration_protocol_11 {
-    label: "president view"
+  dimension: realigned_intangible_challenge_11 {
+    label: "wear certainly"
   }
 
-  dimension: realigned_zero_tolerance_encryption_12 {
-    label: "pretty challenge"
+  dimension: customer_focused_upward_trending_implementation_12 {
+    label: "exist eight"
   }
 
-  dimension: virtual_empowering_capacity_13 {
-    label: "yes possible"
+  dimension: customizable_3rdgeneration_attitude_13 {
+    label: "suggest former"
   }
 
-  dimension: synergized_empowering_neural_net_14 {
-    label: "majority benefit"
+  dimension: proactive_user_facing_emulation_14 {
+    label: "themselves likely"
   }
 
-  dimension: organic_human_resource_leverage_15 {
-    label: "grow happen"
+  dimension: visionary_interactive_internet_solution_15 {
+    label: "choose environment"
   }
 
-  dimension: versatile_empowering_application_16 {
-    label: "sport public"
+  dimension: persistent_eco_centric_process_improvement_16 {
+    label: "prevent it"
   }
 
-  dimension: future_proofed_local_benchmark_17 {
-    label: "down according"
+  dimension: multi_lateral_tertiary_intranet_17 {
+    label: "recent blood"
   }
 
-  dimension: team_oriented_client_driven_benchmark_18 {
-    label: "cup see"
+  dimension: synergized_upward_trending_methodology_18 {
+    label: "whatever top"
   }
 
   measure: measure_19 {
-    label: "assume audience"
+    label: "war card"
   }
 
-  dimension: down_sized_multi_state_moratorium_20 {
-    label: "baby right"
+  dimension: future_proofed_discrete_product_20 {
+    label: "fly by"
   }
 
-  dimension: multi_tiered_asymmetric_access_21 {
-    label: "be west"
+  dimension: assimilated_web_enabled_contingency_21 {
+    label: "important with"
   }
 
-  dimension: progressive_contextually_based_budgetary_management_22 {
-    label: "final sound"
+  dimension: multi_lateral_multi_state_framework_22 {
+    label: "exactly loss"
   }
 
-  dimension: balanced_24_7_frame_23 {
-    label: "room professional"
+  dimension: progressive_client_driven_installation_23 {
+    label: "action challenge"
   }
 
-  dimension: reactive_regional_matrices_24 {
-    label: "herself call"
+  dimension: implemented_secondary_attitude_24 {
+    label: "single rest"
   }
 
 }

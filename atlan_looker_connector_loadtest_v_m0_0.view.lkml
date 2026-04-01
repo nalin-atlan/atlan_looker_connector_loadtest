@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
-    label: "have dark"
+    label: "all value"
   }
 
-  dimension: organic_systematic_encoding_1 {
-    label: "agent almost"
+  dimension: user_friendly_encompassing_orchestration_1 {
+    label: "us teacher"
   }
 
-  dimension: digitized_hybrid_workforce_2 {
-    label: "along trip"
+  dimension: polarized_responsive_knowledgebase_2 {
+    label: "risk hundred"
   }
 
-  dimension: managed_modular_secured_line_3 {
-    label: "clear though"
+  dimension: re_contextualized_uniform_functionalities_3 {
+    label: "what by"
   }
 
-  dimension: realigned_6thgeneration_neural_net_4 {
-    label: "argue must"
+  dimension: secured_non_volatile_toolset_4 {
+    label: "bit necessary"
   }
 
-  dimension: self_enabling_reciprocal_instruction_set_5 {
-    label: "field cut"
+  dimension: fully_configurable_hybrid_contingency_5 {
+    label: "actually theory"
   }
 
-  dimension: robust_explicit_internet_solution_6 {
-    label: "language organization"
+  dimension: de_engineered_system_worthy_attitude_6 {
+    label: "throw about"
   }
 
-  dimension: customer_focused_directional_interface_7 {
-    label: "social reduce"
+  dimension: distributed_user_facing_superstructure_7 {
+    label: "no itself"
   }
 
-  dimension: progressive_reciprocal_ability_8 {
-    label: "reality low"
+  dimension: triple_buffered_reciprocal_local_area_network_8 {
+    label: "fact within"
   }
 
   measure: measure_9 {
-    label: "model minute"
+    label: "improve sort"
   }
 
-  dimension: customer_focused_modular_application_10 {
-    label: "general range"
+  dimension: switchable_static_hardware_10 {
+    label: "general property"
   }
 
-  dimension: digitized_holistic_middleware_11 {
-    label: "pick painting"
+  dimension: open_architected_hybrid_structure_11 {
+    label: "century month"
   }
 
-  dimension: open_architected_contextually_based_definition_12 {
-    label: "wish product"
+  dimension: streamlined_asynchronous_parallelism_12 {
+    label: "poor resource"
   }
 
-  dimension: quality_focused_background_workforce_13 {
-    label: "road pull"
+  dimension: proactive_local_graphical_user_interface_13 {
+    label: "mean least"
   }
 
-  dimension: balanced_even_keeled_product_14 {
-    label: "future positive"
+  dimension: compatible_secondary_open_system_14 {
+    label: "pass voice"
   }
 
-  dimension: streamlined_web_enabled_algorithm_15 {
-    label: "during my"
+  dimension: organic_composite_protocol_15 {
+    label: "one building"
   }
 
-  dimension: mandatory_disintermediate_flexibility_16 {
-    label: "writer during"
+  dimension: expanded_intermediate_hierarchy_16 {
+    label: "direction quite"
   }
 
-  dimension: customizable_dedicated_definition_17 {
-    label: "thing laugh"
+  dimension: visionary_disintermediate_implementation_17 {
+    label: "believe like"
   }
 
-  dimension: mandatory_upward_trending_projection_18 {
-    label: "eye agreement"
+  dimension: cross_platform_zero_defect_info_mediaries_18 {
+    label: "investment girl"
   }
 
   measure: measure_19 {
-    label: "pull star"
+    label: "generation important"
   }
 
-  dimension: future_proofed_web_enabled_paradigm_20 {
-    label: "special owner"
+  dimension: total_high_level_ability_20 {
+    label: "mind staff"
   }
 
-  dimension: universal_holistic_instruction_set_21 {
-    label: "end begin"
+  dimension: assimilated_mission_critical_flexibility_21 {
+    label: "situation little"
   }
 
-  dimension: diverse_national_support_22 {
-    label: "serious go"
+  dimension: progressive_actuating_leverage_22 {
+    label: "pick painting"
   }
 
-  dimension: stand_alone_6thgeneration_service_desk_23 {
-    label: "animal similar"
+  dimension: de_engineered_systematic_encryption_23 {
+    label: "along discuss"
   }
 
-  dimension: ergonomic_encompassing_moratorium_24 {
-    label: "federal term"
+  dimension: vision_oriented_demand_driven_parallelism_24 {
+    label: "parent network"
   }
 
 }

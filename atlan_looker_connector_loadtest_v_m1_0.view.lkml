@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: public.synth_m1_v0 ;;
 
   dimension: primary_dimension {
-    label: "fear very"
+    label: "science father"
   }
 
-  dimension: ergonomic_multimedia_function_1 {
-    label: "food federal"
+  dimension: reactive_bandwidth_monitored_adapter_1 {
+    label: "civil capital"
   }
 
-  dimension: stand_alone_bifurcated_groupware_2 {
-    label: "rather section"
+  dimension: expanded_regional_access_2 {
+    label: "rather political"
   }
 
-  dimension: distributed_uniform_emulation_3 {
-    label: "five develop"
+  dimension: expanded_24hour_flexibility_3 {
+    label: "want table"
   }
 
-  dimension: triple_buffered_upward_trending_function_4 {
-    label: "difficult floor"
+  dimension: mandatory_3rdgeneration_intranet_4 {
+    label: "military purpose"
   }
 
-  dimension: programmable_upward_trending_access_5 {
-    label: "scene cold"
+  dimension: ameliorated_methodical_analyzer_5 {
+    label: "yourself possible"
   }
 
-  dimension: proactive_logistical_protocol_6 {
-    label: "candidate mention"
+  dimension: fully_configurable_composite_graphic_interface_6 {
+    label: "set across"
   }
 
-  dimension: pre_emptive_upward_trending_budgetary_management_7 {
-    label: "doctor administration"
+  dimension: open_architected_hybrid_infrastructure_7 {
+    label: "offer himself"
   }
 
-  dimension: fundamental_explicit_instruction_set_8 {
-    label: "pay professional"
+  dimension: adaptive_logistical_pricing_structure_8 {
+    label: "detail place"
   }
 
   measure: measure_9 {
-    label: "card son"
+    label: "heart west"
   }
 
-  dimension: monitored_directional_focus_group_10 {
-    label: "civil building"
+  dimension: multi_lateral_scalable_knowledgebase_10 {
+    label: "prepare method"
   }
 
-  dimension: universal_6thgeneration_data_warehouse_11 {
-    label: "well admit"
+  dimension: advanced_mobile_utilization_11 {
+    label: "section sister"
   }
 
-  dimension: self_enabling_radical_hardware_12 {
-    label: "control theory"
+  dimension: organic_actuating_synergy_12 {
+    label: "condition around"
   }
 
-  dimension: vision_oriented_foreground_encoding_13 {
-    label: "record recently"
+  dimension: monitored_zero_administration_firmware_13 {
+    label: "environment imagine"
   }
 
-  dimension: diverse_upward_trending_algorithm_14 {
-    label: "commercial two"
+  dimension: business_focused_scalable_product_14 {
+    label: "news such"
   }
 
-  dimension: intuitive_encompassing_ability_15 {
-    label: "country top"
+  dimension: seamless_directional_core_15 {
+    label: "help food"
   }
 
-  dimension: self_enabling_well_modulated_emulation_16 {
-    label: "something face"
+  dimension: sharable_client_driven_policy_16 {
+    label: "west thing"
   }
 
-  dimension: reduced_asymmetric_model_17 {
-    label: "none interesting"
+  dimension: implemented_reciprocal_local_area_network_17 {
+    label: "book blue"
   }
 
-  dimension: profit_focused_contextually_based_open_system_18 {
-    label: "laugh piece"
+  dimension: optimized_tertiary_protocol_18 {
+    label: "and senior"
   }
 
   measure: measure_19 {
-    label: "these ok"
+    label: "wait myself"
   }
 
-  dimension: assimilated_5thgeneration_product_20 {
-    label: "style nice"
+  dimension: multi_lateral_eco_centric_capability_20 {
+    label: "upon green"
   }
 
-  dimension: multi_channeled_grid_enabled_data_warehouse_21 {
-    label: "hit best"
+  dimension: diverse_impactful_solution_21 {
+    label: "go population"
   }
 
-  dimension: enterprise_wide_national_toolset_22 {
-    label: "another another"
+  dimension: intuitive_attitude_oriented_productivity_22 {
+    label: "great above"
   }
 
-  dimension: programmable_5thgeneration_flexibility_23 {
-    label: "traditional board"
+  dimension: public_key_zero_defect_implementation_23 {
+    label: "push listen"
   }
 
-  dimension: cross_platform_intangible_definition_24 {
-    label: "campaign southern"
+  dimension: intuitive_contextually_based_framework_24 {
+    label: "during very"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: public.synth_m0_v1 ;;
 
   dimension: primary_dimension {
-    label: "last account"
+    label: "theory couple"
   }
 
-  dimension: stand_alone_6thgeneration_firmware_1 {
-    label: "mention measure"
+  dimension: enterprise_wide_optimizing_artificial_intelligence_1 {
+    label: "international health"
   }
 
-  dimension: persistent_contextually_based_middleware_2 {
-    label: "site check"
+  dimension: realigned_systemic_extranet_2 {
+    label: "everyone eat"
   }
 
-  dimension: persevering_eco_centric_array_3 {
-    label: "difficult major"
+  dimension: implemented_dedicated_groupware_3 {
+    label: "another one"
   }
 
-  dimension: grass_roots_multimedia_moratorium_4 {
-    label: "reveal operation"
+  dimension: virtual_reciprocal_benchmark_4 {
+    label: "order total"
   }
 
-  dimension: profit_focused_hybrid_benchmark_5 {
-    label: "certain detail"
+  dimension: seamless_background_hub_5 {
+    label: "bill similar"
   }
 
-  dimension: sharable_maximized_firmware_6 {
-    label: "character prove"
+  dimension: synchronized_zero_defect_frame_6 {
+    label: "perhaps debate"
   }
 
-  dimension: decentralized_homogeneous_projection_7 {
-    label: "participant rest"
+  dimension: fundamental_fresh_thinking_leverage_7 {
+    label: "father talk"
   }
 
-  dimension: up_sized_needs_based_algorithm_8 {
-    label: "deep kind"
+  dimension: multi_layered_responsive_standardization_8 {
+    label: "sort whether"
   }
 
   measure: measure_9 {
-    label: "on standard"
+    label: "guess be"
   }
 
-  dimension: synergistic_encompassing_time_frame_10 {
-    label: "tough decision"
+  dimension: mandatory_zero_tolerance_system_engine_10 {
+    label: "near production"
   }
 
-  dimension: de_engineered_multi_state_forecast_11 {
-    label: "month sense"
+  dimension: integrated_zero_defect_concept_11 {
+    label: "growth several"
   }
 
-  dimension: down_sized_upward_trending_process_improvement_12 {
-    label: "system trouble"
+  dimension: synergistic_client_driven_migration_12 {
+    label: "well animal"
   }
 
-  dimension: intuitive_reciprocal_conglomeration_13 {
-    label: "born soldier"
+  dimension: mandatory_holistic_time_frame_13 {
+    label: "network figure"
   }
 
-  dimension: right_sized_full_range_standardization_14 {
-    label: "piece suddenly"
+  dimension: virtual_demand_driven_function_14 {
+    label: "page benefit"
   }
 
-  dimension: multi_lateral_encompassing_groupware_15 {
-    label: "fill either"
+  dimension: enterprise_wide_3rdgeneration_service_desk_15 {
+    label: "both exactly"
   }
 
-  dimension: re_engineered_real_time_flexibility_16 {
-    label: "growth single"
+  dimension: fundamental_high_level_monitoring_16 {
+    label: "far daughter"
   }
 
-  dimension: seamless_next_generation_time_frame_17 {
-    label: "source little"
+  dimension: reduced_modular_ability_17 {
+    label: "history necessary"
   }
 
-  dimension: synergized_bi_directional_ability_18 {
-    label: "approach pull"
+  dimension: user_centric_regional_definition_18 {
+    label: "chance general"
   }
 
   measure: measure_19 {
-    label: "public song"
+    label: "behind training"
   }
 
-  dimension: visionary_web_enabled_core_20 {
-    label: "machine natural"
+  dimension: virtual_maximized_core_20 {
+    label: "general onto"
   }
 
-  dimension: profound_5thgeneration_functionalities_21 {
-    label: "others tend"
+  dimension: customizable_modular_approach_21 {
+    label: "scene woman"
   }
 
-  dimension: cloned_foreground_firmware_22 {
-    label: "myself senior"
+  dimension: triple_buffered_leadingedge_function_22 {
+    label: "trade able"
   }
 
-  dimension: grass_roots_impactful_collaboration_23 {
-    label: "management read"
+  dimension: versatile_multi_tasking_pricing_structure_23 {
+    label: "information cut"
   }
 
-  dimension: implemented_national_synergy_24 {
-    label: "at my"
+  dimension: ameliorated_multi_tasking_synergy_24 {
+    label: "daughter question"
   }
 
 }
