@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: "public.synth_m0_v2" ;;
 
   dimension: primary_dimension {
-    label: "evening thank"
+    label: "soon skin"
   }
 
-  dimension: profound_maximized_task_force_1 {
-    label: "before year"
+  dimension: reverse_engineered_intermediate_complexity_1 {
+    label: "do staff"
   }
 
-  dimension: reverse_engineered_neutral_function_2 {
-    label: "ok station"
+  dimension: reverse_engineered_eco_centric_projection_2 {
+    label: "whole into"
   }
 
-  dimension: streamlined_non_volatile_conglomeration_3 {
-    label: "far star"
+  dimension: stand_alone_fresh_thinking_projection_3 {
+    label: "end tough"
   }
 
-  dimension: focused_explicit_task_force_4 {
-    label: "third then"
+  dimension: synergistic_radical_functionalities_4 {
+    label: "painting voice"
   }
 
-  dimension: re_contextualized_24_7_budgetary_management_5 {
-    label: "interest sense"
+  dimension: universal_methodical_productivity_5 {
+    label: "write light"
   }
 
-  dimension: proactive_directional_collaboration_6 {
-    label: "green wife"
+  dimension: quality_focused_hybrid_methodology_6 {
+    label: "action even"
   }
 
-  dimension: re_contextualized_multi_tasking_access_7 {
-    label: "consider he"
+  dimension: devolved_web_enabled_time_frame_7 {
+    label: "subject little"
   }
 
-  dimension: virtual_solution_oriented_architecture_8 {
-    label: "good medical"
+  dimension: organized_bifurcated_customer_loyalty_8 {
+    label: "task seat"
   }
 
   measure: measure_9 {
-    label: "letter public"
+    label: "discussion investment"
   }
 
-  dimension: up_sized_next_generation_approach_10 {
-    label: "sport produce"
+  dimension: fundamental_national_firmware_10 {
+    label: "thousand city"
   }
 
-  dimension: open_architected_static_task_force_11 {
-    label: "such try"
+  dimension: horizontal_context_sensitive_orchestration_11 {
+    label: "close north"
   }
 
-  dimension: horizontal_human_resource_frame_12 {
-    label: "attack gas"
+  dimension: reactive_non_volatile_initiative_12 {
+    label: "quality could"
   }
 
-  dimension: down_sized_global_definition_13 {
-    label: "theory compare"
+  dimension: reduced_system_worthy_complexity_13 {
+    label: "message arm"
   }
 
-  dimension: re_engineered_secondary_hardware_14 {
-    label: "region her"
+  dimension: re_engineered_multimedia_array_14 {
+    label: "current scientist"
   }
 
-  dimension: devolved_upward_trending_portal_15 {
-    label: "computer this"
+  dimension: enterprise_wide_multimedia_attitude_15 {
+    label: "reality create"
   }
 
-  dimension: synergistic_tangible_knowledgebase_16 {
-    label: "return pressure"
+  dimension: ameliorated_holistic_graphic_interface_16 {
+    label: "firm director"
   }
 
-  dimension: right_sized_grid_enabled_algorithm_17 {
-    label: "huge position"
+  dimension: pre_emptive_contextually_based_database_17 {
+    label: "place or"
   }
 
-  dimension: enhanced_foreground_emulation_18 {
-    label: "wall authority"
+  dimension: advanced_full_range_software_18 {
+    label: "control white"
   }
 
   measure: measure_19 {
-    label: "effect weight"
+    label: "show light"
   }
 
-  dimension: synchronized_heuristic_application_20 {
-    label: "wonder moment"
+  dimension: cloned_transitional_workforce_20 {
+    label: "student director"
   }
 
-  dimension: monitored_leadingedge_firmware_21 {
-    label: "worry speak"
+  dimension: configurable_non_volatile_challenge_21 {
+    label: "car nearly"
   }
 
-  dimension: digitized_cohesive_access_22 {
-    label: "live sit"
+  dimension: sharable_zero_defect_secured_line_22 {
+    label: "clear thank"
   }
 
-  dimension: assimilated_methodical_frame_23 {
-    label: "to again"
+  dimension: multi_channeled_web_enabled_circuit_23 {
+    label: "past heart"
   }
 
-  dimension: team_oriented_high_level_hierarchy_24 {
-    label: "assume pattern"
+  dimension: profit_focused_contextually_based_focus_group_24 {
+    label: "church close"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: "public.synth_m0_v1" ;;
 
   dimension: primary_dimension {
-    label: "how federal"
+    label: "nation oil"
   }
 
-  dimension: down_sized_impactful_approach_1 {
-    label: "suggest station"
+  dimension: advanced_3rdgeneration_capability_1 {
+    label: "community determine"
   }
 
-  dimension: multi_tiered_exuding_conglomeration_2 {
-    label: "doctor during"
+  dimension: synchronized_zero_tolerance_budgetary_management_2 {
+    label: "can senior"
   }
 
-  dimension: centralized_4thgeneration_firmware_3 {
-    label: "generation red"
+  dimension: visionary_analyzing_paradigm_3 {
+    label: "Mrs say"
   }
 
-  dimension: decentralized_mobile_application_4 {
-    label: "up fill"
+  dimension: public_key_content_based_data_warehouse_4 {
+    label: "debate rather"
   }
 
-  dimension: fundamental_coherent_instruction_set_5 {
-    label: "miss already"
+  dimension: adaptive_multi_tasking_pricing_structure_5 {
+    label: "perform rate"
   }
 
-  dimension: ergonomic_eco_centric_application_6 {
-    label: "important structure"
+  dimension: cross_group_web_enabled_utilization_6 {
+    label: "rise coach"
   }
 
-  dimension: team_oriented_demand_driven_emulation_7 {
-    label: "area population"
+  dimension: face_to_face_foreground_model_7 {
+    label: "image measure"
   }
 
-  dimension: stand_alone_foreground_support_8 {
-    label: "thing wall"
+  dimension: streamlined_directional_internet_solution_8 {
+    label: "most fight"
   }
 
   measure: measure_9 {
-    label: "join story"
+    label: "turn performance"
   }
 
-  dimension: enterprise_wide_content_based_application_10 {
-    label: "early build"
+  dimension: optimized_contextually_based_data_warehouse_10 {
+    label: "choice church"
   }
 
-  dimension: devolved_multi_tasking_archive_11 {
-    label: "teach truth"
+  dimension: virtual_impactful_access_11 {
+    label: "federal purpose"
   }
 
-  dimension: fully_configurable_user_facing_internet_solution_12 {
-    label: "everything inside"
+  dimension: reactive_content_based_capacity_12 {
+    label: "form though"
   }
 
-  dimension: ergonomic_systematic_implementation_13 {
-    label: "pick exactly"
+  dimension: total_uniform_model_13 {
+    label: "pressure human"
   }
 
-  dimension: customizable_full_range_open_architecture_14 {
-    label: "discover generation"
+  dimension: universal_context_sensitive_middleware_14 {
+    label: "career happen"
   }
 
-  dimension: managed_system_worthy_synergy_15 {
-    label: "plant film"
+  dimension: balanced_bottom_line_circuit_15 {
+    label: "bag simple"
   }
 
-  dimension: visionary_3rdgeneration_protocol_16 {
-    label: "rich give"
+  dimension: right_sized_context_sensitive_artificial_intelligence_16 {
+    label: "imagine could"
   }
 
-  dimension: adaptive_transitional_instruction_set_17 {
-    label: "foreign hold"
+  dimension: visionary_context_sensitive_policy_17 {
+    label: "several plant"
   }
 
-  dimension: versatile_fault_tolerant_support_18 {
-    label: "radio so"
+  dimension: horizontal_transitional_moratorium_18 {
+    label: "development firm"
   }
 
   measure: measure_19 {
-    label: "research field"
+    label: "those last"
   }
 
-  dimension: upgradable_5thgeneration_project_20 {
-    label: "election enter"
+  dimension: business_focused_eco_centric_implementation_20 {
+    label: "our rest"
   }
 
-  dimension: public_key_value_added_interface_21 {
-    label: "so throughout"
+  dimension: multi_lateral_motivating_neural_net_21 {
+    label: "south sit"
   }
 
-  dimension: universal_next_generation_support_22 {
-    label: "entire customer"
+  dimension: front_line_hybrid_portal_22 {
+    label: "art close"
   }
 
-  dimension: organic_heuristic_model_23 {
-    label: "system recently"
+  dimension: cloned_global_orchestration_23 {
+    label: "shoulder your"
   }
 
-  dimension: vision_oriented_even_keeled_functionalities_24 {
-    label: "ever north"
+  dimension: sharable_web_enabled_encoding_24 {
+    label: "future kind"
   }
 
 }

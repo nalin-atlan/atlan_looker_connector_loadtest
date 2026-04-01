@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_3 {
   sql_table_name: "public.synth_m0_v3" ;;
 
   dimension: primary_dimension {
-    label: "recent data"
+    label: "pull as"
   }
 
-  dimension: extended_solution_oriented_groupware_1 {
-    label: "local control"
+  dimension: stand_alone_directional_orchestration_1 {
+    label: "successful admit"
   }
 
-  dimension: assimilated_zero_tolerance_superstructure_2 {
-    label: "budget catch"
+  dimension: open_architected_responsive_policy_2 {
+    label: "kind accept"
   }
 
-  dimension: horizontal_needs_based_neural_net_3 {
-    label: "sense society"
+  dimension: implemented_discrete_circuit_3 {
+    label: "radio raise"
   }
 
-  dimension: fundamental_directional_function_4 {
-    label: "member role"
+  dimension: reactive_mission_critical_system_engine_4 {
+    label: "write leader"
   }
 
-  dimension: devolved_next_generation_encryption_5 {
-    label: "name give"
+  dimension: intuitive_logistical_archive_5 {
+    label: "so politics"
   }
 
-  dimension: universal_bi_directional_attitude_6 {
-    label: "than again"
+  dimension: monitored_6thgeneration_matrix_6 {
+    label: "event wrong"
   }
 
-  dimension: total_holistic_customer_loyalty_7 {
-    label: "bad sister"
+  dimension: managed_multi_tasking_help_desk_7 {
+    label: "degree town"
   }
 
-  dimension: sharable_composite_model_8 {
-    label: "event mean"
+  dimension: exclusive_background_encoding_8 {
+    label: "head else"
   }
 
   measure: measure_9 {
-    label: "partner concern"
+    label: "strategy describe"
   }
 
-  dimension: decentralized_background_structure_10 {
-    label: "travel heavy"
+  dimension: multi_tiered_local_neural_net_10 {
+    label: "no yeah"
   }
 
-  dimension: universal_content_based_support_11 {
-    label: "short third"
+  dimension: fundamental_even_keeled_info_mediaries_11 {
+    label: "clearly late"
   }
 
-  dimension: synergistic_directional_capability_12 {
-    label: "score history"
+  dimension: de_engineered_logistical_extranet_12 {
+    label: "how music"
   }
 
-  dimension: universal_stable_synergy_13 {
-    label: "collection down"
+  dimension: decentralized_stable_system_engine_13 {
+    label: "budget employee"
   }
 
-  dimension: triple_buffered_dynamic_info_mediaries_14 {
-    label: "eye more"
+  dimension: polarized_demand_driven_circuit_14 {
+    label: "yourself serious"
   }
 
-  dimension: decentralized_value_added_firmware_15 {
-    label: "ok know"
+  dimension: operative_cohesive_open_architecture_15 {
+    label: "official white"
   }
 
-  dimension: polarized_zero_defect_solution_16 {
-    label: "score represent"
+  dimension: re_engineered_even_keeled_architecture_16 {
+    label: "mother political"
   }
 
-  dimension: up_sized_human_resource_neural_net_17 {
-    label: "decade source"
+  dimension: cross_platform_6thgeneration_service_desk_17 {
+    label: "collection debate"
   }
 
-  dimension: inverse_bifurcated_artificial_intelligence_18 {
-    label: "window air"
+  dimension: advanced_24hour_superstructure_18 {
+    label: "garden may"
   }
 
   measure: measure_19 {
-    label: "activity able"
+    label: "method space"
   }
 
-  dimension: de_engineered_multi_tasking_architecture_20 {
-    label: "develop always"
+  dimension: synergistic_fresh_thinking_info_mediaries_20 {
+    label: "very catch"
   }
 
-  dimension: secured_mobile_methodology_21 {
-    label: "direction likely"
+  dimension: open_architected_client_server_circuit_21 {
+    label: "scene situation"
   }
 
-  dimension: assimilated_neutral_installation_22 {
-    label: "under save"
+  dimension: total_encompassing_middleware_22 {
+    label: "quickly explain"
   }
 
-  dimension: persevering_disintermediate_open_system_23 {
-    label: "different different"
+  dimension: automated_secondary_frame_23 {
+    label: "site senior"
   }
 
-  dimension: configurable_asynchronous_frame_24 {
-    label: "identify administration"
+  dimension: de_engineered_mobile_system_engine_24 {
+    label: "base high"
   }
 
 }

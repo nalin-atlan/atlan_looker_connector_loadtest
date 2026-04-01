@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: "public.synth_m0_v0" ;;
 
   dimension: primary_dimension {
-    label: "court season"
+    label: "number region"
   }
 
-  dimension: triple_buffered_grid_enabled_task_force_1 {
-    label: "hard thank"
+  dimension: configurable_fresh_thinking_graphic_interface_1 {
+    label: "skin send"
   }
 
-  dimension: open_architected_object_oriented_graphical_user_interface_2 {
-    label: "the safe"
+  dimension: proactive_executive_algorithm_2 {
+    label: "money up"
   }
 
-  dimension: cloned_solution_oriented_customer_loyalty_3 {
-    label: "prove real"
+  dimension: fully_configurable_transitional_implementation_3 {
+    label: "sell edge"
   }
 
-  dimension: persistent_foreground_structure_4 {
-    label: "such bank"
+  dimension: distributed_analyzing_product_4 {
+    label: "measure fight"
   }
 
-  dimension: synergistic_bifurcated_knowledgebase_5 {
-    label: "one couple"
+  dimension: customer_focused_intermediate_flexibility_5 {
+    label: "direction society"
   }
 
-  dimension: function_based_interactive_encoding_6 {
-    label: "institution same"
+  dimension: triple_buffered_5thgeneration_monitoring_6 {
+    label: "develop bed"
   }
 
-  dimension: re_contextualized_national_capacity_7 {
-    label: "represent table"
+  dimension: enterprise_wide_context_sensitive_moderator_7 {
+    label: "everything common"
   }
 
-  dimension: distributed_actuating_policy_8 {
-    label: "include right"
+  dimension: upgradable_upward_trending_orchestration_8 {
+    label: "trade let"
   }
 
   measure: measure_9 {
-    label: "capital begin"
+    label: "short fear"
   }
 
-  dimension: persevering_bifurcated_complexity_10 {
-    label: "sense mother"
+  dimension: object_based_logistical_benchmark_10 {
+    label: "place no"
   }
 
-  dimension: down_sized_tangible_strategy_11 {
-    label: "ever security"
+  dimension: automated_composite_info_mediaries_11 {
+    label: "drop thing"
   }
 
-  dimension: organized_systematic_project_12 {
-    label: "tell nation"
+  dimension: progressive_fault_tolerant_solution_12 {
+    label: "instead great"
   }
 
-  dimension: profit_focused_demand_driven_secured_line_13 {
-    label: "early else"
+  dimension: synergistic_encompassing_alliance_13 {
+    label: "they future"
   }
 
-  dimension: de_engineered_next_generation_access_14 {
-    label: "career range"
+  dimension: innovative_content_based_interface_14 {
+    label: "environment society"
   }
 
-  dimension: progressive_grid_enabled_success_15 {
-    label: "realize culture"
+  dimension: proactive_fresh_thinking_graphic_interface_15 {
+    label: "treat may"
   }
 
-  dimension: total_full_range_paradigm_16 {
-    label: "eight as"
+  dimension: polarized_contextually_based_support_16 {
+    label: "feeling analysis"
   }
 
-  dimension: versatile_cohesive_neural_net_17 {
-    label: "customer specific"
+  dimension: automated_well_modulated_projection_17 {
+    label: "even message"
   }
 
-  dimension: profit_focused_content_based_adapter_18 {
-    label: "cell animal"
+  dimension: centralized_intermediate_solution_18 {
+    label: "move everything"
   }
 
   measure: measure_19 {
-    label: "receive smile"
+    label: "industry partner"
   }
 
-  dimension: business_focused_radical_model_20 {
-    label: "half nice"
+  dimension: centralized_zero_defect_portal_20 {
+    label: "develop age"
   }
 
-  dimension: devolved_global_time_frame_21 {
-    label: "also protect"
+  dimension: de_engineered_zero_tolerance_concept_21 {
+    label: "culture network"
   }
 
-  dimension: open_source_coherent_throughput_22 {
-    label: "guess sense"
+  dimension: self_enabling_static_matrices_22 {
+    label: "medical television"
   }
 
-  dimension: mandatory_homogeneous_strategy_23 {
-    label: "decision prevent"
+  dimension: networked_methodical_superstructure_23 {
+    label: "who PM"
   }
 
-  dimension: team_oriented_multimedia_website_24 {
-    label: "above win"
+  dimension: customer_focused_incremental_monitoring_24 {
+    label: "already build"
   }
 
 }

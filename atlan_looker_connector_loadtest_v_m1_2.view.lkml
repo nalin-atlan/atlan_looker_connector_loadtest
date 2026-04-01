@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: "public.synth_m1_v2" ;;
 
   dimension: primary_dimension {
-    label: "part weight"
+    label: "authority happy"
   }
 
-  dimension: triple_buffered_leadingedge_conglomeration_1 {
-    label: "draw PM"
+  dimension: realigned_5thgeneration_benchmark_1 {
+    label: "successful teacher"
   }
 
-  dimension: reverse_engineered_upward_trending_productivity_2 {
-    label: "at wall"
+  dimension: vision_oriented_3rdgeneration_implementation_2 {
+    label: "find consider"
   }
 
-  dimension: multi_channeled_non_volatile_model_3 {
-    label: "scene view"
+  dimension: object_based_multi_tasking_pricing_structure_3 {
+    label: "among others"
   }
 
-  dimension: persistent_scalable_task_force_4 {
-    label: "live alone"
+  dimension: customizable_demand_driven_data_warehouse_4 {
+    label: "forward just"
   }
 
-  dimension: synergistic_didactic_info_mediaries_5 {
-    label: "three or"
+  dimension: distributed_explicit_help_desk_5 {
+    label: "situation reason"
   }
 
-  dimension: down_sized_client_server_capability_6 {
-    label: "right along"
+  dimension: managed_explicit_instruction_set_6 {
+    label: "resource bag"
   }
 
-  dimension: future_proofed_dynamic_installation_7 {
-    label: "read deal"
+  dimension: managed_clear_thinking_capability_7 {
+    label: "tend thing"
   }
 
-  dimension: networked_uniform_algorithm_8 {
-    label: "lot everybody"
+  dimension: enterprise_wide_responsive_secured_line_8 {
+    label: "billion policy"
   }
 
   measure: measure_9 {
-    label: "choose the"
+    label: "group word"
   }
 
-  dimension: integrated_zero_administration_firmware_10 {
-    label: "color seem"
+  dimension: diverse_maximized_model_10 {
+    label: "in stock"
   }
 
-  dimension: implemented_explicit_ability_11 {
-    label: "little reveal"
+  dimension: triple_buffered_exuding_info_mediaries_11 {
+    label: "cause ground"
   }
 
-  dimension: progressive_national_budgetary_management_12 {
-    label: "describe gun"
+  dimension: digitized_zero_administration_support_12 {
+    label: "necessary wish"
   }
 
-  dimension: automated_content_based_conglomeration_13 {
-    label: "actually success"
+  dimension: multi_layered_dedicated_system_engine_13 {
+    label: "space series"
   }
 
-  dimension: synergistic_multi_tasking_challenge_14 {
-    label: "safe child"
+  dimension: persistent_solution_oriented_encryption_14 {
+    label: "dinner kid"
   }
 
-  dimension: implemented_motivating_system_engine_15 {
-    label: "bag board"
+  dimension: total_next_generation_initiative_15 {
+    label: "bad should"
   }
 
-  dimension: intuitive_contextually_based_benchmark_16 {
-    label: "theory save"
+  dimension: synchronized_composite_internet_solution_16 {
+    label: "car art"
   }
 
-  dimension: face_to_face_human_resource_contingency_17 {
-    label: "stand beat"
+  dimension: fully_configurable_system_worthy_customer_loyalty_17 {
+    label: "hair international"
   }
 
-  dimension: quality_focused_user_facing_application_18 {
-    label: "mouth student"
+  dimension: profound_multi_tasking_framework_18 {
+    label: "would thank"
   }
 
   measure: measure_19 {
-    label: "almost state"
+    label: "keep soon"
   }
 
-  dimension: distributed_radical_complexity_20 {
-    label: "trade concern"
+  dimension: streamlined_executive_adapter_20 {
+    label: "industry someone"
   }
 
-  dimension: implemented_cohesive_help_desk_21 {
-    label: "over professor"
+  dimension: team_oriented_intangible_interface_21 {
+    label: "threat thank"
   }
 
-  dimension: enhanced_systemic_implementation_22 {
-    label: "health likely"
+  dimension: implemented_system_worthy_analyzer_22 {
+    label: "green minute"
   }
 
-  dimension: implemented_discrete_groupware_23 {
-    label: "nation order"
+  dimension: multi_tiered_systemic_help_desk_23 {
+    label: "along however"
   }
 
-  dimension: optimized_neutral_open_system_24 {
-    label: "stock crime"
+  dimension: decentralized_maximized_functionalities_24 {
+    label: "whatever arm"
   }
 
 }

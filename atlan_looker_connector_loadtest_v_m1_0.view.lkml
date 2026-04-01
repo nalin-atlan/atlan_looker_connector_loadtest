@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: "public.synth_m1_v0" ;;
 
   dimension: primary_dimension {
-    label: "see expect"
+    label: "skin bed"
   }
 
-  dimension: secured_composite_flexibility_1 {
-    label: "hair go"
+  dimension: enterprise_wide_multi_tasking_framework_1 {
+    label: "series avoid"
   }
 
-  dimension: progressive_optimizing_alliance_2 {
-    label: "that action"
+  dimension: balanced_neutral_workforce_2 {
+    label: "brother film"
   }
 
-  dimension: re_contextualized_fresh_thinking_graphical_user_interface_3 {
-    label: "pattern citizen"
+  dimension: switchable_intermediate_structure_3 {
+    label: "right region"
   }
 
-  dimension: sharable_asynchronous_benchmark_4 {
-    label: "yourself firm"
+  dimension: multi_channeled_real_time_collaboration_4 {
+    label: "so area"
   }
 
-  dimension: digitized_dynamic_hierarchy_5 {
-    label: "view political"
+  dimension: self_enabling_24hour_approach_5 {
+    label: "me serve"
   }
 
-  dimension: monitored_clear_thinking_attitude_6 {
-    label: "throw best"
+  dimension: configurable_high_level_array_6 {
+    label: "wide subject"
   }
 
-  dimension: centralized_dedicated_functionalities_7 {
-    label: "experience have"
+  dimension: networked_multi_tasking_superstructure_7 {
+    label: "beat share"
   }
 
-  dimension: up_sized_didactic_challenge_8 {
-    label: "relationship increase"
+  dimension: grass_roots_well_modulated_solution_8 {
+    label: "Mrs floor"
   }
 
   measure: measure_9 {
-    label: "realize seat"
+    label: "court set"
   }
 
-  dimension: versatile_multimedia_strategy_10 {
-    label: "often next"
+  dimension: public_key_executive_emulation_10 {
+    label: "deep factor"
   }
 
-  dimension: optimized_leadingedge_extranet_11 {
-    label: "best writer"
+  dimension: sharable_24_7_approach_11 {
+    label: "act few"
   }
 
-  dimension: implemented_high_level_toolset_12 {
-    label: "consumer already"
+  dimension: phased_full_range_matrices_12 {
+    label: "record knowledge"
   }
 
-  dimension: extended_asynchronous_circuit_13 {
-    label: "owner effort"
+  dimension: persevering_4thgeneration_secured_line_13 {
+    label: "letter to"
   }
 
-  dimension: assimilated_encompassing_strategy_14 {
-    label: "even need"
+  dimension: ameliorated_neutral_core_14 {
+    label: "newspaper top"
   }
 
-  dimension: open_source_neutral_paradigm_15 {
-    label: "age stop"
+  dimension: total_tertiary_archive_15 {
+    label: "candidate product"
   }
 
-  dimension: ameliorated_mobile_paradigm_16 {
-    label: "must risk"
+  dimension: quality_focused_clear_thinking_framework_16 {
+    label: "front price"
   }
 
-  dimension: enterprise_wide_dedicated_firmware_17 {
-    label: "character star"
+  dimension: intuitive_maximized_time_frame_17 {
+    label: "west oil"
   }
 
-  dimension: fundamental_zero_tolerance_process_improvement_18 {
-    label: "join message"
+  dimension: streamlined_object_oriented_graphical_user_interface_18 {
+    label: "if sister"
   }
 
   measure: measure_19 {
-    label: "president defense"
+    label: "myself box"
   }
 
-  dimension: vision_oriented_needs_based_archive_20 {
-    label: "best paper"
+  dimension: vision_oriented_value_added_policy_20 {
+    label: "challenge large"
   }
 
-  dimension: automated_scalable_forecast_21 {
-    label: "beautiful training"
+  dimension: open_architected_6thgeneration_graphic_interface_21 {
+    label: "meet green"
   }
 
-  dimension: fundamental_heuristic_software_22 {
-    label: "newspaper example"
+  dimension: devolved_discrete_projection_22 {
+    label: "upon least"
   }
 
-  dimension: organic_high_level_architecture_23 {
-    label: "anyone available"
+  dimension: face_to_face_multi_tasking_middleware_23 {
+    label: "military PM"
   }
 
-  dimension: balanced_zero_administration_hub_24 {
-    label: "others president"
+  dimension: visionary_user_facing_data_warehouse_24 {
+    label: "could business"
   }
 
 }

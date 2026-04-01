@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: "public.synth_m1_v1" ;;
 
   dimension: primary_dimension {
-    label: "laugh trip"
+    label: "card during"
   }
 
-  dimension: right_sized_24_7_paradigm_1 {
-    label: "six box"
+  dimension: reactive_exuding_migration_1 {
+    label: "month chance"
   }
 
-  dimension: re_contextualized_dedicated_graphical_user_interface_2 {
-    label: "no carry"
+  dimension: multi_channeled_solution_oriented_orchestration_2 {
+    label: "contain successful"
   }
 
-  dimension: de_engineered_interactive_implementation_3 {
-    label: "chair affect"
+  dimension: fully_configurable_holistic_pricing_structure_3 {
+    label: "discussion author"
   }
 
-  dimension: stand_alone_fault_tolerant_hierarchy_4 {
-    label: "home become"
+  dimension: universal_leadingedge_pricing_structure_4 {
+    label: "rise property"
   }
 
-  dimension: sharable_static_instruction_set_5 {
-    label: "less week"
+  dimension: realigned_even_keeled_paradigm_5 {
+    label: "identify strategy"
   }
 
-  dimension: down_sized_executive_analyzer_6 {
-    label: "air follow"
+  dimension: user_friendly_bandwidth_monitored_synergy_6 {
+    label: "over those"
   }
 
-  dimension: synergistic_needs_based_instruction_set_7 {
-    label: "leg admit"
+  dimension: customer_focused_24_7_service_desk_7 {
+    label: "condition hotel"
   }
 
-  dimension: ergonomic_user_facing_collaboration_8 {
-    label: "act land"
+  dimension: decentralized_eco_centric_groupware_8 {
+    label: "light country"
   }
 
   measure: measure_9 {
-    label: "possible name"
+    label: "wide church"
   }
 
-  dimension: assimilated_6thgeneration_archive_10 {
-    label: "firm trip"
+  dimension: synergized_object_oriented_challenge_10 {
+    label: "study order"
   }
 
-  dimension: programmable_stable_intranet_11 {
-    label: "reason ok"
+  dimension: digitized_national_approach_11 {
+    label: "phone stay"
   }
 
-  dimension: centralized_user_facing_standardization_12 {
-    label: "me doctor"
+  dimension: triple_buffered_incremental_model_12 {
+    label: "but quality"
   }
 
-  dimension: multi_layered_transitional_hub_13 {
-    label: "strategy mouth"
+  dimension: persevering_explicit_task_force_13 {
+    label: "place great"
   }
 
-  dimension: future_proofed_global_secured_line_14 {
-    label: "surface during"
+  dimension: exclusive_exuding_neural_net_14 {
+    label: "fight type"
   }
 
-  dimension: self_enabling_global_frame_15 {
-    label: "draw because"
+  dimension: reactive_mobile_protocol_15 {
+    label: "raise be"
   }
 
-  dimension: horizontal_coherent_process_improvement_16 {
-    label: "produce reason"
+  dimension: ergonomic_intermediate_functionalities_16 {
+    label: "shoulder your"
   }
 
-  dimension: optimized_24_7_application_17 {
-    label: "million nothing"
+  dimension: monitored_neutral_conglomeration_17 {
+    label: "interview every"
   }
 
-  dimension: cross_platform_optimal_knowledgebase_18 {
-    label: "should specific"
+  dimension: phased_well_modulated_process_improvement_18 {
+    label: "live either"
   }
 
   measure: measure_19 {
-    label: "attack site"
+    label: "ago per"
   }
 
-  dimension: synergized_secondary_approach_20 {
-    label: "every type"
+  dimension: fully_configurable_incremental_policy_20 {
+    label: "low phone"
   }
 
-  dimension: integrated_systematic_ability_21 {
-    label: "item across"
+  dimension: cross_platform_fresh_thinking_success_21 {
+    label: "draw car"
   }
 
-  dimension: re_engineered_clear_thinking_benchmark_22 {
-    label: "produce do"
+  dimension: configurable_maximized_database_22 {
+    label: "build action"
   }
 
-  dimension: centralized_discrete_open_architecture_23 {
-    label: "enter lot"
+  dimension: balanced_exuding_collaboration_23 {
+    label: "never support"
   }
 
-  dimension: future_proofed_tangible_help_desk_24 {
-    label: "scene someone"
+  dimension: enterprise_wide_high_level_monitoring_24 {
+    label: "west standard"
   }
 
 }
