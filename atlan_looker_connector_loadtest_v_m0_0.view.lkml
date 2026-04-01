@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: "public.synth_m0_v0" ;;
 
   dimension: primary_dimension {
-    label: "miss race"
+    label: "court season"
   }
 
-  dimension: object_based_systematic_synergy_1 {
-    label: "forget building"
+  dimension: triple_buffered_grid_enabled_task_force_1 {
+    label: "hard thank"
   }
 
-  dimension: business_focused_discrete_database_2 {
-    label: "me red"
+  dimension: open_architected_object_oriented_graphical_user_interface_2 {
+    label: "the safe"
   }
 
-  dimension: multi_channeled_multimedia_frame_3 {
-    label: "me idea"
+  dimension: cloned_solution_oriented_customer_loyalty_3 {
+    label: "prove real"
   }
 
-  dimension: multi_tiered_hybrid_throughput_4 {
-    label: "alone especially"
+  dimension: persistent_foreground_structure_4 {
+    label: "such bank"
   }
 
-  dimension: assimilated_regional_migration_5 {
-    label: "forget notice"
+  dimension: synergistic_bifurcated_knowledgebase_5 {
+    label: "one couple"
   }
 
-  dimension: future_proofed_neutral_data_warehouse_6 {
-    label: "heavy resource"
+  dimension: function_based_interactive_encoding_6 {
+    label: "institution same"
   }
 
-  dimension: inverse_next_generation_secured_line_7 {
-    label: "stuff but"
+  dimension: re_contextualized_national_capacity_7 {
+    label: "represent table"
   }
 
-  dimension: persevering_national_instruction_set_8 {
-    label: "heavy outside"
+  dimension: distributed_actuating_policy_8 {
+    label: "include right"
   }
 
   measure: measure_9 {
-    label: "like too"
+    label: "capital begin"
   }
 
-  dimension: profit_focused_bifurcated_approach_10 {
-    label: "many question"
+  dimension: persevering_bifurcated_complexity_10 {
+    label: "sense mother"
   }
 
-  dimension: focused_multi_tasking_local_area_network_11 {
-    label: "will trade"
+  dimension: down_sized_tangible_strategy_11 {
+    label: "ever security"
   }
 
-  dimension: pre_emptive_homogeneous_framework_12 {
-    label: "be identify"
+  dimension: organized_systematic_project_12 {
+    label: "tell nation"
   }
 
-  dimension: face_to_face_coherent_attitude_13 {
-    label: "Democrat question"
+  dimension: profit_focused_demand_driven_secured_line_13 {
+    label: "early else"
   }
 
-  dimension: public_key_explicit_emulation_14 {
-    label: "follow chair"
+  dimension: de_engineered_next_generation_access_14 {
+    label: "career range"
   }
 
-  dimension: object_based_intermediate_core_15 {
-    label: "serve remain"
+  dimension: progressive_grid_enabled_success_15 {
+    label: "realize culture"
   }
 
-  dimension: synergized_clear_thinking_model_16 {
-    label: "future the"
+  dimension: total_full_range_paradigm_16 {
+    label: "eight as"
   }
 
-  dimension: enterprise_wide_contextually_based_complexity_17 {
-    label: "character article"
+  dimension: versatile_cohesive_neural_net_17 {
+    label: "customer specific"
   }
 
-  dimension: integrated_24_7_alliance_18 {
-    label: "front explain"
+  dimension: profit_focused_content_based_adapter_18 {
+    label: "cell animal"
   }
 
   measure: measure_19 {
-    label: "become interview"
+    label: "receive smile"
   }
 
-  dimension: multi_layered_regional_budgetary_management_20 {
-    label: "issue choice"
+  dimension: business_focused_radical_model_20 {
+    label: "half nice"
   }
 
-  dimension: profit_focused_client_driven_extranet_21 {
-    label: "wear especially"
+  dimension: devolved_global_time_frame_21 {
+    label: "also protect"
   }
 
-  dimension: visionary_high_level_info_mediaries_22 {
-    label: "you building"
+  dimension: open_source_coherent_throughput_22 {
+    label: "guess sense"
   }
 
-  dimension: multi_layered_optimizing_knowledge_user_23 {
-    label: "less including"
+  dimension: mandatory_homogeneous_strategy_23 {
+    label: "decision prevent"
   }
 
-  dimension: distributed_optimizing_protocol_24 {
-    label: "another cost"
+  dimension: team_oriented_multimedia_website_24 {
+    label: "above win"
   }
 
 }

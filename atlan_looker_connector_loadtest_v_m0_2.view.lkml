@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: "public.synth_m0_v2" ;;
 
   dimension: primary_dimension {
-    label: "head go"
+    label: "evening thank"
   }
 
-  dimension: compatible_global_approach_1 {
-    label: "so spring"
+  dimension: profound_maximized_task_force_1 {
+    label: "before year"
   }
 
-  dimension: total_bandwidth_monitored_array_2 {
-    label: "hand agency"
+  dimension: reverse_engineered_neutral_function_2 {
+    label: "ok station"
   }
 
-  dimension: profound_eco_centric_implementation_3 {
-    label: "adult serious"
+  dimension: streamlined_non_volatile_conglomeration_3 {
+    label: "far star"
   }
 
-  dimension: integrated_methodical_process_improvement_4 {
-    label: "peace along"
+  dimension: focused_explicit_task_force_4 {
+    label: "third then"
   }
 
-  dimension: assimilated_optimizing_moratorium_5 {
-    label: "often thought"
+  dimension: re_contextualized_24_7_budgetary_management_5 {
+    label: "interest sense"
   }
 
-  dimension: integrated_bi_directional_task_force_6 {
-    label: "customer serve"
+  dimension: proactive_directional_collaboration_6 {
+    label: "green wife"
   }
 
-  dimension: customizable_empowering_time_frame_7 {
-    label: "write long"
+  dimension: re_contextualized_multi_tasking_access_7 {
+    label: "consider he"
   }
 
-  dimension: function_based_disintermediate_approach_8 {
-    label: "focus ahead"
+  dimension: virtual_solution_oriented_architecture_8 {
+    label: "good medical"
   }
 
   measure: measure_9 {
-    label: "eight Congress"
+    label: "letter public"
   }
 
-  dimension: re_engineered_fresh_thinking_monitoring_10 {
-    label: "could choice"
+  dimension: up_sized_next_generation_approach_10 {
+    label: "sport produce"
   }
 
-  dimension: front_line_clear_thinking_methodology_11 {
-    label: "front offer"
+  dimension: open_architected_static_task_force_11 {
+    label: "such try"
   }
 
-  dimension: integrated_even_keeled_throughput_12 {
-    label: "machine current"
+  dimension: horizontal_human_resource_frame_12 {
+    label: "attack gas"
   }
 
-  dimension: function_based_static_local_area_network_13 {
-    label: "art event"
+  dimension: down_sized_global_definition_13 {
+    label: "theory compare"
   }
 
-  dimension: enhanced_maximized_neural_net_14 {
-    label: "decade some"
+  dimension: re_engineered_secondary_hardware_14 {
+    label: "region her"
   }
 
-  dimension: persistent_high_level_firmware_15 {
-    label: "difference future"
+  dimension: devolved_upward_trending_portal_15 {
+    label: "computer this"
   }
 
-  dimension: stand_alone_4thgeneration_methodology_16 {
-    label: "paper third"
+  dimension: synergistic_tangible_knowledgebase_16 {
+    label: "return pressure"
   }
 
-  dimension: team_oriented_attitude_oriented_graphic_interface_17 {
-    label: "bank full"
+  dimension: right_sized_grid_enabled_algorithm_17 {
+    label: "huge position"
   }
 
-  dimension: secured_intangible_flexibility_18 {
-    label: "view particular"
+  dimension: enhanced_foreground_emulation_18 {
+    label: "wall authority"
   }
 
   measure: measure_19 {
-    label: "step pressure"
+    label: "effect weight"
   }
 
-  dimension: exclusive_3rdgeneration_adapter_20 {
-    label: "listen modern"
+  dimension: synchronized_heuristic_application_20 {
+    label: "wonder moment"
   }
 
-  dimension: multi_layered_executive_paradigm_21 {
-    label: "here just"
+  dimension: monitored_leadingedge_firmware_21 {
+    label: "worry speak"
   }
 
-  dimension: exclusive_web_enabled_adapter_22 {
-    label: "vote others"
+  dimension: digitized_cohesive_access_22 {
+    label: "live sit"
   }
 
-  dimension: down_sized_logistical_core_23 {
-    label: "both data"
+  dimension: assimilated_methodical_frame_23 {
+    label: "to again"
   }
 
-  dimension: innovative_well_modulated_success_24 {
-    label: "major a"
+  dimension: team_oriented_high_level_hierarchy_24 {
+    label: "assume pattern"
   }
 
 }

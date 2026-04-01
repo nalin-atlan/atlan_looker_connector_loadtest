@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: "public.synth_m1_v1" ;;
 
   dimension: primary_dimension {
-    label: "this task"
+    label: "laugh trip"
   }
 
-  dimension: upgradable_solution_oriented_frame_1 {
-    label: "talk avoid"
+  dimension: right_sized_24_7_paradigm_1 {
+    label: "six box"
   }
 
-  dimension: operative_even_keeled_secured_line_2 {
-    label: "top impact"
+  dimension: re_contextualized_dedicated_graphical_user_interface_2 {
+    label: "no carry"
   }
 
-  dimension: centralized_homogeneous_website_3 {
-    label: "however determine"
+  dimension: de_engineered_interactive_implementation_3 {
+    label: "chair affect"
   }
 
-  dimension: vision_oriented_contextually_based_artificial_intelligence_4 {
-    label: "party discussion"
+  dimension: stand_alone_fault_tolerant_hierarchy_4 {
+    label: "home become"
   }
 
-  dimension: fundamental_modular_access_5 {
-    label: "store beyond"
+  dimension: sharable_static_instruction_set_5 {
+    label: "less week"
   }
 
-  dimension: profit_focused_discrete_groupware_6 {
-    label: "clearly hope"
+  dimension: down_sized_executive_analyzer_6 {
+    label: "air follow"
   }
 
-  dimension: enterprise_wide_composite_paradigm_7 {
-    label: "miss city"
+  dimension: synergistic_needs_based_instruction_set_7 {
+    label: "leg admit"
   }
 
-  dimension: focused_static_attitude_8 {
-    label: "husband deal"
+  dimension: ergonomic_user_facing_collaboration_8 {
+    label: "act land"
   }
 
   measure: measure_9 {
-    label: "doctor like"
+    label: "possible name"
   }
 
-  dimension: visionary_asymmetric_approach_10 {
-    label: "face cold"
+  dimension: assimilated_6thgeneration_archive_10 {
+    label: "firm trip"
   }
 
-  dimension: stand_alone_grid_enabled_algorithm_11 {
-    label: "school election"
+  dimension: programmable_stable_intranet_11 {
+    label: "reason ok"
   }
 
-  dimension: centralized_24hour_analyzer_12 {
-    label: "condition drop"
+  dimension: centralized_user_facing_standardization_12 {
+    label: "me doctor"
   }
 
-  dimension: profit_focused_discrete_framework_13 {
-    label: "war produce"
+  dimension: multi_layered_transitional_hub_13 {
+    label: "strategy mouth"
   }
 
-  dimension: re_engineered_real_time_collaboration_14 {
-    label: "thought write"
+  dimension: future_proofed_global_secured_line_14 {
+    label: "surface during"
   }
 
-  dimension: realigned_executive_utilization_15 {
-    label: "remain list"
+  dimension: self_enabling_global_frame_15 {
+    label: "draw because"
   }
 
-  dimension: integrated_content_based_graphic_interface_16 {
-    label: "they stand"
+  dimension: horizontal_coherent_process_improvement_16 {
+    label: "produce reason"
   }
 
-  dimension: organic_encompassing_monitoring_17 {
-    label: "plant responsibility"
+  dimension: optimized_24_7_application_17 {
+    label: "million nothing"
   }
 
-  dimension: programmable_solution_oriented_paradigm_18 {
-    label: "operation member"
+  dimension: cross_platform_optimal_knowledgebase_18 {
+    label: "should specific"
   }
 
   measure: measure_19 {
-    label: "American trade"
+    label: "attack site"
   }
 
-  dimension: future_proofed_discrete_standardization_20 {
-    label: "each any"
+  dimension: synergized_secondary_approach_20 {
+    label: "every type"
   }
 
-  dimension: expanded_real_time_process_improvement_21 {
-    label: "nothing brother"
+  dimension: integrated_systematic_ability_21 {
+    label: "item across"
   }
 
-  dimension: stand_alone_3rdgeneration_emulation_22 {
-    label: "interest tax"
+  dimension: re_engineered_clear_thinking_benchmark_22 {
+    label: "produce do"
   }
 
-  dimension: function_based_methodical_instruction_set_23 {
-    label: "career thank"
+  dimension: centralized_discrete_open_architecture_23 {
+    label: "enter lot"
   }
 
-  dimension: front_line_directional_projection_24 {
-    label: "rate difference"
+  dimension: future_proofed_tangible_help_desk_24 {
+    label: "scene someone"
   }
 
 }

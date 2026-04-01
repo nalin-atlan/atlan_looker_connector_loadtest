@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: "public.synth_m0_v1" ;;
 
   dimension: primary_dimension {
-    label: "before far"
+    label: "how federal"
   }
 
-  dimension: robust_background_core_1 {
-    label: "threat realize"
+  dimension: down_sized_impactful_approach_1 {
+    label: "suggest station"
   }
 
-  dimension: triple_buffered_secondary_groupware_2 {
-    label: "research these"
+  dimension: multi_tiered_exuding_conglomeration_2 {
+    label: "doctor during"
   }
 
-  dimension: down_sized_didactic_benchmark_3 {
-    label: "adult series"
+  dimension: centralized_4thgeneration_firmware_3 {
+    label: "generation red"
   }
 
-  dimension: re_contextualized_zero_tolerance_firmware_4 {
-    label: "if herself"
+  dimension: decentralized_mobile_application_4 {
+    label: "up fill"
   }
 
-  dimension: future_proofed_logistical_website_5 {
-    label: "bill test"
+  dimension: fundamental_coherent_instruction_set_5 {
+    label: "miss already"
   }
 
-  dimension: enterprise_wide_multi_state_leverage_6 {
-    label: "owner just"
+  dimension: ergonomic_eco_centric_application_6 {
+    label: "important structure"
   }
 
-  dimension: automated_web_enabled_paradigm_7 {
-    label: "choice stock"
+  dimension: team_oriented_demand_driven_emulation_7 {
+    label: "area population"
   }
 
-  dimension: exclusive_real_time_emulation_8 {
-    label: "employee service"
+  dimension: stand_alone_foreground_support_8 {
+    label: "thing wall"
   }
 
   measure: measure_9 {
-    label: "live image"
+    label: "join story"
   }
 
-  dimension: monitored_executive_utilization_10 {
-    label: "government control"
+  dimension: enterprise_wide_content_based_application_10 {
+    label: "early build"
   }
 
-  dimension: intuitive_fresh_thinking_paradigm_11 {
-    label: "job energy"
+  dimension: devolved_multi_tasking_archive_11 {
+    label: "teach truth"
   }
 
-  dimension: optional_zero_tolerance_implementation_12 {
-    label: "help late"
+  dimension: fully_configurable_user_facing_internet_solution_12 {
+    label: "everything inside"
   }
 
-  dimension: open_source_global_protocol_13 {
-    label: "truth class"
+  dimension: ergonomic_systematic_implementation_13 {
+    label: "pick exactly"
   }
 
-  dimension: cloned_optimal_installation_14 {
-    label: "send must"
+  dimension: customizable_full_range_open_architecture_14 {
+    label: "discover generation"
   }
 
-  dimension: implemented_eco_centric_complexity_15 {
-    label: "send fund"
+  dimension: managed_system_worthy_synergy_15 {
+    label: "plant film"
   }
 
-  dimension: streamlined_leadingedge_core_16 {
-    label: "development green"
+  dimension: visionary_3rdgeneration_protocol_16 {
+    label: "rich give"
   }
 
-  dimension: reverse_engineered_incremental_ability_17 {
-    label: "where field"
+  dimension: adaptive_transitional_instruction_set_17 {
+    label: "foreign hold"
   }
 
-  dimension: innovative_tangible_success_18 {
-    label: "what against"
+  dimension: versatile_fault_tolerant_support_18 {
+    label: "radio so"
   }
 
   measure: measure_19 {
-    label: "team people"
+    label: "research field"
   }
 
-  dimension: organized_real_time_paradigm_20 {
-    label: "million analysis"
+  dimension: upgradable_5thgeneration_project_20 {
+    label: "election enter"
   }
 
-  dimension: cloned_real_time_pricing_structure_21 {
-    label: "account arm"
+  dimension: public_key_value_added_interface_21 {
+    label: "so throughout"
   }
 
-  dimension: devolved_systematic_analyzer_22 {
-    label: "race top"
+  dimension: universal_next_generation_support_22 {
+    label: "entire customer"
   }
 
-  dimension: customer_focused_content_based_matrix_23 {
-    label: "each word"
+  dimension: organic_heuristic_model_23 {
+    label: "system recently"
   }
 
-  dimension: re_contextualized_logistical_attitude_24 {
-    label: "must son"
+  dimension: vision_oriented_even_keeled_functionalities_24 {
+    label: "ever north"
   }
 
 }

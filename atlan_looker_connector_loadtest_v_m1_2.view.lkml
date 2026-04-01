@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: "public.synth_m1_v2" ;;
 
   dimension: primary_dimension {
-    label: "ready end"
+    label: "part weight"
   }
 
-  dimension: user_centric_holistic_superstructure_1 {
-    label: "to throughout"
+  dimension: triple_buffered_leadingedge_conglomeration_1 {
+    label: "draw PM"
   }
 
-  dimension: configurable_stable_function_2 {
-    label: "at forward"
+  dimension: reverse_engineered_upward_trending_productivity_2 {
+    label: "at wall"
   }
 
-  dimension: right_sized_radical_monitoring_3 {
-    label: "important house"
+  dimension: multi_channeled_non_volatile_model_3 {
+    label: "scene view"
   }
 
-  dimension: persevering_intangible_standardization_4 {
-    label: "main paper"
+  dimension: persistent_scalable_task_force_4 {
+    label: "live alone"
   }
 
-  dimension: seamless_uniform_knowledge_user_5 {
-    label: "fish huge"
+  dimension: synergistic_didactic_info_mediaries_5 {
+    label: "three or"
   }
 
-  dimension: profound_zero_administration_knowledgebase_6 {
-    label: "work bar"
+  dimension: down_sized_client_server_capability_6 {
+    label: "right along"
   }
 
-  dimension: synergistic_zero_tolerance_hierarchy_7 {
-    label: "direction check"
+  dimension: future_proofed_dynamic_installation_7 {
+    label: "read deal"
   }
 
-  dimension: synchronized_incremental_help_desk_8 {
-    label: "loss second"
+  dimension: networked_uniform_algorithm_8 {
+    label: "lot everybody"
   }
 
   measure: measure_9 {
-    label: "dog season"
+    label: "choose the"
   }
 
-  dimension: horizontal_well_modulated_encoding_10 {
-    label: "often person"
+  dimension: integrated_zero_administration_firmware_10 {
+    label: "color seem"
   }
 
-  dimension: configurable_demand_driven_database_11 {
-    label: "social politics"
+  dimension: implemented_explicit_ability_11 {
+    label: "little reveal"
   }
 
-  dimension: grass_roots_24hour_local_area_network_12 {
-    label: "number black"
+  dimension: progressive_national_budgetary_management_12 {
+    label: "describe gun"
   }
 
-  dimension: open_source_bottom_line_paradigm_13 {
-    label: "baby size"
+  dimension: automated_content_based_conglomeration_13 {
+    label: "actually success"
   }
 
-  dimension: public_key_maximized_support_14 {
-    label: "with third"
+  dimension: synergistic_multi_tasking_challenge_14 {
+    label: "safe child"
   }
 
-  dimension: quality_focused_scalable_framework_15 {
-    label: "yet suffer"
+  dimension: implemented_motivating_system_engine_15 {
+    label: "bag board"
   }
 
-  dimension: horizontal_user_facing_workforce_16 {
-    label: "think election"
+  dimension: intuitive_contextually_based_benchmark_16 {
+    label: "theory save"
   }
 
-  dimension: organized_even_keeled_encoding_17 {
-    label: "executive blue"
+  dimension: face_to_face_human_resource_contingency_17 {
+    label: "stand beat"
   }
 
-  dimension: open_source_actuating_paradigm_18 {
-    label: "those likely"
+  dimension: quality_focused_user_facing_application_18 {
+    label: "mouth student"
   }
 
   measure: measure_19 {
-    label: "figure term"
+    label: "almost state"
   }
 
-  dimension: user_centric_user_facing_challenge_20 {
-    label: "cultural white"
+  dimension: distributed_radical_complexity_20 {
+    label: "trade concern"
   }
 
-  dimension: managed_encompassing_open_system_21 {
-    label: "society pressure"
+  dimension: implemented_cohesive_help_desk_21 {
+    label: "over professor"
   }
 
-  dimension: compatible_high_level_data_warehouse_22 {
-    label: "win lot"
+  dimension: enhanced_systemic_implementation_22 {
+    label: "health likely"
   }
 
-  dimension: mandatory_bottom_line_capacity_23 {
-    label: "training common"
+  dimension: implemented_discrete_groupware_23 {
+    label: "nation order"
   }
 
-  dimension: profit_focused_fault_tolerant_support_24 {
-    label: "attorney certainly"
+  dimension: optimized_neutral_open_system_24 {
+    label: "stock crime"
   }
 
 }

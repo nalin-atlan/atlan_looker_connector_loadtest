@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_3 {
   sql_table_name: "public.synth_m1_v3" ;;
 
   dimension: primary_dimension {
-    label: "suggest anyone"
+    label: "that continue"
   }
 
-  dimension: synergistic_bi_directional_time_frame_1 {
-    label: "machine smile"
+  dimension: organized_zero_tolerance_paradigm_1 {
+    label: "tend nor"
   }
 
-  dimension: vision_oriented_bottom_line_artificial_intelligence_2 {
-    label: "face third"
+  dimension: synchronized_content_based_implementation_2 {
+    label: "red operation"
   }
 
-  dimension: switchable_national_adapter_3 {
-    label: "discussion south"
+  dimension: extended_leadingedge_website_3 {
+    label: "interesting clearly"
   }
 
-  dimension: ergonomic_holistic_secured_line_4 {
-    label: "dinner success"
+  dimension: business_focused_methodical_synergy_4 {
+    label: "present ok"
   }
 
-  dimension: proactive_4thgeneration_local_area_network_5 {
-    label: "school church"
+  dimension: adaptive_bifurcated_protocol_5 {
+    label: "late maintain"
   }
 
-  dimension: customer_focused_cohesive_encryption_6 {
-    label: "drug side"
+  dimension: re_contextualized_encompassing_intranet_6 {
+    label: "person thing"
   }
 
-  dimension: universal_zero_administration_ability_7 {
-    label: "national ground"
+  dimension: intuitive_executive_intranet_7 {
+    label: "official least"
   }
 
-  dimension: cross_group_attitude_oriented_product_8 {
-    label: "every together"
+  dimension: secured_client_driven_strategy_8 {
+    label: "much part"
   }
 
   measure: measure_9 {
-    label: "available send"
+    label: "nearly party"
   }
 
-  dimension: re_engineered_value_added_emulation_10 {
-    label: "most year"
+  dimension: assimilated_non_volatile_website_10 {
+    label: "have anyone"
   }
 
-  dimension: operative_multimedia_knowledgebase_11 {
-    label: "effect audience"
+  dimension: cloned_actuating_encoding_11 {
+    label: "onto amount"
   }
 
-  dimension: sharable_homogeneous_superstructure_12 {
-    label: "so window"
+  dimension: upgradable_heuristic_benchmark_12 {
+    label: "those world"
   }
 
-  dimension: implemented_optimizing_benchmark_13 {
-    label: "already skin"
+  dimension: networked_optimal_emulation_13 {
+    label: "front former"
   }
 
-  dimension: sharable_motivating_productivity_14 {
-    label: "move style"
+  dimension: enhanced_user_facing_orchestration_14 {
+    label: "return air"
   }
 
-  dimension: distributed_optimizing_access_15 {
-    label: "respond threat"
+  dimension: innovative_neutral_internet_solution_15 {
+    label: "across somebody"
   }
 
-  dimension: switchable_intermediate_ability_16 {
-    label: "similar I"
+  dimension: seamless_static_firmware_16 {
+    label: "response administration"
   }
 
-  dimension: exclusive_well_modulated_internet_solution_17 {
-    label: "body on"
+  dimension: team_oriented_bandwidth_monitored_synergy_17 {
+    label: "responsibility physical"
   }
 
-  dimension: front_line_multi_tasking_middleware_18 {
-    label: "TV Democrat"
+  dimension: up_sized_demand_driven_help_desk_18 {
+    label: "take if"
   }
 
   measure: measure_19 {
-    label: "close factor"
+    label: "provide break"
   }
 
-  dimension: enhanced_client_server_capability_20 {
-    label: "surface next"
+  dimension: de_engineered_fresh_thinking_data_warehouse_20 {
+    label: "pretty them"
   }
 
-  dimension: progressive_bottom_line_extranet_21 {
-    label: "modern indeed"
+  dimension: front_line_secondary_portal_21 {
+    label: "any discover"
   }
 
-  dimension: versatile_upward_trending_attitude_22 {
-    label: "from article"
+  dimension: decentralized_systematic_methodology_22 {
+    label: "large town"
   }
 
-  dimension: reverse_engineered_content_based_internet_solution_23 {
-    label: "win data"
+  dimension: team_oriented_systematic_portal_23 {
+    label: "usually well"
   }
 
-  dimension: balanced_needs_based_neural_net_24 {
-    label: "none wish"
+  dimension: decentralized_non_volatile_interface_24 {
+    label: "key successful"
   }
 
 }

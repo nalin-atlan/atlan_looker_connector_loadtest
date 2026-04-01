@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: "public.synth_m1_v0" ;;
 
   dimension: primary_dimension {
-    label: "career hair"
+    label: "see expect"
   }
 
-  dimension: user_friendly_human_resource_framework_1 {
-    label: "me another"
+  dimension: secured_composite_flexibility_1 {
+    label: "hair go"
   }
 
-  dimension: focused_interactive_ability_2 {
-    label: "able everybody"
+  dimension: progressive_optimizing_alliance_2 {
+    label: "that action"
   }
 
-  dimension: multi_tiered_user_facing_website_3 {
-    label: "director account"
+  dimension: re_contextualized_fresh_thinking_graphical_user_interface_3 {
+    label: "pattern citizen"
   }
 
-  dimension: object_based_interactive_encryption_4 {
-    label: "walk who"
+  dimension: sharable_asynchronous_benchmark_4 {
+    label: "yourself firm"
   }
 
-  dimension: horizontal_regional_middleware_5 {
-    label: "walk hard"
+  dimension: digitized_dynamic_hierarchy_5 {
+    label: "view political"
   }
 
-  dimension: polarized_multi_state_instruction_set_6 {
-    label: "others nature"
+  dimension: monitored_clear_thinking_attitude_6 {
+    label: "throw best"
   }
 
-  dimension: organic_background_attitude_7 {
-    label: "heavy around"
+  dimension: centralized_dedicated_functionalities_7 {
+    label: "experience have"
   }
 
-  dimension: future_proofed_next_generation_core_8 {
-    label: "threat amount"
+  dimension: up_sized_didactic_challenge_8 {
+    label: "relationship increase"
   }
 
   measure: measure_9 {
-    label: "boy approach"
+    label: "realize seat"
   }
 
-  dimension: expanded_actuating_synergy_10 {
-    label: "guess way"
+  dimension: versatile_multimedia_strategy_10 {
+    label: "often next"
   }
 
-  dimension: reverse_engineered_didactic_firmware_11 {
-    label: "sea yet"
+  dimension: optimized_leadingedge_extranet_11 {
+    label: "best writer"
   }
 
-  dimension: visionary_zero_defect_pricing_structure_12 {
-    label: "early security"
+  dimension: implemented_high_level_toolset_12 {
+    label: "consumer already"
   }
 
-  dimension: polarized_logistical_framework_13 {
-    label: "keep through"
+  dimension: extended_asynchronous_circuit_13 {
+    label: "owner effort"
   }
 
-  dimension: right_sized_eco_centric_core_14 {
-    label: "cover pull"
+  dimension: assimilated_encompassing_strategy_14 {
+    label: "even need"
   }
 
-  dimension: advanced_5thgeneration_strategy_15 {
-    label: "test station"
+  dimension: open_source_neutral_paradigm_15 {
+    label: "age stop"
   }
 
-  dimension: customizable_didactic_capability_16 {
-    label: "drop will"
+  dimension: ameliorated_mobile_paradigm_16 {
+    label: "must risk"
   }
 
-  dimension: fundamental_modular_function_17 {
-    label: "necessary capital"
+  dimension: enterprise_wide_dedicated_firmware_17 {
+    label: "character star"
   }
 
-  dimension: user_friendly_asynchronous_standardization_18 {
-    label: "relate really"
+  dimension: fundamental_zero_tolerance_process_improvement_18 {
+    label: "join message"
   }
 
   measure: measure_19 {
-    label: "fast raise"
+    label: "president defense"
   }
 
-  dimension: fundamental_transitional_definition_20 {
-    label: "leg final"
+  dimension: vision_oriented_needs_based_archive_20 {
+    label: "best paper"
   }
 
-  dimension: organized_24hour_definition_21 {
-    label: "start result"
+  dimension: automated_scalable_forecast_21 {
+    label: "beautiful training"
   }
 
-  dimension: quality_focused_executive_matrix_22 {
-    label: "away just"
+  dimension: fundamental_heuristic_software_22 {
+    label: "newspaper example"
   }
 
-  dimension: object_based_heuristic_encryption_23 {
-    label: "hope cover"
+  dimension: organic_high_level_architecture_23 {
+    label: "anyone available"
   }
 
-  dimension: seamless_eco_centric_complexity_24 {
-    label: "support arrive"
+  dimension: balanced_zero_administration_hub_24 {
+    label: "others president"
   }
 
 }
