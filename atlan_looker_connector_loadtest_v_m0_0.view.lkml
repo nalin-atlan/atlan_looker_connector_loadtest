@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_0 {
-  sql_table_name: "public.synth_m0_v0" ;;
+  sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
     label: "number region"

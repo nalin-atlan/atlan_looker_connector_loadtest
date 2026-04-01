@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_2 {
-  sql_table_name: "public.synth_m0_v2" ;;
+  sql_table_name: public.synth_m0_v2 ;;
 
   dimension: primary_dimension {
     label: "soon skin"

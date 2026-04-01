@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m1_1 {
-  sql_table_name: "public.synth_m1_v1" ;;
+  sql_table_name: public.synth_m1_v1 ;;
 
   dimension: primary_dimension {
     label: "card during"

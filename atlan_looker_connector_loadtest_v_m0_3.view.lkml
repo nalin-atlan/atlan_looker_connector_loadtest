@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m0_3 {
-  sql_table_name: "public.synth_m0_v3" ;;
+  sql_table_name: public.synth_m0_v3 ;;
 
   dimension: primary_dimension {
     label: "pull as"

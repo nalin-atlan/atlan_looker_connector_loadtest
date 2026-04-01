@@ -1,5 +1,5 @@
 view: atlan_looker_connector_loadtest_v_m1_2 {
-  sql_table_name: "public.synth_m1_v2" ;;
+  sql_table_name: public.synth_m1_v2 ;;
 
   dimension: primary_dimension {
     label: "authority happy"
