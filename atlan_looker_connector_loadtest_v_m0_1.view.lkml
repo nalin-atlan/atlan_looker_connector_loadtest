@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: public.synth_m0_v1 ;;
 
   dimension: primary_dimension {
-    label: "nation oil"
+    label: "sign live"
   }
 
-  dimension: advanced_3rdgeneration_capability_1 {
-    label: "community determine"
+  dimension: virtual_multimedia_contingency_1 {
+    label: "college fight"
   }
 
-  dimension: synchronized_zero_tolerance_budgetary_management_2 {
-    label: "can senior"
+  dimension: fully_configurable_leadingedge_groupware_2 {
+    label: "ahead painting"
   }
 
-  dimension: visionary_analyzing_paradigm_3 {
-    label: "Mrs say"
+  dimension: networked_responsive_orchestration_3 {
+    label: "beautiful chair"
   }
 
-  dimension: public_key_content_based_data_warehouse_4 {
-    label: "debate rather"
+  dimension: switchable_optimizing_ability_4 {
+    label: "final firm"
   }
 
-  dimension: adaptive_multi_tasking_pricing_structure_5 {
-    label: "perform rate"
+  dimension: ameliorated_optimizing_collaboration_5 {
+    label: "billion task"
   }
 
-  dimension: cross_group_web_enabled_utilization_6 {
-    label: "rise coach"
+  dimension: enterprise_wide_well_modulated_groupware_6 {
+    label: "recent citizen"
   }
 
-  dimension: face_to_face_foreground_model_7 {
-    label: "image measure"
+  dimension: universal_holistic_application_7 {
+    label: "level listen"
   }
 
-  dimension: streamlined_directional_internet_solution_8 {
-    label: "most fight"
+  dimension: phased_responsive_budgetary_management_8 {
+    label: "kind be"
   }
 
   measure: measure_9 {
-    label: "turn performance"
+    label: "instead despite"
   }
 
-  dimension: optimized_contextually_based_data_warehouse_10 {
-    label: "choice church"
+  dimension: cloned_mobile_strategy_10 {
+    label: "model ok"
   }
 
-  dimension: virtual_impactful_access_11 {
-    label: "federal purpose"
+  dimension: realigned_static_array_11 {
+    label: "life experience"
   }
 
-  dimension: reactive_content_based_capacity_12 {
-    label: "form though"
+  dimension: grass_roots_non_volatile_workforce_12 {
+    label: "receive eye"
   }
 
-  dimension: total_uniform_model_13 {
-    label: "pressure human"
+  dimension: versatile_national_access_13 {
+    label: "organization from"
   }
 
-  dimension: universal_context_sensitive_middleware_14 {
-    label: "career happen"
+  dimension: business_focused_static_moratorium_14 {
+    label: "environment various"
   }
 
-  dimension: balanced_bottom_line_circuit_15 {
-    label: "bag simple"
+  dimension: persevering_clear_thinking_success_15 {
+    label: "administration low"
   }
 
-  dimension: right_sized_context_sensitive_artificial_intelligence_16 {
-    label: "imagine could"
+  dimension: optimized_executive_data_warehouse_16 {
+    label: "sport cell"
   }
 
-  dimension: visionary_context_sensitive_policy_17 {
-    label: "several plant"
+  dimension: extended_client_server_circuit_17 {
+    label: "year sort"
   }
 
-  dimension: horizontal_transitional_moratorium_18 {
-    label: "development firm"
+  dimension: function_based_composite_synergy_18 {
+    label: "world heart"
   }
 
   measure: measure_19 {
-    label: "those last"
+    label: "well however"
   }
 
-  dimension: business_focused_eco_centric_implementation_20 {
-    label: "our rest"
+  dimension: managed_upward_trending_time_frame_20 {
+    label: "make herself"
   }
 
-  dimension: multi_lateral_motivating_neural_net_21 {
-    label: "south sit"
+  dimension: automated_uniform_circuit_21 {
+    label: "something town"
   }
 
-  dimension: front_line_hybrid_portal_22 {
-    label: "art close"
+  dimension: expanded_3rdgeneration_structure_22 {
+    label: "data range"
   }
 
-  dimension: cloned_global_orchestration_23 {
-    label: "shoulder your"
+  dimension: implemented_modular_model_23 {
+    label: "six language"
   }
 
-  dimension: sharable_web_enabled_encoding_24 {
-    label: "future kind"
+  dimension: seamless_non_volatile_array_24 {
+    label: "despite office"
   }
 
 }

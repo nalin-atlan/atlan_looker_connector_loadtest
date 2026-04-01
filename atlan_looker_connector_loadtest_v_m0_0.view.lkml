@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
-    label: "number region"
+    label: "voice list"
   }
 
-  dimension: configurable_fresh_thinking_graphic_interface_1 {
-    label: "skin send"
+  dimension: switchable_human_resource_encoding_1 {
+    label: "deal do"
   }
 
-  dimension: proactive_executive_algorithm_2 {
-    label: "money up"
+  dimension: diverse_responsive_matrices_2 {
+    label: "sense sister"
   }
 
-  dimension: fully_configurable_transitional_implementation_3 {
-    label: "sell edge"
+  dimension: innovative_optimal_circuit_3 {
+    label: "hot hand"
   }
 
-  dimension: distributed_analyzing_product_4 {
-    label: "measure fight"
+  dimension: multi_tiered_scalable_algorithm_4 {
+    label: "indicate major"
   }
 
-  dimension: customer_focused_intermediate_flexibility_5 {
-    label: "direction society"
+  dimension: integrated_object_oriented_forecast_5 {
+    label: "real heavy"
   }
 
-  dimension: triple_buffered_5thgeneration_monitoring_6 {
-    label: "develop bed"
+  dimension: intuitive_exuding_collaboration_6 {
+    label: "series above"
   }
 
-  dimension: enterprise_wide_context_sensitive_moderator_7 {
-    label: "everything common"
+  dimension: phased_optimal_protocol_7 {
+    label: "century seek"
   }
 
-  dimension: upgradable_upward_trending_orchestration_8 {
-    label: "trade let"
+  dimension: focused_logistical_attitude_8 {
+    label: "agreement suffer"
   }
 
   measure: measure_9 {
-    label: "short fear"
+    label: "benefit to"
   }
 
-  dimension: object_based_logistical_benchmark_10 {
-    label: "place no"
+  dimension: synchronized_5thgeneration_frame_10 {
+    label: "room charge"
   }
 
-  dimension: automated_composite_info_mediaries_11 {
-    label: "drop thing"
+  dimension: face_to_face_analyzing_archive_11 {
+    label: "move tell"
   }
 
-  dimension: progressive_fault_tolerant_solution_12 {
-    label: "instead great"
+  dimension: re_contextualized_multi_tasking_moderator_12 {
+    label: "focus story"
   }
 
-  dimension: synergistic_encompassing_alliance_13 {
-    label: "they future"
+  dimension: multi_tiered_grid_enabled_success_13 {
+    label: "determine interview"
   }
 
-  dimension: innovative_content_based_interface_14 {
-    label: "environment society"
+  dimension: ergonomic_needs_based_moratorium_14 {
+    label: "ask significant"
   }
 
-  dimension: proactive_fresh_thinking_graphic_interface_15 {
-    label: "treat may"
+  dimension: organized_analyzing_frame_15 {
+    label: "case gas"
   }
 
-  dimension: polarized_contextually_based_support_16 {
-    label: "feeling analysis"
+  dimension: enhanced_even_keeled_orchestration_16 {
+    label: "hard week"
   }
 
-  dimension: automated_well_modulated_projection_17 {
-    label: "even message"
+  dimension: up_sized_dynamic_process_improvement_17 {
+    label: "spring who"
   }
 
-  dimension: centralized_intermediate_solution_18 {
-    label: "move everything"
+  dimension: up_sized_radical_secured_line_18 {
+    label: "former model"
   }
 
   measure: measure_19 {
-    label: "industry partner"
+    label: "keep improve"
   }
 
-  dimension: centralized_zero_defect_portal_20 {
-    label: "develop age"
+  dimension: ergonomic_client_driven_approach_20 {
+    label: "college between"
   }
 
-  dimension: de_engineered_zero_tolerance_concept_21 {
-    label: "culture network"
+  dimension: adaptive_local_time_frame_21 {
+    label: "fine themselves"
   }
 
-  dimension: self_enabling_static_matrices_22 {
-    label: "medical television"
+  dimension: ameliorated_global_infrastructure_22 {
+    label: "world wear"
   }
 
-  dimension: networked_methodical_superstructure_23 {
-    label: "who PM"
+  dimension: customizable_6thgeneration_graphical_user_interface_23 {
+    label: "effect morning"
   }
 
-  dimension: customer_focused_incremental_monitoring_24 {
-    label: "already build"
+  dimension: secured_holistic_open_architecture_24 {
+    label: "property character"
   }
 
 }

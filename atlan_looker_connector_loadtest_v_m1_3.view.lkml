@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_3 {
   sql_table_name: public.synth_m1_v3 ;;
 
   dimension: primary_dimension {
-    label: "avoid drop"
+    label: "southern body"
   }
 
-  dimension: grass_roots_incremental_alliance_1 {
-    label: "prevent describe"
+  dimension: ameliorated_demand_driven_hardware_1 {
+    label: "fish like"
   }
 
-  dimension: front_line_client_server_artificial_intelligence_2 {
-    label: "listen remember"
+  dimension: virtual_context_sensitive_software_2 {
+    label: "stand play"
   }
 
-  dimension: proactive_fresh_thinking_superstructure_3 {
-    label: "guess computer"
+  dimension: managed_bottom_line_focus_group_3 {
+    label: "north not"
   }
 
-  dimension: profit_focused_demand_driven_interface_4 {
-    label: "moment site"
+  dimension: customizable_6thgeneration_hardware_4 {
+    label: "report us"
   }
 
-  dimension: stand_alone_maximized_middleware_5 {
-    label: "fire big"
+  dimension: future_proofed_content_based_instruction_set_5 {
+    label: "within lose"
   }
 
-  dimension: configurable_didactic_framework_6 {
-    label: "travel several"
+  dimension: ergonomic_secondary_hub_6 {
+    label: "go health"
   }
 
-  dimension: virtual_grid_enabled_projection_7 {
-    label: "bank visit"
+  dimension: extended_bandwidth_monitored_benchmark_7 {
+    label: "great simple"
   }
 
-  dimension: cloned_transitional_open_architecture_8 {
-    label: "public one"
+  dimension: centralized_reciprocal_focus_group_8 {
+    label: "seem message"
   }
 
   measure: measure_9 {
-    label: "weight personal"
+    label: "available option"
   }
 
-  dimension: balanced_global_model_10 {
-    label: "member treat"
+  dimension: business_focused_human_resource_matrix_10 {
+    label: "feeling newspaper"
   }
 
-  dimension: expanded_disintermediate_success_11 {
-    label: "life hard"
+  dimension: organized_client_server_software_11 {
+    label: "throw American"
   }
 
-  dimension: distributed_interactive_frame_12 {
-    label: "institution adult"
+  dimension: reverse_engineered_radical_instruction_set_12 {
+    label: "reason rest"
   }
 
-  dimension: optimized_systemic_flexibility_13 {
-    label: "understand green"
+  dimension: digitized_motivating_definition_13 {
+    label: "bit however"
   }
 
-  dimension: profound_modular_moratorium_14 {
-    label: "expect reveal"
+  dimension: profit_focused_6thgeneration_methodology_14 {
+    label: "close employee"
   }
 
-  dimension: multi_lateral_motivating_solution_15 {
-    label: "eight teach"
+  dimension: operative_heuristic_software_15 {
+    label: "front beautiful"
   }
 
-  dimension: synergized_didactic_forecast_16 {
-    label: "hospital most"
+  dimension: front_line_even_keeled_info_mediaries_16 {
+    label: "organization wall"
   }
 
-  dimension: quality_focused_actuating_graphical_user_interface_17 {
-    label: "happen late"
+  dimension: vision_oriented_scalable_definition_17 {
+    label: "meeting thank"
   }
 
-  dimension: visionary_zero_administration_website_18 {
-    label: "concern memory"
+  dimension: networked_foreground_monitoring_18 {
+    label: "strong bank"
   }
 
   measure: measure_19 {
-    label: "Republican window"
+    label: "door create"
   }
 
-  dimension: reduced_foreground_pricing_structure_20 {
-    label: "TV above"
+  dimension: stand_alone_transitional_adapter_20 {
+    label: "black again"
   }
 
-  dimension: polarized_context_sensitive_neural_net_21 {
-    label: "drive probably"
+  dimension: optional_bifurcated_superstructure_21 {
+    label: "month nothing"
   }
 
-  dimension: horizontal_directional_task_force_22 {
-    label: "this general"
+  dimension: implemented_radical_projection_22 {
+    label: "dark hot"
   }
 
-  dimension: focused_executive_initiative_23 {
-    label: "turn end"
+  dimension: self_enabling_explicit_flexibility_23 {
+    label: "effect answer"
   }
 
-  dimension: business_focused_local_parallelism_24 {
-    label: "pass on"
+  dimension: persevering_didactic_contingency_24 {
+    label: "institution party"
   }
 
 }

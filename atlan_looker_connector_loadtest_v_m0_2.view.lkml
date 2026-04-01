@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: public.synth_m0_v2 ;;
 
   dimension: primary_dimension {
-    label: "soon skin"
+    label: "become manager"
   }
 
-  dimension: reverse_engineered_intermediate_complexity_1 {
-    label: "do staff"
+  dimension: enhanced_background_installation_1 {
+    label: "often us"
   }
 
-  dimension: reverse_engineered_eco_centric_projection_2 {
-    label: "whole into"
+  dimension: universal_logistical_approach_2 {
+    label: "note business"
   }
 
-  dimension: stand_alone_fresh_thinking_projection_3 {
-    label: "end tough"
+  dimension: phased_bandwidth_monitored_solution_3 {
+    label: "much different"
   }
 
-  dimension: synergistic_radical_functionalities_4 {
-    label: "painting voice"
+  dimension: integrated_fault_tolerant_throughput_4 {
+    label: "hope pick"
   }
 
-  dimension: universal_methodical_productivity_5 {
-    label: "write light"
+  dimension: polarized_3rdgeneration_circuit_5 {
+    label: "when movement"
   }
 
-  dimension: quality_focused_hybrid_methodology_6 {
-    label: "action even"
+  dimension: diverse_full_range_leverage_6 {
+    label: "paper business"
   }
 
-  dimension: devolved_web_enabled_time_frame_7 {
-    label: "subject little"
+  dimension: multi_channeled_5thgeneration_secured_line_7 {
+    label: "actually card"
   }
 
-  dimension: organized_bifurcated_customer_loyalty_8 {
-    label: "task seat"
+  dimension: distributed_mobile_concept_8 {
+    label: "American so"
   }
 
   measure: measure_9 {
-    label: "discussion investment"
+    label: "eight alone"
   }
 
-  dimension: fundamental_national_firmware_10 {
-    label: "thousand city"
+  dimension: devolved_local_standardization_10 {
+    label: "number economy"
   }
 
-  dimension: horizontal_context_sensitive_orchestration_11 {
-    label: "close north"
+  dimension: profound_multi_tasking_local_area_network_11 {
+    label: "successful off"
   }
 
-  dimension: reactive_non_volatile_initiative_12 {
-    label: "quality could"
+  dimension: user_friendly_encompassing_workforce_12 {
+    label: "bit itself"
   }
 
-  dimension: reduced_system_worthy_complexity_13 {
-    label: "message arm"
+  dimension: expanded_human_resource_capacity_13 {
+    label: "small image"
   }
 
-  dimension: re_engineered_multimedia_array_14 {
-    label: "current scientist"
+  dimension: centralized_24_7_superstructure_14 {
+    label: "on particular"
   }
 
-  dimension: enterprise_wide_multimedia_attitude_15 {
-    label: "reality create"
+  dimension: total_maximized_firmware_15 {
+    label: "run relationship"
   }
 
-  dimension: ameliorated_holistic_graphic_interface_16 {
-    label: "firm director"
+  dimension: expanded_non_volatile_challenge_16 {
+    label: "imagine field"
   }
 
-  dimension: pre_emptive_contextually_based_database_17 {
-    label: "place or"
+  dimension: profit_focused_3rdgeneration_moderator_17 {
+    label: "billion good"
   }
 
-  dimension: advanced_full_range_software_18 {
-    label: "control white"
+  dimension: universal_4thgeneration_strategy_18 {
+    label: "risk action"
   }
 
   measure: measure_19 {
-    label: "show light"
+    label: "commercial series"
   }
 
-  dimension: cloned_transitional_workforce_20 {
-    label: "student director"
+  dimension: ergonomic_incremental_database_20 {
+    label: "prove want"
   }
 
-  dimension: configurable_non_volatile_challenge_21 {
-    label: "car nearly"
+  dimension: reverse_engineered_upward_trending_core_21 {
+    label: "number great"
   }
 
-  dimension: sharable_zero_defect_secured_line_22 {
-    label: "clear thank"
+  dimension: up_sized_intangible_graphic_interface_22 {
+    label: "without on"
   }
 
-  dimension: multi_channeled_web_enabled_circuit_23 {
-    label: "past heart"
+  dimension: streamlined_background_extranet_23 {
+    label: "own main"
   }
 
-  dimension: profit_focused_contextually_based_focus_group_24 {
-    label: "church close"
+  dimension: user_friendly_radical_encoding_24 {
+    label: "maintain throw"
   }
 
 }

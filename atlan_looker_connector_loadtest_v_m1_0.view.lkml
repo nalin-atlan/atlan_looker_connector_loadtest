@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: public.synth_m1_v0 ;;
 
   dimension: primary_dimension {
-    label: "skin bed"
+    label: "she mention"
   }
 
-  dimension: enterprise_wide_multi_tasking_framework_1 {
-    label: "series avoid"
+  dimension: enterprise_wide_radical_pricing_structure_1 {
+    label: "send mouth"
   }
 
-  dimension: balanced_neutral_workforce_2 {
-    label: "brother film"
+  dimension: optional_neutral_productivity_2 {
+    label: "vote report"
   }
 
-  dimension: switchable_intermediate_structure_3 {
-    label: "right region"
+  dimension: persistent_needs_based_product_3 {
+    label: "might true"
   }
 
-  dimension: multi_channeled_real_time_collaboration_4 {
-    label: "so area"
+  dimension: robust_zero_administration_strategy_4 {
+    label: "a money"
   }
 
-  dimension: self_enabling_24hour_approach_5 {
-    label: "me serve"
+  dimension: horizontal_content_based_support_5 {
+    label: "toward couple"
   }
 
-  dimension: configurable_high_level_array_6 {
-    label: "wide subject"
+  dimension: switchable_bi_directional_function_6 {
+    label: "human particularly"
   }
 
-  dimension: networked_multi_tasking_superstructure_7 {
-    label: "beat share"
+  dimension: diverse_explicit_encryption_7 {
+    label: "between not"
   }
 
-  dimension: grass_roots_well_modulated_solution_8 {
-    label: "Mrs floor"
+  dimension: multi_layered_mobile_moderator_8 {
+    label: "more attention"
   }
 
   measure: measure_9 {
-    label: "court set"
+    label: "wonder owner"
   }
 
-  dimension: public_key_executive_emulation_10 {
-    label: "deep factor"
+  dimension: up_sized_eco_centric_forecast_10 {
+    label: "continue newspaper"
   }
 
-  dimension: sharable_24_7_approach_11 {
-    label: "act few"
+  dimension: sharable_dynamic_task_force_11 {
+    label: "his manage"
   }
 
-  dimension: phased_full_range_matrices_12 {
-    label: "record knowledge"
+  dimension: enterprise_wide_homogeneous_framework_12 {
+    label: "available or"
   }
 
-  dimension: persevering_4thgeneration_secured_line_13 {
-    label: "letter to"
+  dimension: cross_group_zero_administration_interface_13 {
+    label: "expert time"
   }
 
-  dimension: ameliorated_neutral_core_14 {
-    label: "newspaper top"
+  dimension: face_to_face_background_hierarchy_14 {
+    label: "door change"
   }
 
-  dimension: total_tertiary_archive_15 {
-    label: "candidate product"
+  dimension: self_enabling_4thgeneration_framework_15 {
+    label: "region news"
   }
 
-  dimension: quality_focused_clear_thinking_framework_16 {
-    label: "front price"
+  dimension: customer_focused_multi_state_concept_16 {
+    label: "fast real"
   }
 
-  dimension: intuitive_maximized_time_frame_17 {
-    label: "west oil"
+  dimension: multi_lateral_24_7_capability_17 {
+    label: "nothing fast"
   }
 
-  dimension: streamlined_object_oriented_graphical_user_interface_18 {
-    label: "if sister"
+  dimension: cross_group_tangible_algorithm_18 {
+    label: "push blood"
   }
 
   measure: measure_19 {
-    label: "myself box"
+    label: "push indicate"
   }
 
-  dimension: vision_oriented_value_added_policy_20 {
-    label: "challenge large"
+  dimension: multi_tiered_clear_thinking_functionalities_20 {
+    label: "offer page"
   }
 
-  dimension: open_architected_6thgeneration_graphic_interface_21 {
-    label: "meet green"
+  dimension: triple_buffered_human_resource_framework_21 {
+    label: "agency summer"
   }
 
-  dimension: devolved_discrete_projection_22 {
-    label: "upon least"
+  dimension: robust_system_worthy_focus_group_22 {
+    label: "thousand standard"
   }
 
-  dimension: face_to_face_multi_tasking_middleware_23 {
-    label: "military PM"
+  dimension: sharable_5thgeneration_alliance_23 {
+    label: "culture election"
   }
 
-  dimension: visionary_user_facing_data_warehouse_24 {
-    label: "could business"
+  dimension: switchable_local_definition_24 {
+    label: "tax protect"
   }
 
 }
