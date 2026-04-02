@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_2 {
   sql_table_name: public.synth_m1_v2 ;;
 
   dimension: primary_dimension {
-    label: "simple guess"
+    label: "Congress keep"
   }
 
-  dimension: user_friendly_mobile_focus_group_1 {
-    label: "modern anything"
+  dimension: enterprise_wide_6thgeneration_attitude_1 {
+    label: "ask decade"
   }
 
-  dimension: enterprise_wide_non_volatile_parallelism_2 {
-    label: "page security"
+  dimension: diverse_high_level_alliance_2 {
+    label: "hear friend"
   }
 
-  dimension: reverse_engineered_transitional_moratorium_3 {
-    label: "this trip"
+  dimension: monitored_eco_centric_graphical_user_interface_3 {
+    label: "establish allow"
   }
 
-  dimension: right_sized_systematic_process_improvement_4 {
-    label: "early act"
+  dimension: networked_human_resource_open_architecture_4 {
+    label: "example far"
   }
 
-  dimension: future_proofed_human_resource_standardization_5 {
-    label: "forget part"
+  dimension: synergistic_24hour_process_improvement_5 {
+    label: "range free"
   }
 
-  dimension: progressive_dedicated_utilization_6 {
-    label: "buy control"
+  dimension: customer_focused_neutral_model_6 {
+    label: "clearly scientist"
   }
 
-  dimension: inverse_systemic_conglomeration_7 {
-    label: "need than"
+  dimension: virtual_zero_tolerance_open_architecture_7 {
+    label: "girl thus"
   }
 
-  dimension: grass_roots_tangible_implementation_8 {
-    label: "animal probably"
+  dimension: progressive_explicit_help_desk_8 {
+    label: "catch before"
   }
 
   measure: measure_9 {
-    label: "necessary pick"
+    label: "my bad"
   }
 
-  dimension: fundamental_clear_thinking_workforce_10 {
-    label: "structure ball"
+  dimension: centralized_bi_directional_migration_10 {
+    label: "feel thought"
   }
 
-  dimension: realigned_intangible_challenge_11 {
-    label: "wear certainly"
+  dimension: horizontal_leadingedge_graphic_interface_11 {
+    label: "best individual"
   }
 
-  dimension: customer_focused_upward_trending_implementation_12 {
-    label: "exist eight"
+  dimension: secured_mobile_algorithm_12 {
+    label: "bring know"
   }
 
-  dimension: customizable_3rdgeneration_attitude_13 {
-    label: "suggest former"
+  dimension: function_based_didactic_hierarchy_13 {
+    label: "say including"
   }
 
-  dimension: proactive_user_facing_emulation_14 {
-    label: "themselves likely"
+  dimension: triple_buffered_next_generation_matrices_14 {
+    label: "assume million"
   }
 
-  dimension: visionary_interactive_internet_solution_15 {
-    label: "choose environment"
+  dimension: enterprise_wide_leadingedge_circuit_15 {
+    label: "society tell"
   }
 
-  dimension: persistent_eco_centric_process_improvement_16 {
-    label: "prevent it"
+  dimension: advanced_4thgeneration_workforce_16 {
+    label: "PM after"
   }
 
-  dimension: multi_lateral_tertiary_intranet_17 {
-    label: "recent blood"
+  dimension: exclusive_clear_thinking_migration_17 {
+    label: "decade have"
   }
 
-  dimension: synergized_upward_trending_methodology_18 {
-    label: "whatever top"
+  dimension: proactive_executive_analyzer_18 {
+    label: "large truth"
   }
 
   measure: measure_19 {
-    label: "war card"
+    label: "camera well"
   }
 
-  dimension: future_proofed_discrete_product_20 {
-    label: "fly by"
+  dimension: de_engineered_systemic_neural_net_20 {
+    label: "perhaps court"
   }
 
-  dimension: assimilated_web_enabled_contingency_21 {
-    label: "important with"
+  dimension: multi_channeled_5thgeneration_initiative_21 {
+    label: "door think"
   }
 
-  dimension: multi_lateral_multi_state_framework_22 {
-    label: "exactly loss"
+  dimension: organic_solution_oriented_middleware_22 {
+    label: "some relate"
   }
 
-  dimension: progressive_client_driven_installation_23 {
-    label: "action challenge"
+  dimension: advanced_directional_methodology_23 {
+    label: "be international"
   }
 
-  dimension: implemented_secondary_attitude_24 {
-    label: "single rest"
+  dimension: customer_focused_intangible_success_24 {
+    label: "describe enjoy"
   }
 
 }

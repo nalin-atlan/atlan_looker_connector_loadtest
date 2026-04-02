@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_2 {
   sql_table_name: public.synth_m0_v2 ;;
 
   dimension: primary_dimension {
-    label: "subject leader"
+    label: "turn boy"
   }
 
-  dimension: devolved_system_worthy_synergy_1 {
-    label: "produce bill"
+  dimension: multi_channeled_needs_based_adapter_1 {
+    label: "network continue"
   }
 
-  dimension: down_sized_directional_project_2 {
-    label: "investment hit"
+  dimension: cross_platform_next_generation_encryption_2 {
+    label: "enjoy trial"
   }
 
-  dimension: expanded_value_added_graphic_interface_3 {
-    label: "part hospital"
+  dimension: phased_content_based_firmware_3 {
+    label: "test good"
   }
 
-  dimension: public_key_static_process_improvement_4 {
-    label: "prepare because"
+  dimension: devolved_tertiary_database_4 {
+    label: "manage reflect"
   }
 
-  dimension: customer_focused_foreground_help_desk_5 {
-    label: "anyone better"
+  dimension: de_engineered_foreground_architecture_5 {
+    label: "behind fund"
   }
 
-  dimension: phased_global_hierarchy_6 {
-    label: "son deep"
+  dimension: stand_alone_value_added_matrices_6 {
+    label: "somebody part"
   }
 
-  dimension: extended_discrete_time_frame_7 {
-    label: "gas thing"
+  dimension: de_engineered_bottom_line_frame_7 {
+    label: "argue day"
   }
 
-  dimension: open_architected_non_volatile_workforce_8 {
-    label: "chance art"
+  dimension: user_centric_high_level_framework_8 {
+    label: "see bill"
   }
 
   measure: measure_9 {
-    label: "enough especially"
+    label: "its general"
   }
 
-  dimension: secured_multi_tasking_interface_10 {
-    label: "possible test"
+  dimension: face_to_face_zero_administration_encoding_10 {
+    label: "police draw"
   }
 
-  dimension: progressive_methodical_superstructure_11 {
-    label: "stock staff"
+  dimension: advanced_demand_driven_database_11 {
+    label: "goal authority"
   }
 
-  dimension: seamless_static_throughput_12 {
-    label: "letter drive"
+  dimension: decentralized_explicit_contingency_12 {
+    label: "always commercial"
   }
 
-  dimension: proactive_next_generation_installation_13 {
-    label: "fine might"
+  dimension: automated_client_server_methodology_13 {
+    label: "fast begin"
   }
 
-  dimension: intuitive_clear_thinking_access_14 {
-    label: "guy them"
+  dimension: mandatory_uniform_firmware_14 {
+    label: "early society"
   }
 
-  dimension: devolved_responsive_process_improvement_15 {
-    label: "national good"
+  dimension: innovative_executive_leverage_15 {
+    label: "when toward"
   }
 
-  dimension: managed_human_resource_conglomeration_16 {
-    label: "main road"
+  dimension: sharable_24hour_contingency_16 {
+    label: "order allow"
   }
 
-  dimension: total_maximized_adapter_17 {
-    label: "training kid"
+  dimension: multi_channeled_bi_directional_hierarchy_17 {
+    label: "me three"
   }
 
-  dimension: automated_zero_administration_circuit_18 {
-    label: "away must"
+  dimension: configurable_logistical_leverage_18 {
+    label: "probably gas"
   }
 
   measure: measure_19 {
-    label: "city must"
+    label: "believe view"
   }
 
-  dimension: total_zero_tolerance_architecture_20 {
-    label: "too later"
+  dimension: implemented_fresh_thinking_orchestration_20 {
+    label: "view later"
   }
 
-  dimension: pre_emptive_high_level_complexity_21 {
-    label: "hot visit"
+  dimension: inverse_needs_based_focus_group_21 {
+    label: "learn property"
   }
 
-  dimension: networked_bandwidth_monitored_graphic_interface_22 {
-    label: "economy official"
+  dimension: up_sized_clear_thinking_portal_22 {
+    label: "food different"
   }
 
-  dimension: devolved_contextually_based_structure_23 {
-    label: "writer should"
+  dimension: horizontal_fault_tolerant_leverage_23 {
+    label: "nation development"
   }
 
-  dimension: seamless_hybrid_portal_24 {
-    label: "establish guy"
+  dimension: cross_platform_client_driven_middleware_24 {
+    label: "big outside"
   }
 
 }

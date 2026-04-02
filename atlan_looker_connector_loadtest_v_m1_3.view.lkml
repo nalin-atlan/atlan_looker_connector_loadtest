@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_3 {
   sql_table_name: public.synth_m1_v3 ;;
 
   dimension: primary_dimension {
-    label: "there newspaper"
+    label: "away blue"
   }
 
-  dimension: upgradable_well_modulated_policy_1 {
-    label: "live still"
+  dimension: reverse_engineered_modular_info_mediaries_1 {
+    label: "risk several"
   }
 
-  dimension: visionary_zero_tolerance_strategy_2 {
-    label: "really discussion"
+  dimension: configurable_asymmetric_implementation_2 {
+    label: "man magazine"
   }
 
-  dimension: centralized_eco_centric_ability_3 {
-    label: "structure head"
+  dimension: focused_logistical_utilization_3 {
+    label: "forward commercial"
   }
 
-  dimension: programmable_6thgeneration_collaboration_4 {
-    label: "provide suddenly"
+  dimension: exclusive_scalable_methodology_4 {
+    label: "direction we"
   }
 
-  dimension: public_key_zero_defect_graphical_user_interface_5 {
-    label: "employee heart"
+  dimension: multi_lateral_fresh_thinking_core_5 {
+    label: "form lot"
   }
 
-  dimension: assimilated_responsive_algorithm_6 {
-    label: "five him"
+  dimension: open_source_coherent_policy_6 {
+    label: "reveal report"
   }
 
-  dimension: re_engineered_full_range_firmware_7 {
-    label: "position resource"
+  dimension: configurable_3rdgeneration_customer_loyalty_7 {
+    label: "fire near"
   }
 
-  dimension: up_sized_static_intranet_8 {
-    label: "writer animal"
+  dimension: networked_user_facing_parallelism_8 {
+    label: "community know"
   }
 
   measure: measure_9 {
-    label: "song thus"
+    label: "least care"
   }
 
-  dimension: advanced_intermediate_frame_10 {
-    label: "finally service"
+  dimension: sharable_heuristic_service_desk_10 {
+    label: "different commercial"
   }
 
-  dimension: team_oriented_regional_process_improvement_11 {
-    label: "stage study"
+  dimension: right_sized_zero_tolerance_secured_line_11 {
+    label: "which protect"
   }
 
-  dimension: up_sized_exuding_alliance_12 {
-    label: "town themselves"
+  dimension: self_enabling_non_volatile_alliance_12 {
+    label: "white middle"
   }
 
-  dimension: optimized_leadingedge_project_13 {
-    label: "hospital relationship"
+  dimension: re_engineered_executive_graphic_interface_13 {
+    label: "ahead early"
   }
 
-  dimension: cloned_eco_centric_contingency_14 {
-    label: "white learn"
+  dimension: multi_tiered_bifurcated_support_14 {
+    label: "art safe"
   }
 
-  dimension: adaptive_grid_enabled_access_15 {
-    label: "store particularly"
+  dimension: ameliorated_optimizing_hub_15 {
+    label: "avoid assume"
   }
 
-  dimension: grass_roots_web_enabled_policy_16 {
-    label: "poor whether"
+  dimension: down_sized_bottom_line_benchmark_16 {
+    label: "long professional"
   }
 
-  dimension: secured_intermediate_function_17 {
-    label: "light let"
+  dimension: devolved_methodical_installation_17 {
+    label: "authority thus"
   }
 
-  dimension: customizable_zero_tolerance_orchestration_18 {
-    label: "summer author"
+  dimension: customer_focused_24hour_help_desk_18 {
+    label: "leg hair"
   }
 
   measure: measure_19 {
-    label: "despite music"
+    label: "drop together"
   }
 
-  dimension: self_enabling_tangible_intranet_20 {
-    label: "least key"
+  dimension: advanced_asynchronous_functionalities_20 {
+    label: "ahead watch"
   }
 
-  dimension: progressive_empowering_groupware_21 {
-    label: "music identify"
+  dimension: open_source_dynamic_encryption_21 {
+    label: "product hour"
   }
 
-  dimension: progressive_foreground_process_improvement_22 {
-    label: "thank protect"
+  dimension: triple_buffered_dynamic_open_architecture_22 {
+    label: "involve side"
   }
 
-  dimension: fully_configurable_executive_installation_23 {
-    label: "organization spring"
+  dimension: monitored_content_based_collaboration_23 {
+    label: "exactly town"
   }
 
-  dimension: customer_focused_web_enabled_support_24 {
-    label: "light Democrat"
+  dimension: expanded_human_resource_capacity_24 {
+    label: "young voice"
   }
 
 }

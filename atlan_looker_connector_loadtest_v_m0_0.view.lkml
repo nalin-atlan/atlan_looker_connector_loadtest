@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
-    label: "all value"
+    label: "build letter"
   }
 
-  dimension: user_friendly_encompassing_orchestration_1 {
-    label: "us teacher"
+  dimension: cloned_logistical_framework_1 {
+    label: "blood interest"
   }
 
-  dimension: polarized_responsive_knowledgebase_2 {
-    label: "risk hundred"
+  dimension: proactive_tangible_protocol_2 {
+    label: "wide customer"
   }
 
-  dimension: re_contextualized_uniform_functionalities_3 {
-    label: "what by"
+  dimension: customer_focused_interactive_open_architecture_3 {
+    label: "avoid onto"
   }
 
-  dimension: secured_non_volatile_toolset_4 {
-    label: "bit necessary"
+  dimension: fundamental_maximized_focus_group_4 {
+    label: "law beat"
   }
 
-  dimension: fully_configurable_hybrid_contingency_5 {
-    label: "actually theory"
+  dimension: total_object_oriented_focus_group_5 {
+    label: "yard fill"
   }
 
-  dimension: de_engineered_system_worthy_attitude_6 {
-    label: "throw about"
+  dimension: cloned_value_added_customer_loyalty_6 {
+    label: "strong now"
   }
 
-  dimension: distributed_user_facing_superstructure_7 {
-    label: "no itself"
+  dimension: customer_focused_homogeneous_open_system_7 {
+    label: "read pressure"
   }
 
-  dimension: triple_buffered_reciprocal_local_area_network_8 {
-    label: "fact within"
+  dimension: monitored_4thgeneration_utilization_8 {
+    label: "dream ball"
   }
 
   measure: measure_9 {
-    label: "improve sort"
+    label: "somebody glass"
   }
 
-  dimension: switchable_static_hardware_10 {
-    label: "general property"
+  dimension: balanced_asynchronous_encoding_10 {
+    label: "style turn"
   }
 
-  dimension: open_architected_hybrid_structure_11 {
-    label: "century month"
+  dimension: focused_human_resource_graphical_user_interface_11 {
+    label: "too ready"
   }
 
-  dimension: streamlined_asynchronous_parallelism_12 {
-    label: "poor resource"
+  dimension: progressive_asymmetric_alliance_12 {
+    label: "pass method"
   }
 
-  dimension: proactive_local_graphical_user_interface_13 {
-    label: "mean least"
+  dimension: digitized_radical_access_13 {
+    label: "be sound"
   }
 
-  dimension: compatible_secondary_open_system_14 {
-    label: "pass voice"
+  dimension: streamlined_asynchronous_help_desk_14 {
+    label: "reduce final"
   }
 
-  dimension: organic_composite_protocol_15 {
-    label: "one building"
+  dimension: team_oriented_hybrid_focus_group_15 {
+    label: "away only"
   }
 
-  dimension: expanded_intermediate_hierarchy_16 {
-    label: "direction quite"
+  dimension: proactive_methodical_policy_16 {
+    label: "teacher before"
   }
 
-  dimension: visionary_disintermediate_implementation_17 {
-    label: "believe like"
+  dimension: enhanced_4thgeneration_focus_group_17 {
+    label: "policy price"
   }
 
-  dimension: cross_platform_zero_defect_info_mediaries_18 {
-    label: "investment girl"
+  dimension: open_architected_upward_trending_infrastructure_18 {
+    label: "sound hit"
   }
 
   measure: measure_19 {
-    label: "generation important"
+    label: "discover deep"
   }
 
-  dimension: total_high_level_ability_20 {
-    label: "mind staff"
+  dimension: cross_platform_multi_tasking_customer_loyalty_20 {
+    label: "which majority"
   }
 
-  dimension: assimilated_mission_critical_flexibility_21 {
-    label: "situation little"
+  dimension: function_based_heuristic_process_improvement_21 {
+    label: "focus think"
   }
 
-  dimension: progressive_actuating_leverage_22 {
-    label: "pick painting"
+  dimension: distributed_dedicated_productivity_22 {
+    label: "adult offer"
   }
 
-  dimension: de_engineered_systematic_encryption_23 {
-    label: "along discuss"
+  dimension: centralized_methodical_website_23 {
+    label: "office arm"
   }
 
-  dimension: vision_oriented_demand_driven_parallelism_24 {
-    label: "parent network"
+  dimension: polarized_mission_critical_complexity_24 {
+    label: "decade significant"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: public.synth_m1_v0 ;;
 
   dimension: primary_dimension {
-    label: "science father"
+    label: "pressure mouth"
   }
 
-  dimension: reactive_bandwidth_monitored_adapter_1 {
-    label: "civil capital"
+  dimension: persistent_upward_trending_moderator_1 {
+    label: "set send"
   }
 
-  dimension: expanded_regional_access_2 {
-    label: "rather political"
+  dimension: centralized_asymmetric_structure_2 {
+    label: "student material"
   }
 
-  dimension: expanded_24hour_flexibility_3 {
-    label: "want table"
+  dimension: robust_full_range_array_3 {
+    label: "nor wish"
   }
 
-  dimension: mandatory_3rdgeneration_intranet_4 {
-    label: "military purpose"
+  dimension: user_friendly_web_enabled_architecture_4 {
+    label: "look behind"
   }
 
-  dimension: ameliorated_methodical_analyzer_5 {
-    label: "yourself possible"
+  dimension: cloned_contextually_based_initiative_5 {
+    label: "bad worker"
   }
 
-  dimension: fully_configurable_composite_graphic_interface_6 {
-    label: "set across"
+  dimension: fully_configurable_client_driven_complexity_6 {
+    label: "cell real"
   }
 
-  dimension: open_architected_hybrid_infrastructure_7 {
-    label: "offer himself"
+  dimension: ameliorated_transitional_knowledge_user_7 {
+    label: "training prevent"
   }
 
-  dimension: adaptive_logistical_pricing_structure_8 {
-    label: "detail place"
+  dimension: vision_oriented_24_7_migration_8 {
+    label: "south last"
   }
 
   measure: measure_9 {
-    label: "heart west"
+    label: "sport behavior"
   }
 
-  dimension: multi_lateral_scalable_knowledgebase_10 {
-    label: "prepare method"
+  dimension: user_friendly_needs_based_knowledge_user_10 {
+    label: "source leg"
   }
 
-  dimension: advanced_mobile_utilization_11 {
-    label: "section sister"
+  dimension: organized_global_groupware_11 {
+    label: "and responsibility"
   }
 
-  dimension: organic_actuating_synergy_12 {
-    label: "condition around"
+  dimension: digitized_hybrid_info_mediaries_12 {
+    label: "final beat"
   }
 
-  dimension: monitored_zero_administration_firmware_13 {
-    label: "environment imagine"
+  dimension: face_to_face_content_based_collaboration_13 {
+    label: "concern people"
   }
 
-  dimension: business_focused_scalable_product_14 {
-    label: "news such"
+  dimension: organized_well_modulated_intranet_14 {
+    label: "today itself"
   }
 
-  dimension: seamless_directional_core_15 {
-    label: "help food"
+  dimension: robust_full_range_model_15 {
+    label: "spring opportunity"
   }
 
-  dimension: sharable_client_driven_policy_16 {
-    label: "west thing"
+  dimension: fully_configurable_even_keeled_task_force_16 {
+    label: "conference body"
   }
 
-  dimension: implemented_reciprocal_local_area_network_17 {
-    label: "book blue"
+  dimension: reverse_engineered_executive_internet_solution_17 {
+    label: "teacher past"
   }
 
-  dimension: optimized_tertiary_protocol_18 {
-    label: "and senior"
+  dimension: enterprise_wide_context_sensitive_installation_18 {
+    label: "major class"
   }
 
   measure: measure_19 {
-    label: "wait myself"
+    label: "before agreement"
   }
 
-  dimension: multi_lateral_eco_centric_capability_20 {
-    label: "upon green"
+  dimension: phased_5thgeneration_concept_20 {
+    label: "me southern"
   }
 
-  dimension: diverse_impactful_solution_21 {
-    label: "go population"
+  dimension: switchable_mobile_adapter_21 {
+    label: "outside until"
   }
 
-  dimension: intuitive_attitude_oriented_productivity_22 {
-    label: "great above"
+  dimension: expanded_static_forecast_22 {
+    label: "exist concern"
   }
 
-  dimension: public_key_zero_defect_implementation_23 {
-    label: "push listen"
+  dimension: user_centric_asynchronous_challenge_23 {
+    label: "hand final"
   }
 
-  dimension: intuitive_contextually_based_framework_24 {
-    label: "during very"
+  dimension: mandatory_uniform_knowledge_user_24 {
+    label: "community sing"
   }
 
 }

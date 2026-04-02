@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_1 {
   sql_table_name: public.synth_m0_v1 ;;
 
   dimension: primary_dimension {
-    label: "theory couple"
+    label: "raise benefit"
   }
 
-  dimension: enterprise_wide_optimizing_artificial_intelligence_1 {
-    label: "international health"
+  dimension: visionary_motivating_capacity_1 {
+    label: "religious treatment"
   }
 
-  dimension: realigned_systemic_extranet_2 {
-    label: "everyone eat"
+  dimension: multi_channeled_mobile_budgetary_management_2 {
+    label: "or year"
   }
 
-  dimension: implemented_dedicated_groupware_3 {
-    label: "another one"
+  dimension: future_proofed_client_server_budgetary_management_3 {
+    label: "new trial"
   }
 
-  dimension: virtual_reciprocal_benchmark_4 {
-    label: "order total"
+  dimension: customizable_regional_knowledge_user_4 {
+    label: "hundred lot"
   }
 
-  dimension: seamless_background_hub_5 {
-    label: "bill similar"
+  dimension: future_proofed_human_resource_conglomeration_5 {
+    label: "fly just"
   }
 
-  dimension: synchronized_zero_defect_frame_6 {
-    label: "perhaps debate"
+  dimension: assimilated_bi_directional_local_area_network_6 {
+    label: "production style"
   }
 
-  dimension: fundamental_fresh_thinking_leverage_7 {
-    label: "father talk"
+  dimension: visionary_responsive_database_7 {
+    label: "case result"
   }
 
-  dimension: multi_layered_responsive_standardization_8 {
-    label: "sort whether"
+  dimension: focused_interactive_strategy_8 {
+    label: "matter relationship"
   }
 
   measure: measure_9 {
-    label: "guess be"
+    label: "body model"
   }
 
-  dimension: mandatory_zero_tolerance_system_engine_10 {
-    label: "near production"
+  dimension: triple_buffered_zero_administration_monitoring_10 {
+    label: "person purpose"
   }
 
-  dimension: integrated_zero_defect_concept_11 {
-    label: "growth several"
+  dimension: operative_solution_oriented_open_system_11 {
+    label: "popular despite"
   }
 
-  dimension: synergistic_client_driven_migration_12 {
-    label: "well animal"
+  dimension: pre_emptive_bi_directional_secured_line_12 {
+    label: "follow account"
   }
 
-  dimension: mandatory_holistic_time_frame_13 {
-    label: "network figure"
+  dimension: re_contextualized_next_generation_encryption_13 {
+    label: "family explain"
   }
 
-  dimension: virtual_demand_driven_function_14 {
-    label: "page benefit"
+  dimension: phased_directional_leverage_14 {
+    label: "drop fill"
   }
 
-  dimension: enterprise_wide_3rdgeneration_service_desk_15 {
-    label: "both exactly"
+  dimension: devolved_full_range_throughput_15 {
+    label: "her where"
   }
 
-  dimension: fundamental_high_level_monitoring_16 {
-    label: "far daughter"
+  dimension: customizable_reciprocal_attitude_16 {
+    label: "window entire"
   }
 
-  dimension: reduced_modular_ability_17 {
-    label: "history necessary"
+  dimension: extended_stable_implementation_17 {
+    label: "week involve"
   }
 
-  dimension: user_centric_regional_definition_18 {
-    label: "chance general"
+  dimension: de_engineered_needs_based_array_18 {
+    label: "anyone travel"
   }
 
   measure: measure_19 {
-    label: "behind training"
+    label: "crime person"
   }
 
-  dimension: virtual_maximized_core_20 {
-    label: "general onto"
+  dimension: configurable_24hour_customer_loyalty_20 {
+    label: "significant north"
   }
 
-  dimension: customizable_modular_approach_21 {
-    label: "scene woman"
+  dimension: open_architected_motivating_hardware_21 {
+    label: "population speech"
   }
 
-  dimension: triple_buffered_leadingedge_function_22 {
-    label: "trade able"
+  dimension: multi_layered_incremental_ability_22 {
+    label: "fund entire"
   }
 
-  dimension: versatile_multi_tasking_pricing_structure_23 {
-    label: "information cut"
+  dimension: assimilated_mobile_orchestration_23 {
+    label: "total game"
   }
 
-  dimension: ameliorated_multi_tasking_synergy_24 {
-    label: "daughter question"
+  dimension: balanced_logistical_hierarchy_24 {
+    label: "various difficult"
   }
 
 }
