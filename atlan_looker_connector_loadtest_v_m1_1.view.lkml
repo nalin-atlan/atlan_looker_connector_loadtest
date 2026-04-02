@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_1 {
   sql_table_name: public.synth_m1_v1 ;;
 
   dimension: primary_dimension {
-    label: "ball gas"
+    label: "middle military"
   }
 
-  dimension: vision_oriented_value_added_solution_1 {
-    label: "early all"
+  dimension: up_sized_24_7_benchmark_1 {
+    label: "president and"
   }
 
-  dimension: right_sized_web_enabled_encryption_2 {
-    label: "trip scene"
+  dimension: innovative_even_keeled_framework_2 {
+    label: "loss give"
   }
 
-  dimension: versatile_zero_defect_focus_group_3 {
-    label: "simply big"
+  dimension: user_centric_upward_trending_local_area_network_3 {
+    label: "write far"
   }
 
-  dimension: future_proofed_regional_toolset_4 {
-    label: "apply fund"
+  dimension: user_centric_impactful_access_4 {
+    label: "specific machine"
   }
 
-  dimension: user_friendly_multi_tasking_middleware_5 {
-    label: "popular sport"
+  dimension: mandatory_logistical_functionalities_5 {
+    label: "agree again"
   }
 
-  dimension: persevering_user_facing_orchestration_6 {
-    label: "all art"
+  dimension: grass_roots_non_volatile_service_desk_6 {
+    label: "including serve"
   }
 
-  dimension: re_contextualized_clear_thinking_pricing_structure_7 {
-    label: "tree ever"
+  dimension: self_enabling_transitional_knowledge_user_7 {
+    label: "each ahead"
   }
 
-  dimension: reactive_executive_algorithm_8 {
-    label: "save leader"
+  dimension: seamless_global_flexibility_8 {
+    label: "determine budget"
   }
 
   measure: measure_9 {
-    label: "college through"
+    label: "democratic check"
   }
 
-  dimension: expanded_executive_productivity_10 {
-    label: "do cause"
+  dimension: persevering_4thgeneration_standardization_10 {
+    label: "hard let"
   }
 
-  dimension: grass_roots_stable_application_11 {
-    label: "certainly that"
+  dimension: exclusive_full_range_time_frame_11 {
+    label: "too moment"
   }
 
-  dimension: vision_oriented_hybrid_database_12 {
-    label: "factor of"
+  dimension: universal_clear_thinking_toolset_12 {
+    label: "important letter"
   }
 
-  dimension: de_engineered_static_firmware_13 {
-    label: "among clearly"
+  dimension: assimilated_national_protocol_13 {
+    label: "door across"
   }
 
-  dimension: automated_foreground_productivity_14 {
-    label: "power right"
+  dimension: persevering_client_server_data_warehouse_14 {
+    label: "half approach"
   }
 
-  dimension: synergized_24_7_methodology_15 {
-    label: "need well"
+  dimension: object_based_contextually_based_task_force_15 {
+    label: "trial test"
   }
 
-  dimension: decentralized_full_range_moratorium_16 {
-    label: "home pressure"
+  dimension: inverse_radical_graphical_user_interface_16 {
+    label: "expert significant"
   }
 
-  dimension: total_asynchronous_core_17 {
-    label: "already ready"
+  dimension: managed_asymmetric_collaboration_17 {
+    label: "face memory"
   }
 
-  dimension: reverse_engineered_executive_open_system_18 {
-    label: "memory itself"
+  dimension: vision_oriented_intangible_monitoring_18 {
+    label: "such result"
   }
 
   measure: measure_19 {
-    label: "price move"
+    label: "according manage"
   }
 
-  dimension: optimized_fault_tolerant_info_mediaries_20 {
-    label: "outside simply"
+  dimension: compatible_analyzing_function_20 {
+    label: "couple explain"
   }
 
-  dimension: de_engineered_scalable_concept_21 {
-    label: "specific national"
+  dimension: mandatory_foreground_open_architecture_21 {
+    label: "everyone western"
   }
 
-  dimension: switchable_bi_directional_encryption_22 {
-    label: "different specific"
+  dimension: polarized_zero_defect_array_22 {
+    label: "son able"
   }
 
-  dimension: phased_full_range_application_23 {
-    label: "sit soon"
+  dimension: expanded_even_keeled_challenge_23 {
+    label: "pay send"
   }
 
-  dimension: balanced_composite_archive_24 {
-    label: "sit pick"
+  dimension: robust_content_based_interface_24 {
+    label: "PM my"
   }
 
 }

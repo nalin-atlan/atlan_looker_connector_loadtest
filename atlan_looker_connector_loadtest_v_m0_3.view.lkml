@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_3 {
   sql_table_name: public.synth_m0_v3 ;;
 
   dimension: primary_dimension {
-    label: "word senior"
+    label: "hour may"
   }
 
-  dimension: exclusive_tertiary_matrices_1 {
-    label: "science should"
+  dimension: future_proofed_contextually_based_protocol_1 {
+    label: "send build"
   }
 
-  dimension: team_oriented_4thgeneration_ability_2 {
-    label: "heart rest"
+  dimension: multi_lateral_incremental_benchmark_2 {
+    label: "gun out"
   }
 
-  dimension: persistent_human_resource_standardization_3 {
-    label: "point else"
+  dimension: user_centric_mobile_encryption_3 {
+    label: "level eye"
   }
 
-  dimension: robust_exuding_time_frame_4 {
-    label: "ask hospital"
+  dimension: cross_platform_executive_parallelism_4 {
+    label: "process own"
   }
 
-  dimension: monitored_bifurcated_productivity_5 {
-    label: "activity under"
+  dimension: balanced_intermediate_hierarchy_5 {
+    label: "development our"
   }
 
-  dimension: synergized_even_keeled_installation_6 {
-    label: "personal play"
+  dimension: configurable_hybrid_secured_line_6 {
+    label: "deep human"
   }
 
-  dimension: assimilated_well_modulated_focus_group_7 {
-    label: "change between"
+  dimension: down_sized_systematic_flexibility_7 {
+    label: "event star"
   }
 
-  dimension: open_architected_reciprocal_customer_loyalty_8 {
-    label: "at respond"
+  dimension: managed_asymmetric_interface_8 {
+    label: "current cover"
   }
 
   measure: measure_9 {
-    label: "administration large"
+    label: "management happy"
   }
 
-  dimension: seamless_transitional_framework_10 {
-    label: "away half"
+  dimension: cross_group_grid_enabled_extranet_10 {
+    label: "through prevent"
   }
 
-  dimension: realigned_intermediate_implementation_11 {
-    label: "whom article"
+  dimension: universal_radical_system_engine_11 {
+    label: "central debate"
   }
 
-  dimension: adaptive_context_sensitive_extranet_12 {
-    label: "boy cup"
+  dimension: face_to_face_responsive_collaboration_12 {
+    label: "instead season"
   }
 
-  dimension: ameliorated_even_keeled_internet_solution_13 {
-    label: "sort police"
+  dimension: adaptive_real_time_projection_13 {
+    label: "nice writer"
   }
 
-  dimension: grass_roots_responsive_superstructure_14 {
-    label: "religious blue"
+  dimension: open_source_global_moderator_14 {
+    label: "call picture"
   }
 
-  dimension: optional_non_volatile_neural_net_15 {
-    label: "none at"
+  dimension: open_architected_disintermediate_analyzer_15 {
+    label: "loss key"
   }
 
-  dimension: synergistic_attitude_oriented_projection_16 {
-    label: "life fill"
+  dimension: multi_channeled_motivating_monitoring_16 {
+    label: "race above"
   }
 
-  dimension: ergonomic_coherent_info_mediaries_17 {
-    label: "sign floor"
+  dimension: function_based_optimal_intranet_17 {
+    label: "anything behavior"
   }
 
-  dimension: function_based_local_contingency_18 {
-    label: "focus include"
+  dimension: multi_lateral_systemic_migration_18 {
+    label: "position drive"
   }
 
   measure: measure_19 {
-    label: "son quickly"
+    label: "surface information"
   }
 
-  dimension: universal_background_utilization_20 {
-    label: "their today"
+  dimension: implemented_modular_time_frame_20 {
+    label: "hundred continue"
   }
 
-  dimension: cross_platform_empowering_analyzer_21 {
-    label: "picture send"
+  dimension: cross_platform_eco_centric_implementation_21 {
+    label: "participant media"
   }
 
-  dimension: fundamental_maximized_standardization_22 {
-    label: "suggest third"
+  dimension: optional_directional_matrix_22 {
+    label: "minute loss"
   }
 
-  dimension: exclusive_24_7_extranet_23 {
-    label: "much suffer"
+  dimension: switchable_systemic_open_system_23 {
+    label: "during despite"
   }
 
-  dimension: distributed_tangible_matrices_24 {
-    label: "reveal letter"
+  dimension: advanced_tangible_matrices_24 {
+    label: "table so"
   }
 
 }

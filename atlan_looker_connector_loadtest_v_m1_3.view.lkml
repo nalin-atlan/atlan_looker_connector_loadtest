@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_3 {
   sql_table_name: public.synth_m1_v3 ;;
 
   dimension: primary_dimension {
-    label: "away blue"
+    label: "if management"
   }
 
-  dimension: reverse_engineered_modular_info_mediaries_1 {
-    label: "risk several"
+  dimension: front_line_3rdgeneration_benchmark_1 {
+    label: "note carry"
   }
 
-  dimension: configurable_asymmetric_implementation_2 {
-    label: "man magazine"
+  dimension: distributed_demand_driven_core_2 {
+    label: "score weight"
   }
 
-  dimension: focused_logistical_utilization_3 {
-    label: "forward commercial"
+  dimension: innovative_radical_ability_3 {
+    label: "mention official"
   }
 
-  dimension: exclusive_scalable_methodology_4 {
-    label: "direction we"
+  dimension: assimilated_holistic_workforce_4 {
+    label: "fact thought"
   }
 
-  dimension: multi_lateral_fresh_thinking_core_5 {
-    label: "form lot"
+  dimension: networked_upward_trending_ability_5 {
+    label: "debate simple"
   }
 
-  dimension: open_source_coherent_policy_6 {
-    label: "reveal report"
+  dimension: organized_client_driven_pricing_structure_6 {
+    label: "shoulder ask"
   }
 
-  dimension: configurable_3rdgeneration_customer_loyalty_7 {
-    label: "fire near"
+  dimension: ameliorated_bandwidth_monitored_encoding_7 {
+    label: "food north"
   }
 
-  dimension: networked_user_facing_parallelism_8 {
-    label: "community know"
+  dimension: synergistic_tertiary_concept_8 {
+    label: "behavior trouble"
   }
 
   measure: measure_9 {
-    label: "least care"
+    label: "section skill"
   }
 
-  dimension: sharable_heuristic_service_desk_10 {
-    label: "different commercial"
+  dimension: organized_actuating_model_10 {
+    label: "large audience"
   }
 
-  dimension: right_sized_zero_tolerance_secured_line_11 {
-    label: "which protect"
+  dimension: enhanced_maximized_architecture_11 {
+    label: "sure picture"
   }
 
-  dimension: self_enabling_non_volatile_alliance_12 {
-    label: "white middle"
+  dimension: persevering_grid_enabled_complexity_12 {
+    label: "agree radio"
   }
 
-  dimension: re_engineered_executive_graphic_interface_13 {
-    label: "ahead early"
+  dimension: organic_intermediate_projection_13 {
+    label: "above radio"
   }
 
-  dimension: multi_tiered_bifurcated_support_14 {
-    label: "art safe"
+  dimension: balanced_zero_tolerance_open_system_14 {
+    label: "try son"
   }
 
-  dimension: ameliorated_optimizing_hub_15 {
-    label: "avoid assume"
+  dimension: multi_channeled_multimedia_portal_15 {
+    label: "whether often"
   }
 
-  dimension: down_sized_bottom_line_benchmark_16 {
-    label: "long professional"
+  dimension: synergistic_bi_directional_initiative_16 {
+    label: "might politics"
   }
 
-  dimension: devolved_methodical_installation_17 {
-    label: "authority thus"
+  dimension: expanded_multi_tasking_conglomeration_17 {
+    label: "strategy teacher"
   }
 
-  dimension: customer_focused_24hour_help_desk_18 {
-    label: "leg hair"
+  dimension: realigned_multimedia_product_18 {
+    label: "certain also"
   }
 
   measure: measure_19 {
-    label: "drop together"
+    label: "his fill"
   }
 
-  dimension: advanced_asynchronous_functionalities_20 {
-    label: "ahead watch"
+  dimension: expanded_systemic_workforce_20 {
+    label: "read best"
   }
 
-  dimension: open_source_dynamic_encryption_21 {
-    label: "product hour"
+  dimension: implemented_mission_critical_utilization_21 {
+    label: "race whose"
   }
 
-  dimension: triple_buffered_dynamic_open_architecture_22 {
-    label: "involve side"
+  dimension: networked_grid_enabled_superstructure_22 {
+    label: "improve fly"
   }
 
-  dimension: monitored_content_based_collaboration_23 {
-    label: "exactly town"
+  dimension: diverse_5thgeneration_concept_23 {
+    label: "yard consumer"
   }
 
-  dimension: expanded_human_resource_capacity_24 {
-    label: "young voice"
+  dimension: integrated_demand_driven_focus_group_24 {
+    label: "politics impact"
   }
 
 }

@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m0_0 {
   sql_table_name: public.synth_m0_v0 ;;
 
   dimension: primary_dimension {
-    label: "build letter"
+    label: "office increase"
   }
 
-  dimension: cloned_logistical_framework_1 {
-    label: "blood interest"
+  dimension: user_friendly_grid_enabled_adapter_1 {
+    label: "discussion rich"
   }
 
-  dimension: proactive_tangible_protocol_2 {
-    label: "wide customer"
+  dimension: adaptive_solution_oriented_moratorium_2 {
+    label: "apply fact"
   }
 
-  dimension: customer_focused_interactive_open_architecture_3 {
-    label: "avoid onto"
+  dimension: organic_transitional_artificial_intelligence_3 {
+    label: "school from"
   }
 
-  dimension: fundamental_maximized_focus_group_4 {
-    label: "law beat"
+  dimension: organized_needs_based_encryption_4 {
+    label: "spring sit"
   }
 
-  dimension: total_object_oriented_focus_group_5 {
-    label: "yard fill"
+  dimension: realigned_methodical_core_5 {
+    label: "raise organization"
   }
 
-  dimension: cloned_value_added_customer_loyalty_6 {
-    label: "strong now"
+  dimension: front_line_solution_oriented_collaboration_6 {
+    label: "identify war"
   }
 
-  dimension: customer_focused_homogeneous_open_system_7 {
-    label: "read pressure"
+  dimension: reduced_well_modulated_alliance_7 {
+    label: "project situation"
   }
 
-  dimension: monitored_4thgeneration_utilization_8 {
-    label: "dream ball"
+  dimension: stand_alone_global_intranet_8 {
+    label: "create perhaps"
   }
 
   measure: measure_9 {
-    label: "somebody glass"
+    label: "close discussion"
   }
 
-  dimension: balanced_asynchronous_encoding_10 {
-    label: "style turn"
+  dimension: profound_cohesive_archive_10 {
+    label: "back half"
   }
 
-  dimension: focused_human_resource_graphical_user_interface_11 {
-    label: "too ready"
+  dimension: proactive_mission_critical_secured_line_11 {
+    label: "actually usually"
   }
 
-  dimension: progressive_asymmetric_alliance_12 {
-    label: "pass method"
+  dimension: vision_oriented_multi_tasking_neural_net_12 {
+    label: "knowledge now"
   }
 
-  dimension: digitized_radical_access_13 {
-    label: "be sound"
+  dimension: optional_mobile_instruction_set_13 {
+    label: "every notice"
   }
 
-  dimension: streamlined_asynchronous_help_desk_14 {
-    label: "reduce final"
+  dimension: phased_4thgeneration_access_14 {
+    label: "forget hundred"
   }
 
-  dimension: team_oriented_hybrid_focus_group_15 {
-    label: "away only"
+  dimension: universal_attitude_oriented_projection_15 {
+    label: "structure indicate"
   }
 
-  dimension: proactive_methodical_policy_16 {
-    label: "teacher before"
+  dimension: face_to_face_object_oriented_circuit_16 {
+    label: "change difference"
   }
 
-  dimension: enhanced_4thgeneration_focus_group_17 {
-    label: "policy price"
+  dimension: devolved_human_resource_process_improvement_17 {
+    label: "perhaps politics"
   }
 
-  dimension: open_architected_upward_trending_infrastructure_18 {
-    label: "sound hit"
+  dimension: visionary_scalable_graphic_interface_18 {
+    label: "role very"
   }
 
   measure: measure_19 {
-    label: "discover deep"
+    label: "half woman"
   }
 
-  dimension: cross_platform_multi_tasking_customer_loyalty_20 {
-    label: "which majority"
+  dimension: cross_group_even_keeled_circuit_20 {
+    label: "hope four"
   }
 
-  dimension: function_based_heuristic_process_improvement_21 {
-    label: "focus think"
+  dimension: configurable_user_facing_knowledge_user_21 {
+    label: "tax power"
   }
 
-  dimension: distributed_dedicated_productivity_22 {
-    label: "adult offer"
+  dimension: optional_exuding_complexity_22 {
+    label: "will heavy"
   }
 
-  dimension: centralized_methodical_website_23 {
-    label: "office arm"
+  dimension: streamlined_fresh_thinking_application_23 {
+    label: "direction economy"
   }
 
-  dimension: polarized_mission_critical_complexity_24 {
-    label: "decade significant"
+  dimension: cross_group_disintermediate_time_frame_24 {
+    label: "guess method"
   }
 
 }

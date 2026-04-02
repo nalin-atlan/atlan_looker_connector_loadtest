@@ -2,103 +2,103 @@ view: atlan_looker_connector_loadtest_v_m1_0 {
   sql_table_name: public.synth_m1_v0 ;;
 
   dimension: primary_dimension {
-    label: "pressure mouth"
+    label: "relate lawyer"
   }
 
-  dimension: persistent_upward_trending_moderator_1 {
-    label: "set send"
+  dimension: integrated_human_resource_parallelism_1 {
+    label: "special per"
   }
 
-  dimension: centralized_asymmetric_structure_2 {
-    label: "student material"
+  dimension: enhanced_foreground_synergy_2 {
+    label: "consumer sister"
   }
 
-  dimension: robust_full_range_array_3 {
-    label: "nor wish"
+  dimension: assimilated_motivating_framework_3 {
+    label: "agree current"
   }
 
-  dimension: user_friendly_web_enabled_architecture_4 {
-    label: "look behind"
+  dimension: front_line_global_groupware_4 {
+    label: "protect measure"
   }
 
-  dimension: cloned_contextually_based_initiative_5 {
-    label: "bad worker"
+  dimension: polarized_contextually_based_success_5 {
+    label: "party activity"
   }
 
-  dimension: fully_configurable_client_driven_complexity_6 {
-    label: "cell real"
+  dimension: distributed_transitional_methodology_6 {
+    label: "agree with"
   }
 
-  dimension: ameliorated_transitional_knowledge_user_7 {
-    label: "training prevent"
+  dimension: implemented_attitude_oriented_access_7 {
+    label: "bill fine"
   }
 
-  dimension: vision_oriented_24_7_migration_8 {
-    label: "south last"
+  dimension: persevering_well_modulated_projection_8 {
+    label: "knowledge fill"
   }
 
   measure: measure_9 {
-    label: "sport behavior"
+    label: "tax issue"
   }
 
-  dimension: user_friendly_needs_based_knowledge_user_10 {
-    label: "source leg"
+  dimension: managed_human_resource_help_desk_10 {
+    label: "school agent"
   }
 
-  dimension: organized_global_groupware_11 {
-    label: "and responsibility"
+  dimension: versatile_fresh_thinking_time_frame_11 {
+    label: "wall past"
   }
 
-  dimension: digitized_hybrid_info_mediaries_12 {
-    label: "final beat"
+  dimension: exclusive_fresh_thinking_superstructure_12 {
+    label: "clear party"
   }
 
-  dimension: face_to_face_content_based_collaboration_13 {
-    label: "concern people"
+  dimension: enterprise_wide_real_time_secured_line_13 {
+    label: "wish talk"
   }
 
-  dimension: organized_well_modulated_intranet_14 {
-    label: "today itself"
+  dimension: ergonomic_zero_administration_local_area_network_14 {
+    label: "whole eat"
   }
 
-  dimension: robust_full_range_model_15 {
-    label: "spring opportunity"
+  dimension: triple_buffered_intermediate_structure_15 {
+    label: "girl threat"
   }
 
-  dimension: fully_configurable_even_keeled_task_force_16 {
-    label: "conference body"
+  dimension: user_centric_optimizing_software_16 {
+    label: "hold though"
   }
 
-  dimension: reverse_engineered_executive_internet_solution_17 {
-    label: "teacher past"
+  dimension: streamlined_multi_tasking_intranet_17 {
+    label: "nor large"
   }
 
-  dimension: enterprise_wide_context_sensitive_installation_18 {
-    label: "major class"
+  dimension: adaptive_asynchronous_help_desk_18 {
+    label: "begin rise"
   }
 
   measure: measure_19 {
-    label: "before agreement"
+    label: "information wonder"
   }
 
-  dimension: phased_5thgeneration_concept_20 {
-    label: "me southern"
+  dimension: universal_client_server_time_frame_20 {
+    label: "spring project"
   }
 
-  dimension: switchable_mobile_adapter_21 {
-    label: "outside until"
+  dimension: seamless_4thgeneration_capacity_21 {
+    label: "key near"
   }
 
-  dimension: expanded_static_forecast_22 {
-    label: "exist concern"
+  dimension: optimized_multi_tasking_local_area_network_22 {
+    label: "somebody ball"
   }
 
-  dimension: user_centric_asynchronous_challenge_23 {
-    label: "hand final"
+  dimension: customizable_needs_based_encoding_23 {
+    label: "program modern"
   }
 
-  dimension: mandatory_uniform_knowledge_user_24 {
-    label: "community sing"
+  dimension: persevering_cohesive_product_24 {
+    label: "suggest ground"
   }
 
 }
